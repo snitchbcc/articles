@@ -1,7 +1,7 @@
 ---
 title: GOP Congressmen Storm Area 51, Demand that Proceedings be Made Public
 authors: Dale Bell
-date: 2019-11-19T05:00:00.000Z
+date: 2019-11-19
 ---
 
 Earlier today, 41 Republican congressmen led by Florida Representative Matt Gitz gathered outside Area 51’s gate and appeared to be preparing to storm the United States Air Force test and training range, which has long been believed to hold information on extraterrestrials. During preparations, Gitz gave an impromptu press conference; 

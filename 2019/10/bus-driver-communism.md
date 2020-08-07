@@ -1,7 +1,7 @@
 ---
 title: Bus Driver Rules Like Dictator Of Small Communist Country
 authors: Dale Bell
-date: 2019-10-28T04:00:00.000Z
+date: 2019-10-28
 ---
 
 In a stunning move yesterday, Lyudmila Autovich, driver of the 1123 bus, has asserted complete dictatorial power over the vehicle’s occupants after a year long campaign. This 57 year-old from Sauronastan is bringing a taste of the old country to BCC. In Sauronastan, Lyudmila was the Minister of Truth for government’s youth army corps before it was toppled by a NATO police action. After escaping custody en route to the Hague she came to the United States and took a job as a bus driver. Her first action as lead executive of the 1123 bus line was to crush opposition by forcing dissenters off the bus miles away from their homes.

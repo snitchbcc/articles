@@ -1,7 +1,7 @@
 ---
 title: Whitman affiliated scientist says that quote: “Pan Super Weapon is almost ready for deployment”
 authors: Abigail “Y.M.I. Doingthis” Hogewood and Auguste Rame
-date: 2019-10-21T04:00:00.000Z
+date: 2019-10-21
 ---
 
 This past Saturday, an unnamed scientist inexplicably associated with Walt Whitman High School shocked the world with harrowing news. 

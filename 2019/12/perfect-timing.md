@@ -1,7 +1,7 @@
 ---
 title: Nation’s Aunts Announce Plans To Bring New Trump Supporting Boyfriend To Christmas
 authors: Dale Bell
-date: 2019-12-27T05:00:00.000Z
+date: 2019-12-27
 ---
 
 Continuing their annual trend of Holiday disruption, the nation’s unstable Aunts have announced that they will be bringing their new Trump supporting boyfriends to Christmas dinner. The Aunts’ chosen spokesperson, Linda from your Mother’s side, has confirmed that her boyfriend of three weeks, Brian Tate, will indeed be joining your family for Christmas, and that he will be wearing a MAGA hat.  

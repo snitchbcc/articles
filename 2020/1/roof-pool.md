@@ -1,7 +1,7 @@
 ---
 title: Freshman Still Unsure About Pool On Roof, Too Afraid To Ask
 authors: Bill Angell
-date: 2020-01-23T05:00:00.000Z
+date: 2020-01-23
 ---
 
 Freshman Arlene Richardson is reportedly confused over the existence of the rumored roof-pool. When asked for a comment, Richardson declined to comment. However, her journal, which has been obtained by The Snitch, details her quest to find the truth on the pool’s existence, whose quest has taken up several pages. Between her entries to determine if “The cute boy in bio is into me” and an emotional retelling of her dog’s death, she detailed her interview with building services. Said interview was subsequently doodled over. 

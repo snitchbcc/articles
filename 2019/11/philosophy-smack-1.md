@@ -1,7 +1,7 @@
 ---
 title: "Philosophy Smack #1"
 authors: Dale Bell
-date: 2019-11-19T05:00:00.000Z
+date: 2019-11-19
 ---
 
 Are you having problems at school? Do you need advice from a group of learned philosophers who can answer questions while also sharing their personal approaches to life? Well, in our new column your questions are answered by the most brilliant thinkers of their time. Friedrich Nietzsche, Sigmund Freud, and Thomas Hobbes give you their practical insights into your life and help you with your problems. Are you wondering how, since each of them is dead, we got them to write for our paper? How about we focus on you. 

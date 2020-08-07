@@ -1,7 +1,7 @@
 ---
 title: Student Achieves Nirvana By Mastering All IB Learner Traits
 authors: Dale Bell
-date: 2020-02-04T05:00:00.000Z
+date: 2020-02-04
 ---
 
 The second floor of the BCC F-Wing shook with power today when an IB Student, after weeks of reflection, came to a complete understanding of all of the IB Learner traits. Sources from inside the 4th period ToK class described student Raymond Franzen as intently studying the IB website until sometime around the middle of the class when he slumped back in his chair serenely while muttering “I’ve done it.”

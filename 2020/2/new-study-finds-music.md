@@ -1,7 +1,7 @@
 ---
 title: New Study Finds Music You Listen To Is Better than Music Anyone Else Listens To
 authors: Dale Bell
-date: 2020-02-03T05:00:00.000Z
+date: 2020-02-03
 ---
 
 A study released Friday by Fälschung University, in Frankfurt, has found conclusive evidence that you, the person who is currently reading this article, has the best taste in music in the entire world, and that everything that every other person considers to be any good is complete and utter garbage.  
