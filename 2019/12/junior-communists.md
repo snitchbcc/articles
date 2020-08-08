@@ -1,7 +1,7 @@
 ---
 title: Junior Communists Clash On How To Achieve Equality
 authors: Bill Angell
-date: 2019-12-15
+date: 15
 tags:
   - local
   - politics

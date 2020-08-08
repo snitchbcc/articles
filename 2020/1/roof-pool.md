@@ -1,7 +1,7 @@
 ---
 title: Freshman Still Unsure About Pool On Roof, Too Afraid To Ask
 authors: Bill Angell
-date: 2020-01-23
+date: 23
 tags:
   - local
 ---

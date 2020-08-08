@@ -1,7 +1,7 @@
 ---
 title: "Philosophy Smack #1"
 authors: Dale Bell
-date: 2019-11-19
+date: 19
 tags:
   - advice
 ---

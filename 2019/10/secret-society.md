@@ -1,7 +1,7 @@
 ---
 title: New Secret Society Announces Open Call For New Members
 authors: Bill Angell
-date: 2019-10-28
+date: 28
 tags:
   - local
   - featured

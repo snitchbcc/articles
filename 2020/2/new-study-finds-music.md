@@ -1,7 +1,7 @@
 ---
 title: New Study Finds Music You Listen To Is Better than Music Anyone Else Listens To
 authors: Dale Bell
-date: 2020-02-03
+date: 03
 tags:
   - featured
   - local

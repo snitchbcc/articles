@@ -1,7 +1,7 @@
 ---
 title: Student Achieves Nirvana By Mastering All IB Learner Traits
 authors: Dale Bell
-date: 2020-02-04
+date: 04
 tags:
   - local
   - featured

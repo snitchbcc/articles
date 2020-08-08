@@ -1,7 +1,7 @@
 ---
 title: Bus Driver Rules Like Dictator Of Small Communist Country
 authors: Dale Bell
-date: 2019-10-28
+date: 28
 tags:
   - local
   - politics

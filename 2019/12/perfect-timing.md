@@ -1,7 +1,7 @@
 ---
 title: Nation’s Aunts Announce Plans To Bring New Trump Supporting Boyfriend To Christmas
 authors: Dale Bell
-date: 2019-12-27
+date: 27
 tags:
   - local
   - featured

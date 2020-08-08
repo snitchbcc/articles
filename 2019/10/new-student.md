@@ -1,7 +1,7 @@
 ---
 title: Meet The Newest Member Of Our BCC Community!
 authors: Daniel Siegel
-date: 2019-10-28
+date: 28
 tags:
   - local
   - featured
