@@ -2,6 +2,9 @@
 title: New Trend, "Van Goghing", Sweeps Nation
 authors: Dale Bell
 date: 2019-10-28
+tags:
+  - featured
+  - culture
 ---
 
 First there were tide pods, then there was vaping, but this wacky new trend that's working its way through the country is putting all the others to shame.

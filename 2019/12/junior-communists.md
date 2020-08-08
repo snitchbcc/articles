@@ -2,6 +2,9 @@
 title: Junior Communists Clash On How To Achieve Equality
 authors: Bill Angell
 date: 2019-12-15
+tags:
+  - local
+  - politics
 ---
 
 Anonymous sources inside the Junior Communists Club have reportedly split on how best to achieve equality. The club, notable for having no leader and simultaneously a club full of equal leaders have begun to clash on what equality should look like in BCC.  Although the factions have no set leaders, two seniors appear to be the centers of debate. 
