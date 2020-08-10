@@ -1,5 +1,5 @@
 ---
-title: "Whitman affiliated scientist says that quote: “Pan Super Weapon is almost ready for deployment”"
+title: "Whitman Affiliated Scientist Indicates That Pan Super Weapon is Almost Ready for Deployment"
 authors: "Abigail “Y.M.I. Doingthis” Hogewood and Auguste Rame"
 date: 21
 tags:
