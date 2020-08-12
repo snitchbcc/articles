@@ -1,5 +1,5 @@
 ---
-title: Philosophy Smack 2
+title: "Philosophy Smack #2"
 authors: Dale Bell
 date: 12
 tags:
