@@ -1,5 +1,5 @@
 ---
-title: GOP Congressmen Storm Area 51, Demand that Proceedings be Made Public
+title: GOP Congressmen Storm Area 51, Demand That Proceedings Be Made Public
 authors: Dale Bell
 date: 19
 tags:
