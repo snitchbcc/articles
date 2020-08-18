@@ -5,6 +5,7 @@ date: 12
 tags:
   - featured
   - advice
+series: Philosophy Smack
 ---
 
 Today we are issuing our second **Philosophy Smack** advice column. 
