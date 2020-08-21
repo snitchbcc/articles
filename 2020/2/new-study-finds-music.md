@@ -1,5 +1,5 @@
 ---
-thumbnail: https://images.unsplash.com/photo-1453738773917-9c3eff1db985?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
+thumbnail: content://kid_singing.jpeg
 title: New Study Finds Music You Listen To Is Better than Music Anyone Else Listens To
 authors: Dale Bell
 date: 3
