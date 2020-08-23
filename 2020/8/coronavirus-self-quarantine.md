@@ -1,4 +1,5 @@
 ---
+thumbnail: content://joe.jpeg
 title: Coronavirus Announces Self Quarantine After Worrying Exposure To Louie Gohmert
 authors: Dale Bell 
 date: 16
