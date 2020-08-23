@@ -1,4 +1,5 @@
 ---
+thumbnail: content://fred.jpeg
 title: "Philosophy Smack #1"
 authors: Dale Bell
 date: 19
