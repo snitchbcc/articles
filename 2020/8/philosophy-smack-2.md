@@ -1,4 +1,5 @@
 ---
+thumbnail: content://mac.jpeg
 title: "Philosophy Smack #2"
 authors: Dale Bell
 date: 12
