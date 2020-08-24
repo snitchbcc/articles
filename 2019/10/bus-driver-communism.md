@@ -1,5 +1,5 @@
 ---
-thumbnail: content://bus.jpg
+thumbnail: content://bus.jpeg
 title: Bus Driver Rules Like Dictator Of Small Communist Country
 authors: Dale Bell
 date: 28
