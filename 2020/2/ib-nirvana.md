@@ -1,5 +1,5 @@
 ---
-thumbnail: content://nirvana.jpg
+thumbnail: content://nirvana.jpeg
 title: Student Achieves Nirvana By Mastering All IB Learner Traits
 authors: Dale Bell
 date: 4
