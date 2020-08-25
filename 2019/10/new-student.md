@@ -1,4 +1,5 @@
 ---
+thumbnail: content://donna_hoodie.jpg
 title: Meet The Newest Member Of Our BCC Community!
 authors: Daniel Siegel
 date: 28
