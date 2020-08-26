@@ -1,5 +1,5 @@
 ---
-thumbnail: content://russia.jpeg
+thumbnail: content://pride.jpeg
 title: Seven Deadly Sins, Misinterpreting Pride Month, Demand Own Months
 authors: Benjy Eichner
 date: 26
