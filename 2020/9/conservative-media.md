@@ -1,6 +1,6 @@
 ---
 thumbnail: content://tucker.jpeg
-title: Conservative Media Outraged After Kidnapped Protestors In Unmarked Van Forced To Wear Masks
+title: Conservative Media Outraged After Kidnapped Protestors In Unmarked Vans Forced To Wear Masks
 authors: Dale Bell
 date: 2
 tags:
