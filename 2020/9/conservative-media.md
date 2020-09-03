@@ -8,7 +8,7 @@ tags:
   - featured
 ---
 
-Conservative media was outraged this week after sources confirmed that protestors, who have for the past several weeks have been forced into unmarked vans by unidentified federal agents, were required to wear masks in compliance with local law.
+Conservative media was outraged this week after sources confirmed that protestors forced into unmarked vans by unidentified federal agents were required to wear masks in compliance with local law.
 
 Seething-mass-of-bigoted-rats-in-ill-fitting-human-skin Tucker Carlson took part of his anger hour to adress the scandal, saying,
 
