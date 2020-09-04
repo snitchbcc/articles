@@ -1,8 +1,8 @@
 ---
 thumbnail: content://agents.jpg
-title: 
-authors: 
-date:
+title: test
+authors: test
+date:4
 tags:
   - latest
   - culture
