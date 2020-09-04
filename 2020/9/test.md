@@ -2,7 +2,7 @@
 thumbnail: content://agents.jpg
 title: test
 authors: test
-date:4
+date: 4
 tags:
   - latest
   - culture
