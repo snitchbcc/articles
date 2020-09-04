@@ -1,5 +1,5 @@
 ---
-thumbnail: content://
+thumbnail: content://agents.jpg
 title: 
 authors: 
 date:
