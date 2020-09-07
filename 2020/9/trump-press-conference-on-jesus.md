@@ -1,6 +1,6 @@
 ---
 thumbnail: content://jesus.jpeg
-title: Trump On Jesus: "I Like Gods Who Don't Get Killed.”
+title: "Trump On Jesus: “I Like Gods Who Don't Get Killed.”"
 authors: Dale Bell
 date: 7
 tags:
