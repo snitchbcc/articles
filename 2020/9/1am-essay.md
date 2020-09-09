@@ -1,6 +1,6 @@
 ---
 thumbnail: content://essay.jpg
-title: Report: "Essay Written At 1:00 AM Less Coherent Than Previously Thought"
+title: "Report: Essay Written At 1:00 AM Less Coherent Than Previously Thought"
 authors: Dale Bell
 date: 9/9/2020
 tags:
