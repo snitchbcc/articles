@@ -1,6 +1,7 @@
 ---
 thumbnail: content://file_drawer.jpg
 title: What The Administration Doesn’t Want You To Know
+description: For your eyes only
 authors: Bill Angell
 date: 9
 tags:
