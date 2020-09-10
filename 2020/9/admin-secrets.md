@@ -11,7 +11,7 @@ tags:
 ---
 
 <p class="j">
-Before we reveal to you the secrets the BCC administration have long kept, we would like to thank R<s>ick</s> A<s>stley</s>, an anonymous source who helped make this article possible, as well as the B-CC administration, which edited this article for clarity.
+Before we reveal to you the secrets the BCC administration have long kept, we would like to thank R<s>ick</s> A<s>stley</s>, an anonymous source who helped make this article possible, as well as the B-CC administration which edited this article for clarity.
 
 <s>We're no strangers to love You know the </s>rules<s> and so do I A full commitment's what I'm thinking of You wouldn't get this from any other guy I just wanna </s>plot<s> tell you how I'm feeling Gotta make you understand
 Never gonna give you up Never gonna let you down </s>conspiracy<s> Never gonna run around and desert you Never gonna make you cry Never gonna say goodbye Never gonna tell a lie and hurt you </s>1.5% of school budget<s> Never gonna give you up Never gonna let you down Never gonna run around and desert you Never gonna make you cry Never gonna say goodbye Never gonna tell a lie and hurt you 
