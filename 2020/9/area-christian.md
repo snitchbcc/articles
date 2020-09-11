@@ -8,7 +8,7 @@ tags:
   - featured
 ---
 
-Admitting that he was not entirely sure which denomination’s church he attended, area Christian, Gregory Vaughn, later clarified to Snitch reporters that by not entirely sure he had actually meant he had absolutely no idea what type of Christian he was.
+Admitting that he was not entirely sure which denomination’s church he attended, area Christian Gregory Vaughn later clarified to *Snitch* reporters that by not entirely sure he actually meant he had absolutely no idea what type of Christian he was.
 
 “I mean I think I’m a protestant, but the priest at my church wears one of those huge funny hats? But I think he also might be married. Do you guys know what type of priests can get married?”
 
