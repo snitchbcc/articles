@@ -17,7 +17,7 @@ Are you having problems at school? Do you need advice from a group of learned ph
 
 **Immanuel Kant**: Look, I’ve got plenty of advice, but no one cares. The second you saw my name you thought you knew everything about me because you watched the damn Good Place. Well guess what, I don’t even want to help you!
 
-**Niccolo Machiavelli**: To conquer the many headed beast that is the college search you must wrench power from the hands of the colleges, use all of your guile, and assert your dominance over them. Wear a Harvard shirt to any college interviews as an intimidation tactic.
+**Niccolo Machiavelli**: To conquer the many headed beast that is the college search you must wrench power from the hands of the colleges, use all of your guile. I recommend wearing a Harvard shirt to any college tours as an intimidation tactic.
 
 **Hobbes**: The college search is nasty, brutish, and short.
 
