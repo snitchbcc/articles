@@ -1,4 +1,5 @@
 ---
+thumbnail: content://baron.png
 title: Baron Mascot Under Fire After Nobility Protest Insensitive Portrayal
 authors: Dale Bell
 date: 21
