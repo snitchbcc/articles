@@ -1,6 +1,6 @@
 ---
 thumbnail: content://gender.jpg
-title: Historians Find Evidence Franco-Prussian War Started by Gender Reveal Party 
+title: Historians Find Evidence Franco-Prussian War Started By Gender Reveal Party 
 authors: Dale Bell
 date: 24
 tags:
