@@ -1,7 +1,7 @@
 ---
 thumbnail: content://fig.png
 title: "China Vows To Defeat Russia At 2020 US Elections"
-authors: Auguste Rame and Caleb Levy
+authors: "Auguste Rame, Caleb Levy"
 date: 26
 tags:
   - featured
