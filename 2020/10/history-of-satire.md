@@ -27,7 +27,7 @@ German printmaker Jonas of Brandenburg uses humor as social commentary by postin
 Satire is first used to bring people together when pamphleteer Frederick Agony is tarred and feathered by both British and American Revolutionary forces after publishing a pamphlet called “Uncommon Sense.”
 
 **1950 CE:**
-American humorist Fred Helman is brought before the HUAC after publishing an article titled “I know the names of five whiskey bottles in Joe Mccarthy when he made up his communist list.”
+American humorist Fred Helman is brought before the HUAC after publishing an article titled “I know the names of five whiskey bottles in Joe McCarthy when he made up his communist list.”
 
 **2019 CE:**
 *The Snitch* is founded after a student at B-CC decides he needs an extra activity to fill a blank space on his resume.
