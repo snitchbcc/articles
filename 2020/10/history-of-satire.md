@@ -18,16 +18,16 @@ The first attempt at satire is recorded in a cave painting where bunny ears are 
 The Egyptian scholar Maat of Alexandria is executed after drawing a mustache on a sphinx statue.
 
 **60 CE:**
-John of Bethesda is crucified by Roman authorities after distributing a scroll inscribed with ?Emperor Nero is a zero.?
+John of Bethesda is crucified by Roman authorities after distributing a scroll inscribed with “Emperor Nero is a zero.”
 
 **1517 CE:**
-German printmaker Jonas of Brandenburg uses humor as social commentary by posting ?95 reasons why Cardinal Tetzel smells like horse dung? on a church door. He was burned at the stake as a heretic two days later.
+German printmaker Jonas of Brandenburg uses humor as social commentary by posting “95 reasons why Cardinal Tetzel smells like horse dung” on a church door. He was burned at the stake as a heretic two days later.
 
 **1776 CE:** 
-Satire is first used to bring people together when pamphleteer Frederick Agony is tarred and feathered by both British and American Revolutionary forces after publishing a pamphlet called ?Uncommon Sense.?
+Satire is first used to bring people together when pamphleteer Frederick Agony is tarred and feathered by both British and American Revolutionary forces after publishing a pamphlet called “Uncommon Sense.”
 
 **1950 CE:**
-American humorist Fred Helman is brought before the HUAC after publishing an article titled ?I know the names of five whiskey bottles in Joe Mccarthy when he made up his communist list.?
+American humorist Fred Helman is brought before the HUAC after publishing an article titled “I know the names of five whiskey bottles in Joe Mccarthy when he made up his communist list.”
 
 **2019 CE:**
 *The Snitch* is founded after a student at B-CC decides he needs an extra activity to fill a blank space on his resume.
