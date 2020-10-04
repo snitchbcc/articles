@@ -1,6 +1,6 @@
 ---
 thumbnail: content://mail.jpeg
-title: "In Avalanche Of Irony, Trump Contracts COVID, Teargases Self In Face, And Gets Run Over By Mail Truck"
+title: "In Avalanche Of Karmic Justice, Trump Contracts COVID, Teargases Self In Face, And Gets Run Over By Mail Truck"
 authors: Dale Bell
 date: 3
 tags:
@@ -8,7 +8,7 @@ tags:
   - politics
 ---
 
-Yesterday, in what experts are calling an “avalanche of irony”, President Donald Trump contracted the coronavirus, accidentally opened a can of tear gas in his face, and was run over by a mail truck. 
+Yesterday, in what experts are calling an “avalanche of karmic justice," President Donald Trump contracted the coronavirus, accidentally opened a can of tear gas in his face, and was run over by a mail truck. 
 
 The President’s hectic day started at 1 AM, when his coronavirus test came back positive. This came after months of Trump and his circle refusing to wear masks, ignoring social distancing guidelines, and diminishing the virus. 
 
