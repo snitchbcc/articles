@@ -1,6 +1,6 @@
 ---
 thumbnail: content://history.jpeg
-title: "Infographic: The History of Satire"
+title: "Infographic: The History Of Satire"
 authors: Dale Bell
 date: 3
 tags:
