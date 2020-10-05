@@ -7,6 +7,7 @@ tags:
   - featured
   - culture
   - local
+  - cartoon
 ---
 
-Welcome to *The Snitch*'s newest enterprise. Cartoons!
+Do you get it? *The lacrosse sticks are comically long.*
