@@ -8,3 +8,5 @@ tags:
   - culture
   - local
 ---
+
+Welcome to *The Snitch*'s newest enterprise. Cartoons!
