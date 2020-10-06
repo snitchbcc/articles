@@ -10,4 +10,4 @@ tags:
   - cartoon
 ---
 
-Do you get it? *The lacrosse sticks are comically long.*
+In keeping with social distancing guidelines, lacrosse sticks get an update in the post COVID world.
