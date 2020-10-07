@@ -6,7 +6,6 @@ date: 6
 tags:
   - featured
   - local
-  - politics
   - culture
 ---
 
