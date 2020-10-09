@@ -14,7 +14,7 @@ We here at *The Snitch* went to Mac’s house to further investigate. His house 
 	
 Apparently satisfied, he led us into his house. Every wall in the house was covered with ceiling high shelves, each holding swords, knives, and every other bladed weapon known to man. We were able to identify a katana, an epee, a fencing sabre, a long sword, a rapier, a broad sword, multiple daggers, and even a scythe among the hundreds of weapons. However, the real prize was in his bedroom, a gladius which he claimed was authentic, dating back to the beginning of the Roman Empire. Showing it off, he bragged, “I’ve practiced with every sword I could get my hands on, I tried knives and even cleavers, but nothing, nothing has felt more perfect than this gladius. When the time comes, I will fight Death itself with this blade. I’ve studied the old Roman teachings, and I know that I could fight and defeat Death! I will live FOREVER!” he finished in a crazed howl.
 
-Leaving him there, sword raised confidently in the air,  we decided we should add the following disclaimers to this article:
-1. No, you can not fight Death. It is intangible
+Leaving him there, sword raised confidently in the air, we decided we should add the following disclaimers to this article:
+1. No, you can not fight Death - it is intangible
 2. Collecting bladed weapons will not help you live longer
 3. Scythes make horrible weapons
