@@ -4,7 +4,7 @@ title: "Philosophy Smack #1"
 authors: Dale Bell
 date: 19
 tags:
-  - advice
+  - series
   - featured
 series: Philosophy Smack
 ---

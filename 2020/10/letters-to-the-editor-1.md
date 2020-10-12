@@ -5,7 +5,7 @@ authors: Dale Bell
 date: 12
 tags:
   - featured
-  - advice
+  - series
   - local
 ---
 

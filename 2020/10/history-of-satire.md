@@ -6,7 +6,7 @@ date: 3
 tags:
   - featured
   - local
-  - advice
+  - series
 ---
 
 Did you know that before *The Snitch* perfected the art of satire, other people and organizations tried? We at *The Snitch*, as the foremost humor publication in the known universe, feel that it is our duty to pay respects to the primitive attempts at satire that have come before us. 

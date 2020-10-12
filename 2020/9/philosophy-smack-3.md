@@ -5,7 +5,7 @@ authors: Dale Bell
 date: 30
 tags:
   - featured
-  - advice
+  - series
 series: Philosophy Smack
 ---
 
