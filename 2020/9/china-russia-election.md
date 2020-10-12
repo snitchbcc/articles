@@ -4,7 +4,6 @@ title: "China Vows To Defeat Russia At 2020 US Elections"
 authors: "Auguste Rame, Caleb Levy"
 date: 26
 tags:
-  - featured
   - politics
 ---
 

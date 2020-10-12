@@ -5,7 +5,6 @@ authors: Dale Bell
 date: 19
 tags:
   - series
-  - featured
 series: Philosophy Smack
 ---
 

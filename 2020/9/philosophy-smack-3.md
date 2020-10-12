@@ -4,7 +4,6 @@ title: "Philosophy Smack #3"
 authors: Dale Bell
 date: 30
 tags:
-  - featured
   - series
 series: Philosophy Smack
 ---

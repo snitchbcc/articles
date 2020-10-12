@@ -4,8 +4,8 @@ title: "Criminology Report Finds Majority Of Murders Occur During Games Of Uno"
 authors: Bruno Chong
 date: 12
 tags:
-  - featured
   - local
+  - culture
 ---
 
 “UNO!”

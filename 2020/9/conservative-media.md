@@ -5,7 +5,6 @@ authors: Dale Bell
 date: 2
 tags:
   - politics
-  - featured
 ---
 
 Conservative media was outraged this week after sources confirmed that protestors forced into unmarked vans by unidentified federal agents were required to wear masks in compliance with local law.

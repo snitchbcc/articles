@@ -4,7 +4,6 @@ title: Seven Deadly Sins, Misinterpreting Pride Month, Demand Own Months
 authors: Benjy Eichner
 date: 26
 tags:
-  - featured
   - local
 ---
 

@@ -4,7 +4,6 @@ title: "Infographic: The History Of Satire"
 authors: Dale Bell
 date: 3
 tags:
-  - featured
   - local
   - series
 ---

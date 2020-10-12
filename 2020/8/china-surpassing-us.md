@@ -5,7 +5,6 @@ authors: Caleb Levy
 date: 31
 tags:
   - politics
-  - featured
 ---
 
 Yes.

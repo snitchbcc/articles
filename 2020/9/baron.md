@@ -5,7 +5,6 @@ authors: Dale Bell
 date: 21
 tags:
   - local
-  - featured
 ---
 
 The B-CC Baron is under fire today, after a large gathering of nobility protested the insensitive portrayal of landed gentry. The protest was attended by nobility from all over the world. Prussian *Junkers*, French *Chevaliers*, Japanese *Kazoku*, and countless viscounts, earls, and marquis were all present to protest what they consider blatantly stereotyping. 

@@ -4,7 +4,6 @@ title: Inventor Of Welcome Mat Uncovered As Vampire Looking For Easy Access To H
 authors: Benjy Eichner
 date: 7
 tags:
-  - featured
   - local
 ---
 

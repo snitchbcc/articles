@@ -4,7 +4,6 @@ title: New Study Finds Music You Listen To Is Better than Music Anyone Else List
 authors: Dale Bell
 date: 3
 tags:
-  - featured
   - local
   - culture
 ---

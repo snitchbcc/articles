@@ -4,7 +4,6 @@ title: After Years Of Therapy, Null Hypothesis Opens Up About Fear Of Rejection
 authors: Dale Bell 
 date: 14
 tags:
-  - featured
   - local
 ---
 

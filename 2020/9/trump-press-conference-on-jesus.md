@@ -4,7 +4,6 @@ title: "Trump On Jesus: “I Like Gods Who Don't Get Killed.”"
 authors: Dale Bell
 date: 7
 tags:
-  - featured
   - politics
 ---
 

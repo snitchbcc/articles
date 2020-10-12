@@ -4,7 +4,6 @@ title: "Students Asked To Stop Planning Bank Robbery During Zoom Class"
 authors: Bill Angell
 date: 7
 tags:
-  - featured
   - local
 ---
 

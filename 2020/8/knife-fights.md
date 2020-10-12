@@ -5,7 +5,6 @@ authors: Auguste Rame
 date: 24
 tags:
   - politics
-  - featured
 ---
 
 The United States has changed the world as we know it today. With its enormous economic, political, and scientific power, it has been an example for the rest of the world. Even though America has become a leader in modernity, many experts are concerned about the almost medieval practice of having knife fights in presidential debates not yet being retired, with our political expert, Dr. Verman Politiczuck, calling the non-retirement of knife fights “America’s one and only mistake.”

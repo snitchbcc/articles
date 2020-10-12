@@ -4,7 +4,6 @@ title: "Students Raised By Wolves Appalled At Lack Of Organization By MCPS"
 authors: Erica Molot
 date: 12
 tags:
-  - featured
   - local
 ---
 

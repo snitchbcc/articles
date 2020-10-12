@@ -6,7 +6,6 @@ date: 12
 tags:
   - local
   - politics
-  - featured
 ---
 
 After an extensive investigation by The Snitch, senior Timothy Malloy, known for his spotless attendance of school protests and walkouts, has been revealed to be a regular at Subway. Witnesses have stated that during the Climate Strike on September 20th, Malloy was spotted at the Wisconsin Ave Subway with a footlong sub as the planet burned.

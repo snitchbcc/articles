@@ -4,7 +4,6 @@ title: “Forget This, Can We Just Elect My Cat?” Asks Exhausted Nation
 authors: Bill Angell
 date: 30
 tags:
-  - featured
   - politics
   - local
 ---

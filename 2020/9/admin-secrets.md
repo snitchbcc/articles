@@ -5,7 +5,6 @@ description: For your eyes only
 authors: Bill Angell
 date: 9
 tags:
-  - featured
   - politics
   - local
 ---

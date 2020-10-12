@@ -4,7 +4,6 @@ title: Historians Find Evidence Franco-Prussian War Started By Gender Reveal Par
 authors: Dale Bell
 date: 24
 tags:
-  - featured
   - culture
   - politics
 ---

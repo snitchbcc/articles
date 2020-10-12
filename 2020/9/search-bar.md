@@ -5,7 +5,6 @@ authors: Auguste Rame, Dale Bell
 date: 24
 tags:
   - local
-  - featured
 ---
 
 Breaking news today from *The Snitch* headquarters - we have caught a search bar for our website. Sure, the search bar only works on computers, but you can’t complain. I mean, do you have a search bar? No? We didn’t think so. They’re very rare. It was quite the process to capture it - we had to drive out into the Virginia wilderness, set a trap with clickbait headlines, and wait until a search bar wandered in. It took a while, but we caught one! Somehow, it still managed to take off our editor Caleb’s left arm before we could sedate it, but our insurance probably covers lost limbs so it was totally worth it. 

@@ -4,7 +4,6 @@ title: "Nobel Committee Creates Journalism Prize, Gives It To The Snitch"
 authors: Dale Bell
 date: 6
 tags:
-  - featured
   - local
   - culture
 ---

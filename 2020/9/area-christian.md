@@ -5,7 +5,6 @@ authors: Dale Bell
 date: 11
 tags:
   - local
-  - featured
 ---
 
 Admitting that he was not entirely sure which denomination’s church he attended, area Christian Gregory Vaughn later clarified to *Snitch* reporters that by not entirely sure he actually meant he had absolutely no idea what type of Christian he was.

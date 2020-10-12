@@ -5,7 +5,6 @@ authors: Dale Bell
 date: 28
 tags:
   - politics
-  - featured
 ---
 
 In true Joe Biden fashion, the presumptive democratic nominee verbally slipped during a virtual town hall and confessed to a decades old double murder. When asked about his proposals to increase infrastructure spending, the gaffe-prone Biden instead offered a tearful confession to a cold case that had puzzled authorities for decades, saying,

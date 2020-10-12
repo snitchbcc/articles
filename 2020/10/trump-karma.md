@@ -4,7 +4,6 @@ title: "In Avalanche Of Karmic Justice, Trump Contracts COVID, Teargases Self In
 authors: Dale Bell
 date: 3
 tags:
-  - featured
   - politics
 ---
 

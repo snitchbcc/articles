@@ -5,7 +5,6 @@ authors: Bill Angell
 date: 28
 tags:
   - local
-  - featured
   - culture
 ---
 

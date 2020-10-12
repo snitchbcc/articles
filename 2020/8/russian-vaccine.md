@@ -4,7 +4,6 @@ title: Russian Scientist Panics After Accidentally Swapping Trial COVID Vaccine 
 authors: Dale Bell
 date: 26
 tags:
-  - featured
   - politics
 ---
 

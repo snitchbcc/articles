@@ -4,7 +4,6 @@ title: New Trend, "Van Goghing", Sweeps Nation
 authors: Dale Bell
 date: 28
 tags:
-  - featured
   - culture
 ---
 

@@ -4,7 +4,6 @@ title: Coronavirus Announces Self Quarantine After Worrying Exposure To Louie Go
 authors: Dale Bell 
 date: 16
 tags:
-  - featured
   - politics
 ---
 

@@ -4,7 +4,6 @@ title: "Letters To The Editor #1: I’ve Been In Class For 6 Weeks, Where Is Eve
 authors: Dale Bell
 date: 12
 tags:
-  - featured
   - series
   - local
 ---

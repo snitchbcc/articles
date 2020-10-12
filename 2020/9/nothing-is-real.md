@@ -4,7 +4,6 @@ title: “Nothing Is Real!” Screams Straightjacketed IB Junior After First Wee
 authors: Dale Bell
 date: 21
 tags:
-  - featured 
   - local
 ---
 
