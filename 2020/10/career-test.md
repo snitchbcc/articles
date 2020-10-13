@@ -9,7 +9,7 @@ tags:
 
 Students today got a shock regarding their job prospects after a school assigned career test. The test, which is based on new software boasting 100% accuracy, assigned nearly everyone some version of the “post apocalyptic scavenger” job.
 
-The test in question was given to students during last week's baron time, and was meant to “provide students with a comprehensive way to measure their aptitude toward a variety of career prospects.” Unfortunately, instead of rating students on traditional aptitude traits such as “creative,” “risk taking,” “organized,” or “inquisitive,” it based all job recommendations off of new traits like “ruthlessness,” “will to survive,” “ability to withstand extreme amounts of pain,” and “deliciousness.” 
+The test in question was given to students during last week's baron time and was meant to “provide students with a comprehensive way to measure their aptitude toward a variety of career prospects.” Unfortunately, instead of rating students on traditional aptitude traits such as “creativity,” “risk taking,” “organization,” or “inquisitiveness,” it based all job recommendations off of new traits like “ruthlessness,” “will to survive,” “ability to withstand extreme amounts of pain,” and “deliciousness.” 
 
 Some students were disappointed with the roles they were assigned:
 
