@@ -4,7 +4,6 @@ title: "IB To Introduce New Dice Rolling Technology Into Scoring Process"
 authors: Dale Bell
 date: 14
 tags:
-  - featured
   - local
 ---
 
