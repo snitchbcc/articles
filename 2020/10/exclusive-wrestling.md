@@ -4,7 +4,6 @@ title: "Exclusive: Professional Wrestling Is Fake"
 authors: Benjy Eichner
 date: 19
 tags:
-  - featured
   - culture
 ---
 
