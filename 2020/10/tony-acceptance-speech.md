@@ -4,7 +4,6 @@ title: "Every Student In Theater Audition Mentally Drafting Tony Acceptance Spee
 authors: Dale Bell
 date: 23
 tags:
-  - featured
   - local
 ---
 
