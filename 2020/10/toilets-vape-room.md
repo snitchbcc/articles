@@ -4,7 +4,6 @@ title: "Toilets Found In Third Floor Vape Room"
 authors: Dale Bell, Bill Angell
 date: 24
 tags:
-  - featured
   - local
 ---
 
