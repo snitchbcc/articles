@@ -11,4 +11,4 @@ The most recent edition of “BCC’s Award Winning Literary Magazine™” has 
 
 Now, I know that you loyal readers are just dying to know our personal opinions on the latest edition of Chips. Well, you’re in luck as we can definitively reveal that Chips, “BCC’s Award Winning Literary Magazine™,” is pretty good. 
 
-At least, we presume it’s pretty good. You see, the entire staff at *The Snitch* couldn’t pool together the fifteen dollars needed to buy “BCC’s Award Winning Literary Magazine™.” If we had that kind of money we could have a decent website or maybe even a couple of decent writers - the possibilities would be endless.
+At least, we presume it’s pretty good. You see, the entire staff at *The Snitch* couldn’t pool together the fifteen dollars needed to buy “BCC’s Award Winning Literary Magazine™.” If we had that kind of money, we could have a decent website or maybe even a couple of decent writers - the possibilities would be endless.
