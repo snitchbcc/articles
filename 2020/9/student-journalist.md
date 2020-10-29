@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 4
 tags:
   - local
+  - best-of
 ---
 
 Early Thursday morning, sources have confirmed that student journalist, Chuck Mitchell, is acting like his new story on the cafeteria’s pricing is goddamn Watergate. 
