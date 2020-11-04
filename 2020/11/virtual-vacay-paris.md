@@ -18,4 +18,4 @@ It truly is a revolutionary experience! I rate it 7.5/10! The only problem I had
 
 I can’t wait for *VirtualVacay* to expand into other countries - I’ve heard that *VirtualVacay: Lagos* will include sending a corrupt policeman to your house to extort 10,000 Naira from you!
 
-*This article includes several insulting stereotypes. The Snitch in no way advocates stereotyping, unless we can monetize it**.*
+*This article includes several insulting stereotypes. The Snitch in no way advocates stereotyping, unless we can monetize it.*
