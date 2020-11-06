@@ -1,12 +1,12 @@
 ---
-title: New Secret Society Announces Open Call For New Members
+title: New Secret Society Club Announces Open Call For New Members
 authors: Bill Angell
 date: 28
 tags:
   - local
 ---
 
-On Wednesday, the newly formed Order of the Dark Father announced that they would be accepting applications from the student body, breaking their short lived founding promise to remain secret. High Priestess Gloria Motley wrote in a press release, “We’re not happy that our vow of silence hasn’t even lasted a week, but we need to keep recruitment numbers up. It just has to be done.” She also stated that while there was a high interest at the club fair, actual attendance has been far lower.
+On Wednesday, the newly formed Order of the Dark Father club announced that they would be accepting applications from the student body, breaking their short lived founding promise to remain secret. High Priestess Gloria Motley wrote in a press release, “We’re not happy that our vow of silence hasn’t even lasted a week, but we need to keep recruitment numbers up. It just has to be done.” She also stated that while there was a high interest at the club fair, actual attendance has been far lower.
 
 The group, known for sacrificing AP textbooks and attempting to summon the Dark Father (praise be), has said that in its attempts to make the society more appealing, they will begin holding monthly events with activities such as robe decorating, and summoning a math tutor to increase their grades. They will also be holding an ice cream recruitment party.
 
