@@ -1,5 +1,5 @@
 ---
-thumbnail: content://cures.jpeg
+thumbnail: content://cures.jpg
 title: "Cartoon: The 5 Cures To COVID"
 authors: Sebastián Valderrama
 date: 5
