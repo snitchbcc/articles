@@ -2,7 +2,7 @@
 thumbnail: content://cures.jpg
 title: "Cartoon: The 5 Cures To COVID"
 authors: Sebastián Valderrama
-date: 5
+date: 9
 tags:
   - culture
   - cartoon
