@@ -12,7 +12,7 @@ The second floor of the BCC F-Wing shook with power today when an IB Student, af
 
 The teacher, Mrs. Boyce, asked whether Franzen would like to share what he was saying with the class. Franzen nodded, but after standing, students noticed that he had begun to glow, and a strange humming sound filled the classroom.
 
-As the glowing intensified, Franzen began to levitate a foot above the floor and spoke with a voice that sources say “shook the earth and heavens”, “inspired tears through sheer understanding”, and “made the Buddha sound like a dumb asshole.”
+As the glowing intensified, Franzen began to levitate a foot above the floor and spoke with a voice that sources say “shook the earth and heavens”, “inspired tears through sheer understanding”, and “made the Buddha sound like an idiot.”
 
 “My friends,” sources have Franzen saying, “I must leave as I discovered the true meaning. I have become the ultimate IB learner. I am an inquirer, a thinker, a risk taker, open minded, balanced, reflective, a communicator, knowledgeable, caring, and principled. I can see now, everything is so clear, goodbye my friends.”
 
