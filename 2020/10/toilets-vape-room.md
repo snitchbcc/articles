@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 24
 tags:
   - local
+  - best-of
 ---
 
 An investigation is underway into what some are calling “the prank of the decade” after several toilets were found in the third floor vape rooms at B-CC. Walter Hesse, who first reported the prank, was taking his hourly vape break when he discovered that someone had moved several toilets into the room, which has been dedicated entirely to teens inhaling various candy flavored toxic metals for all of recent memory. 
