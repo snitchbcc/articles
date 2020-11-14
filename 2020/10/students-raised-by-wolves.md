@@ -5,6 +5,7 @@ authors: Erica Molot
 date: 1
 tags:
   - local
+  - best-of
 ---
 
 New transfer students raised by wolves in a small forest outside of Chevy Chase, Maryland have spoken out against Montgomery County Public School’s new remote learning system, saying the organization of online school is “disgraceful”. The transfer students were brought up in a local forest in the county, and after officials rescued them, Child Protective Services decided it would make the most sense to integrate the feral wolf children into modern society. Doctors all across the nation have been waiting to hear their first words since learning English, and it was a big scientific event when one of them asked, “Is Baron Time really necessary?” on September 1st. Since that first breakthrough, more and more of the transfer students’ questions have poured in, many about how Wednesdays are supposed to work. Many of the sophomore transfers have begun talking in detail, trying in vain to figure out what MYP seminar is a month into the school year.
