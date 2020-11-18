@@ -15,7 +15,7 @@ tags:
 
 **The Character Who Is Cooler Than The Hero:** You’ll get a badass death at least, but you can’t overshadow the main character. Your ceiling is a fan favorite.
 
-**Snitch Reporter:** Well, we started with eight reporters. Now we have four. Also I’m sure all loyal readers know of our top reporter Caleb, and the numerous injuries he’s suffered in the line of duty. We here at* The Snitch* wish him a speedy recovery from his broken leg.
+**Snitch Reporter:** Well, we started with eight reporters. Now we have four. Also I’m sure all loyal readers know of our top reporter Caleb, and the numerous injuries he’s suffered in the line of duty. We here at *The Snitch* wish him a speedy recovery from his broken leg.
 
 **Roman Emperor:** When there are 69 (nice) emperors in 380 years that is not a good long-term job option. Add in a bonus 62% chance of a violent death, often at the hands of your own close relatives, and the Emperor is a job you should probably avoid.
 
