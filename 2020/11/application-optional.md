@@ -8,7 +8,7 @@ tags:
   - culture
 ---
 
-Earlier today in a stunning move that may signal an emerging trend, Archmont College announced that they would be going application optional. This comes after more and more colleges, in light of the COVID pandemic, have been going test optional to ease the burden on prospective students.
+Earlier today, in a stunning move that may signal an emerging trend, Archmont College announced that they would be going application optional. This comes after more and more colleges, in light of the COVID pandemic, have gone test optional to ease the burden on prospective students.
 
 Archmont College President, Jill Sinclair, has described her college’s decision to go application optional as “the next logical step” in a series of pandemic-fueled changes meant to make the college process easier for students. At a press conference, Sinclair stated:
 
