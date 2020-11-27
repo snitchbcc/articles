@@ -7,7 +7,7 @@ tags:
   - culture
 ---
 
-Thanksgiving has once again concluded only to be reduced to mere numbers by a new survey. The survey, which was conducted “for science, fun, and definitely not malicious advertising purposes,” asked people to list the dishes they were preparing for this year's meal. Much to the researchers' surprise, “baked firearms” had made substantial gains since last year. The dish, which is made by placing guns in an oven, is usually unpopular, a fact generally attributed to its bad aftertaste and the substantial risk of being shot by bullets combusting in the heat.
+Thanksgiving has only just concluded, and already it has been reduced to mere numbers by a new survey. The survey, which was conducted “for science, fun, and definitely not malicious advertising purposes,” asked people to list the dishes they were preparing for this year's meal. Much to the researchers' surprise, “baked firearms” had made substantial gains since last year. The dish, which is made by placing guns in an oven, is usually unpopular, a fact generally attributed to its bad aftertaste and the substantial risk of being shot by bullets combusting in the heat.
 
 Now, those of you who are well read, experts in the field, or spend far too much time reading random articles online may know that the oven is a surprisingly popular place for gun owners to leave weapons while traveling. Researchers believe the uptick in baked firearms could be caused by people forgetting to take their guns out of the oven after their plans were cancelled, forcing them to cook for themselves. We interviewed three people who made the dish to find out more.
  
