@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 12
 tags:
   - series
+series: Letters To The Editor
   - local
 ---
 
