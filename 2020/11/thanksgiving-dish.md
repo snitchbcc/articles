@@ -1,6 +1,6 @@
 ---
 thumbnail: content://Oven.jpeg
-title: "“Baked Firearms” Shoot Up In Thanksgiving Dish Rankings, New Survey Finds"
+title: "“Baked Firearms” Shoots Up In Thanksgiving Dish Rankings, New Survey Finds"
 authors: Caleb Levy
 date: 27
 tags:
