@@ -4,7 +4,7 @@ title: "U.S., Israel, Saudi Arabia Happy To Have Found Common Ground On How Dead
 authors: Frank Washington
 date: 3
 tags:
-  - political
+  - politics
 ---
 
 *This article deals with very touchy geopolitical issues! If this offends you, make sure you tell everyone you know about it, that’ll show us. Send all hate mail to [aurame@snitchbcc.com](mailto:aurame@snitchbcc.com).*
