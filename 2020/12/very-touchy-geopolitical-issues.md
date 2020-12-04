@@ -7,7 +7,7 @@ tags:
   - political
 ---
 
-*This article deals with very touchy geopolitical issues! If this offends you, make sure you tell everyone you know about it, that’ll show us. Send all hate** mail to* *aurame@snitchbcc.com**.*
+*This article deals with very touchy geopolitical issues! If this offends you, make sure you tell everyone you know about it, that’ll show us. Send all hate mail to [aurame@snitchbcc.com](mailto:aurame@snitchbcc.com).*
 
 Happy that despite their differences they could still agree on some issues, the United States, Israel, and Saudi Arabia have reportedly achieved a deeper understanding and appreciation for one another after finding common ground on how dead an Iranian nuclear physicist should be. 
 
