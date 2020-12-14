@@ -1,6 +1,6 @@
 ---
 thumbnail: content://delta_math_sisyphus.jpeg
-title: "Modern Adaptation Of Sisyphus' Boulder Introduced Where Student Is Forced To Complete Delta Math Assignment But Gets The Last Question Wrong"
+title: "Modern Sisyphus' Boulder Forces Students To Complete Delta Math Assignment But Get Last Question Wrong"
 authors: Bruno Chong
 date: 14
 tags:
