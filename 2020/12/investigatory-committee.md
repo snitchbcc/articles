@@ -19,11 +19,11 @@ Tyler released the following statement:
 
 ---
 
-SR. COMMITTEE MBR TYLER: Why are you hitting yourself? 
+**SR. COMMITTEE MBR TYLER:** Why are you hitting yourself? 
 
-JR. COMMITTEE MBR TOM: Why are you hitting yourself? 
+**JR. COMMITTEE MBR TOM:** Why are you hitting yourself? 
 
-SR.COMMITTEE MBR DOUGLAS: Why are you hitting yourself? 
+**SR. COMMITTEE MBR DOUGLAS:** Why are you hitting yourself? 
 
 ---
 
