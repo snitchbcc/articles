@@ -1,0 +1,386 @@
+{
+    "thumbnail": "https://snitchbcc.com/img/tophat_square.png",
+    "title": "QUIZ: Which Snitch Staff Member Are You?",
+    "series": "Quizzes",
+    "authors": "The Snitch Team",
+    "date": 21,
+    "description": "Which 2020 election candidate are you? Find out with this awesome quiz from The Snitch!",
+    "tags": ["series"],
+    "results": {
+        "dale": {
+            "title": "Dale Bell",
+            "description": "Congratulations! You’re officially a burned out, luddite, pseudo-intellectual with a penchant for Shakespeare and sport coats!"
+        },
+        "auguste": {
+            "title": "Auguste Rame",
+            "description": "Congratulations! You're officially a sexy, smart, modest Frenchman with a 4.0 unweighted GPA and 1520 on the SAT who has nothing else to talk about but his perceived unparalleled academic achievement as well as his knack for meta-meta self-deprecation to fill the hole that appears in place of his soul."
+        },
+        "benjy": {
+            "title": "Caleb Levy",
+            "description": "Congratulations! You’re officially dollar store Boris Johnson!"
+        },
+        "caleb": {
+            "title": "Benjy Eichner",
+            "description": "Congratulations! You’re officially a mole sent by the British Football Association to implant horrible British soccer ideas into this sacred group of strongly anti-sports nerds."
+        },
+        "bill": {
+            "title": "Bill Angell",
+            "description": "Congratulations! You’re officially an autistic theatre kid! Enjoy always humming a tune and thinking you’re from England, even though you’re from Alabama. Your walking stick and tickets to Hadestown are in the mail as we speak!"
+        },
+        "liv": {
+            "title": "Liv Dentoni",
+            "description": "Congratulations! You definitely think you're ‘special’ and ‘edgy’ for answering the second and last questions like you did. You’re not. Only I am."
+        }
+    },
+    "style": "single-point",
+    "questions": [
+        {
+            "prompt": "What would you talk about so much that all the other Snitch staff members would start to resent you?",
+            "answers": [
+                {
+                    "text": "ToK",
+                    "score": "dale"
+                },
+                {
+                    "text": "Tech",
+                    "score": "auguste"
+                },
+                {
+                    "text": "British soccer",
+                    "score": "benjy"
+                },
+                {
+                    "text": "The problems with other people’s articles",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Model UN",
+                    "score": "liv"
+                },
+                {
+                    "text": "Musical theatre",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "Every member of the Snitch staff has a deep dark insecurity that would take a psychiatrist years to uncover! Which one of these sounds most like you?",
+            "answers": [
+                {
+                    "text": "Chin",
+                    "score": "dale"
+                },
+                {
+                    "text": "Sense of humor",
+                    "score": "auguste"
+                },
+                {
+                    "text": "Facial hair",
+                    "score": "benjy"
+                },
+                {
+                    "text": "Resembling Boris Johnson",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Why would I tell you?",
+                    "score": "liv"
+                },
+                {
+                    "text": "Dependency on Wildhorn songs",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "Now you’re starting to think like a Snitch staff member. Along with being annoying and insecure, most staff members also like long futile arguments that end in everyone losing! Which one of these things would you be so stubborn about disagreeing with, that you would bring Snitch productivity grinding to a halt just to keep fighting?",
+            "answers": [
+                {
+                    "text": "Everything Benjy says",
+                    "score": "dale"
+                },
+                {
+                    "text": "Fighting for The Snitch podcast",
+                    "score": "auguste"
+                },
+                {
+                    "text": "Semantics… lots of semantics",
+                    "score": "benjy"
+                },
+                {
+                    "text": "The phrasing of a headline",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Being on Not BCC-TV",
+                    "score": "liv"
+                },
+                {
+                    "text": "Internal consistency",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "No one at The Snitch is good at what they do! Which one of these reasons for that sounds most like you?",
+            "answers": [
+                {
+                    "text": "Only cares about getting into college",
+                    "score": "dale"
+                },
+                {
+                    "text": "Works on ten useless projects instead of one important one",
+                    "score": "auguste"
+                },
+                {
+                    "text": "Spends way too much time reading fan fiction",
+                    "score": "benjy"
+                },
+                {
+                    "text": "Is super cryptic (to cover for not actually knowing grammar)",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Bcuz ur not funny and dont take time to do thigns",
+                    "score": "liv"
+                },
+                {
+                    "text": "Not being able to finish a sentence without - CAMELOOOOOOOOOOT",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "The Snitch staff is always trying to augment their horrible personalities with fashion! Which one of these would you wear to distract from your innate unlikeability?!?!",
+            "answers": [
+                {
+                    "text": "Sport coat",
+                    "score": "dale"
+                },
+                {
+                    "text": "Béret, n’est ce pas",
+                    "score": "auguste"
+                },
+                {
+                    "text": "Neon green fedora",
+                    "score": "benjy"
+                },
+                {
+                    "text": "“What’s fashion?”",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Wearing the men’s J. Crew catalog",
+                    "score": "liv"
+                },
+                {
+                    "text": "Monocle",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "Most of the actual slacking off in The Snitch takes place over Discord (see contact page). Which of these online slang terms would you use the most while on our discord server?",
+            "answers": [
+                {
+                    "text": "What’s Discord?",
+                    "score": "dale"
+                },
+                {
+                    "text": "LMAO",
+                    "score": "auguste"
+                },
+                {
+                    "text": "lol",
+                    "score": "benjy"
+                },
+                {
+                    "text": "F",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Fat Pog",
+                    "score": "liv"
+                },
+                {
+                    "text": "Bravp good chap!",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "Uh oh! You’ve deleted The Snitch’s website! Which of these answers seems most like the one you would give?",
+            "answers": [
+                {
+                    "text": "Where’d it go?! Oh god! All I did was add a semicolon!",
+                    "score": "dale"
+                },
+                {
+                    "text": "I’m just working on a seven month redesign, it needed a fresh start",
+                    "score": "auguste"
+                },
+                {
+                    "text": "We have a website?",
+                    "score": "benjy"
+                },
+                {
+                    "text": "The middle step was important, wasn’t it?",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Press Ctrl+Z",
+                    "score": "liv"
+                },
+                {
+                    "text": "Well why don’t we just go to podcast form?",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "Despite The Snitch’s high ethical standards, every now and then one of our members gets hauled in by various federal agencies for crimes that are almost never proven. It’s 1 a.m. and the G-Men have just kicked down your door and charged you with what?",
+            "answers": [
+                {
+                    "text": "Using copyrighted images for Snitch articles",
+                    "score": "dale"
+                },
+                {
+                    "text": "Costing MCPS $500,000 in server fees",
+                    "score": "auguste"
+                },
+                {
+                    "text": "Attempted murder of Dale",
+                    "score": "benjy"
+                },
+                {
+                    "text": "Embezzlement",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Sabotage and espionage",
+                    "score": "liv"
+                },
+                {
+                    "text": "Dropping a chandelier on people",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "You’ve just caught someone trying to hack into The Snitch website (actually happened). It’s time to give a supervillain type monologue to the attempted hacker. What is your speech?",
+            "answers": [
+                {
+                    "text": "A long rambling thematic soliloquy with a ton of Shakespearean and philosophical references",
+                    "score": "dale"
+                },
+                {
+                    "text": "Mocking them for using a WordPress exploit when we’re not even running a WordPress site",
+                    "score": "auguste"
+                },
+                {
+                    "text": "A jumbled monstrosity of pop culture references that only you understand",
+                    "score": "benjy"
+                },
+                {
+                    "text": "You’re not good with speeches so you kind of trail off halfway through and then leave",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Good! You can be the site pet :)",
+                    "score": "liv"
+                },
+                {
+                    "text": "I say you there! Hands off that sword! Put down that book!",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "We’re out of articles and you have to write one really quickly! You know it’s terrible but you need to make a cheap joke. Which of these hackneyed ideas do you use?",
+            "answers": [
+                {
+                    "text": "Caleb gets injured",
+                    "score": "dale"
+                },
+                {
+                    "text": "Rickroll!!!! Lolllllll",
+                    "score": "auguste"
+                },
+                {
+                    "text": "69 ;)",
+                    "score": "benjy"
+                },
+                {
+                    "text": "Knock knock",
+                    "score": "caleb"
+                },
+                {
+                    "text": "Bold of you to assume not all of what I write is cheap jokes",
+                    "score": "liv"
+                },
+                {
+                    "text": "I say dear old chap, a joke about the British Empire!",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "You’ve just heard a truly awful article idea. You can’t let this one get written or it might single handedly bring down The Snitch. How do you tell the person their idea is terrible?",
+            "answers": [
+                {
+                    "text": "Never tell them, leave the article editing for three weeks then quietly delete it",
+                    "score": "dale"
+                },
+                {
+                    "text": "“Hmm, interesting...”",
+                    "score": "auguste"
+                },
+                {
+                    "text": "Hope someone else does it",
+                    "score": "benjy"
+                },
+                {
+                    "text": "Brutal honesty",
+                    "score": "caleb"
+                },
+                {
+                    "text": "@Dale",
+                    "score": "liv"
+                },
+                {
+                    "text": "In obscure showtunes",
+                    "score": "bill"
+                }
+            ]
+        },
+        {
+            "prompt": "Are you a control freak?",
+            "answers": [
+                {
+                    "text": "Yes",
+                    "score": "dale"
+                },
+                {
+                    "text": "Yes",
+                    "score": "dale"
+                },
+                {
+                    "text": "Yes",
+                    "score": "dale"
+                },
+                {
+                    "text": "Yes",
+                    "score": "dale"
+                },
+                {
+                    "text": "Yes",
+                    "score": "dale"
+                },
+                {
+                    "text": "Yes",
+                    "score": "dale"
+                }
+            ]
+        }
+    ]
+}
