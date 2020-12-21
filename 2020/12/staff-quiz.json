@@ -4,7 +4,7 @@
     "series": "Quizzes",
     "authors": "The Snitch Team",
     "date": 21,
-    "description": "Which 2020 election candidate are you? Find out with this awesome quiz from The Snitch!",
+    "description": "Which Snitch staff member are you? Find out with this awesome quiz from The Snitch!",
     "tags": ["series"],
     "results": {
         "dale": {
@@ -203,7 +203,7 @@
                     "score": "liv"
                 },
                 {
-                    "text": "Bravp good chap!",
+                    "text": "Bravo good chap!",
                     "score": "bill"
                 }
             ]
