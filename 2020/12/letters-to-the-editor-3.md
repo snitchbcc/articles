@@ -4,8 +4,8 @@ title: "Letters To The Editor #3: I Have Your Managing Editor. Send Me $5,000 If
 authors: Dale Bell
 date: 23
 tags:
-  - best-of
   - series
+  - best-of
   - local
   - culture
 ---
@@ -14,7 +14,7 @@ Today we’re unveiling our third entry in the *Snitch* series **Letters To The 
 
 **Letter From Anonymous:**
 
-Hi! I’m a huge fan of *The Snitch* and I know you’ve got a lot to do so I’ll make this short. I have your Managing Editor, Caleb Levy. Send five thousand dollars to this mailbox (oh so you're a smart guy eh?) if you ever want to see him again. Don’t go to the police or the only way you’ll find him is in ten different trash cans that form a smiley face when marked on a map, or something like that. I want you to know that I’m serious about getting that money, so every day that I don’t get the money, I will read Caleb a section of my screenplay and also cut off one of his fingers.
+Hi! I’m a huge fan of *The Snitch* and I know you’ve got a lot to do so I’ll make this short. I have your Managing Editor, Caleb Levy. Send five thousand dollars to this mailbox (~~oh so you're a smart guy eh?~~) if you ever want to see him again. Don’t go to the police or the only way you’ll find him is in ten different trash cans that form a smiley face when marked on a map, or something like that. I want you to know that I’m serious about getting that money, so every day that I don’t get the money, I will read Caleb a section of my screenplay and also cut off one of his fingers.
 
 **Snitch Response:**
 
