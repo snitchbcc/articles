@@ -21,4 +21,4 @@ Hi! I’m a huge fan of *The Snitch* and I know you’ve got a lot to do so I’
 
 Hey! It’s great to see our readers care enough to interact with *Snitch* staff members! Have you joined our Discord? It’s the one of the best ways to follow the *Snitch*’s progress and chat with staff members. Also, we want to say that we think it’s really cool that your parents named you Anonymous - what an awesome name! Anyway, when we skimmed your letter we noticed that you mentioned our Managing Editor, Caleb Levy. We’ve forwarded him your letter so he can give it a deeper read and send you a lengthier response. He’s been out the past couple days but when he gets back it’ll be the first thing on his agenda.
 
-
+<style>.article-content p {text-align: justify;} s {background-color: currentColor; text-decoration: none;}</style>
