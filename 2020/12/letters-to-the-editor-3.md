@@ -8,6 +8,7 @@ tags:
   - best-of
   - local
   - culture
+series: Letters To The Editor
 ---
 
 Today we’re unveiling our third entry in the *Snitch* series **Letters To The Editor**! Since the beginning of time, we’ve been providing you with high quality news and humor. But what is our average reader like? We’ve sifted through our metric ton of fan mail to find the best, funniest, and most enlightening letters we have received and are starting to publish them here. So if you’ve got any questions, comments, concerns, or gaping holes in your soul that can only be filled by writing us letters, then this series is for you!
