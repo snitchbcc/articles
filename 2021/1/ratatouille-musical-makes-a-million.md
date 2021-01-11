@@ -7,11 +7,10 @@ tags:
   - culture
 ---
 
-To: dale.bell@snitchbcc.com
-From: bill.angell@snitchbcc.com
-CC: All Snitch Staff
+To: dale.bell@snitchbcc.com\
+From: bill.angell@snitchbcc.com\
+CC: All Snitch Staff\
 Subject: My Resignation
-
 
 To God Emperor Dale and my esteemed colleagues,
 
@@ -21,7 +20,7 @@ As is well known among staff, I am a theatre geek, so I was surprised and bewild
 
 I wish the best for each and every one of you, and of course for *The Snitch* as a whole.
 
-(Former) Writer,
+(Former) Writer,\
 Bill Angell
 
 (P.S. If anyone catches me humming any part of that show you’re allowed to slap me.)
