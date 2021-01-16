@@ -90,19 +90,19 @@
                     "score": "wiz"
                 },
                 {
-                    "text": "I’m a traditionalist.",
+                    "text": "I’m a traditionalist",
                     "score": "uncle"
                 },
                 {
-                    "text": "I’m a progressive — I swear.",
+                    "text": "I’m a progressive — I swear",
                     "score": "random"
                 },
                 {
-                    "text": "I’m a moderate.",
+                    "text": "I’m a moderate",
                     "score": "evil"
                 },
                 {
-                    "text": "I’m an avowed anti-semite.",
+                    "text": "I’m an avowed anti-semite",
                     "score": "as"
                 }
             ]
@@ -111,23 +111,23 @@
             "prompt": "What’s your greatest challenge?",
             "answers": [
                 {
-                    "text": "Finding clean pants.",
+                    "text": "Finding clean pants",
                     "score": "wiz"
                 },
                 {
-                    "text": "Those damn communists.",
+                    "text": "Those damn communists",
                     "score": "uncle"
                 },
                 {
-                    "text": "People calling me out on Twitter.",
+                    "text": "People calling me out on Twitter",
                     "score": "random"
                 },
                 {
-                    "text": "Learning a new language.",
+                    "text": "Learning a new language",
                     "score": "evil"
                 },
                 {
-                    "text": "PC culture.",
+                    "text": "PC culture",
                     "score": "as"
                 }
             ]
@@ -136,19 +136,19 @@
             "prompt": "What’s your favorite word?",
             "answers": [
                 {
-                    "text": "Irresponsibility.",
+                    "text": "Irresponsibility",
                     "score": "wiz"
                 },
                 {
-                    "text": "Security.",
+                    "text": "Security",
                     "score": "uncle"
                 },
                 {
-                    "text": "Chang: that’s Chinese, I think.",
+                    "text": "Chang: that’s Chinese, I think",
                     "score": "random"
                 },
                 {
-                    "text": "Something French.",
+                    "text": "Something French",
                     "score": "evil"
                 },
                 {
@@ -161,11 +161,11 @@
             "prompt": "What’s your favorite character from the series?",
             "answers": [
                 {
-                    "text": "Ron.",
+                    "text": "Ron",
                     "score": "wiz"
                 },
                 {
-                    "text": "The uncle.",
+                    "text": "The uncle",
                     "score": "uncle"
                 },
                 {
@@ -173,11 +173,11 @@
                     "score": "random"
                 },
                 {
-                    "text": "The, uh, European guy.",
+                    "text": "The, uh, European guy",
                     "score": "evil"
                 },
                 {
-                    "text": "Voldemort — I really see myself in him.",
+                    "text": "Voldemort — I really see myself in him",
                     "score": "as"
                 }
             ]
