@@ -1,6 +1,6 @@
 ---
 thumbnail: content://minority_leader.jpg
-title: "New Study Finds That Saying 'Minority Leader Mitch McConnell' Is 100 Times More Potent Than Cocaine"
+title: "New Study Finds That Saying “Minority Leader Mitch McConnell” Is 100 Times More Potent Than Cocaine"
 authors: Hudson Yon
 date: 1
 tags:
