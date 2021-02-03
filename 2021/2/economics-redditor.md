@@ -14,4 +14,4 @@ For more on why you should invest in *The Snitch*, we talked to our chief econom
 
 “The thing to remember when investing in any stock is the catchiness of the company's tagline. *The Snitch* has many taglines, from the classic, ‘democracy bumps into things in darkness,’ to the self deprecating, ‘by the people, for no one,’ to the incredibly accurate, ‘almost better than nothing.’ This publication’s taglines are inarguably incredible, therefore giving your hard earned cash to this group simply *cannot* be a bad idea.”
 
-At press time, *The Snitch* has finally moved googling “conflict of interest” to the “almost on the agenda” list.
+At press time, *The Snitch* had finally moved googling “conflict of interest” to the “almost on the agenda” list.
