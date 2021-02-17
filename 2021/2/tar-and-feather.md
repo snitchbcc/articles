@@ -1,7 +1,7 @@
 ---
 thumbnail: content://tar-and-feathering.jpg
 title: "IB Environmental Science Student Tarred And Feathered By IB Physics Students After Complaining About Class"
-authors: Dale Bell
+authors: Frank Washington
 date: 5
 tags:
   - local
