@@ -1,5 +1,5 @@
 ---
-thumbnail: content://random_letters.jpeg
+thumbnail: "content://random_letters (1).jpeg"
 title: "We Wrote This Article In Our Own Original Language And The Jokes Don't Translate But Trust Us They're Great"
 authors: Eli Buehler
 date: 24
