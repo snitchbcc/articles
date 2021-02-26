@@ -16,4 +16,4 @@ We spoke with one student, Alan Brin, as he marveled at the beauty of the natura
 
 Unfortunately, temperatures were well below freezing and Brin got hypothermia almost immediately after throwing himself into the stream. Even more unfortunate, the ambulance driver had also seen the SEL video on his son’s computer, identified his relationship with driving ambulances to be toxic, and had decided to go skydiving.
 
-At press time, MCPS was frantically backpedaling after realizing their mistake, sources confirmed that they will be producing a new video to counter the previous one called “Toxicity: Why Sometimes You Just Gotta Suck It Up And Do Work.” 
+At press time, MCPS was frantically backpedaling after realizing their mistake; sources confirmed that they will be producing a new video to counter the previous one called “Toxicity: Why Sometimes You Just Gotta Suck It Up And Do Work.” 
