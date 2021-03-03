@@ -1,5 +1,5 @@
 ---
-thumbnail: platypus.jpeg
+thumbnail: content://platypus.jpeg
 title: "Australian Naturalists Too Embarrassed To Admit That The Platypus Actually Was A Hoax"
 authors: Eli Buehler
 date: 3
@@ -8,7 +8,8 @@ tags:
 ---
 
 This weekend, during the Zoological Society of Continental Australia’s annual Bio-Conference, an anonymous naturalist stepped forward, admitting that the platypus was an extended hoax. According to our source, the concept of the platypus was conceived as a practical joke — one that the country’s naturalists are now too embarrassed to own up to. The statement begins as follows:
-“For too long, we as an organization have been living a lie. In 1798, my ancestor, Captain John Hunter, sent a fake pelt and a letter back to Great Britain as a joke. He figured they would believe anything — hell, he was considering adding glitter glue — and he was right.” 
+
+“For too long, we as an organization have been living a lie. In 1798, my ancestor, Captain John Hunter, sent a fake pelt and a letter back to Great Britain as a joke. He figured they would believe anything — hell, he was considering adding glitter glue — and he was right.” 
 
 This revelation forces natural scientists around the world to reconsider the validity of thousands of Australian finds, as well as the greater position of monotremes in the tree of life. The statement continues:
 
