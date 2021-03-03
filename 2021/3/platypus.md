@@ -1,6 +1,6 @@
 ---
 thumbnail: content://platypus.jpg
-title: "Australian Naturalists Too Embarrassed To Admit That The Platypus Actually Was A Hoax"
+title: "Australian Naturalists Too Embarrassed To Admit That Platypus Actually A Hoax"
 authors: Eli Buehler
 date: 3
 tags:
