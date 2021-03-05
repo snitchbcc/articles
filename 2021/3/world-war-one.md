@@ -1,6 +1,6 @@
 ---
 thumbnail: content://ww1.jpeg
-title: "The Sad Truth: Kids These Days Would Rather Play \"Video Games\" Than Volunteer For World War One"
+title: "The Sad Truth: Kids These Days Would Rather Play “Video Games” Than Volunteer For World War One"
 authors: Nicholas Daum
 date: 5
 tags:
@@ -19,4 +19,4 @@ Jorge Butch, a media consultant for AFW’s World War Branch confirmed that they
 
 New ads targeted at children show Fortnite characters engaged in trench warfare, World War One veterans ridiculing World War Two veterans, and statistics showing video games cause mild forms of death. Hopefully, this new campaign will convince children to finally get off their couches and join the armed forces, whether it be on the ground or in heaven. 
 
-As of the last two days, there have been few further developments. The AFW has begun preparations to send children off “voluntarily” (citation needed) to real life simulations of war, to show children how fun it can really be. Top executives at AFW are currently on the lookout for wars that have been raging for several years, preferably somewhere around the world. Their hope is that the “video game” obsessed army may swoop in halfway through and act like it saved the entire world by itself. Twice.
+As of the last two days, there have been a few developments. The AFW has begun preparations to send children off “voluntarily” (citation needed) to real life simulations of war, to show children how fun it can really be. Top executives at AFW are currently on the lookout for wars that have been raging for several years, preferably somewhere around the world. Their hope is that the “video game” obsessed army may swoop in halfway through and act like it saved the entire world by itself. Twice.
