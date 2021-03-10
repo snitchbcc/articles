@@ -1,6 +1,6 @@
 ---
 thumbnail: content://danger.jpeg
-title: "Infographic: The Most Dangerous Jobs In The World"
+title: "Infonongraphic: The Most Dangerous Jobs In The World"
 authors: Benjy Eichner
 date: 18
 tags:
