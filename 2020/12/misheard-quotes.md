@@ -1,6 +1,6 @@
 ---
 thumbnail: content://quote.jpeg
-title: "Infographic: The Real Meanings Behind Misheard Quotes"
+title: "Infonongraphic: The Real Meanings Behind Misheard Quotes"
 authors: Benjy Eichner
 date: 11
 tags:
