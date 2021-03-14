@@ -1,6 +1,6 @@
 ---
 thumbnail: content://music.jpg
-title: New Study Finds Music You Listen To Is Better than Music Anyone Else Listens To
+title: New Study Finds Music You Listen To Is Better Than Music Anyone Else Listens To
 authors: Dale Bell
 date: 3
 tags:
