@@ -1,6 +1,6 @@
 ---
 thumbnail: content://hydrox.jpeg
-title: "In Attempt To Appeal To Conservative Audience, Oreos Competitor Hydrox Rebrands As \"Masculine Gender Conforming Créme Cookies\""
+title: "In Attempt To Appeal To Conservative Audience, Oreos Competitor Hydrox Rebrands As “Masculine Gender Conforming Créme Cookies”"
 authors: Dale Bell
 date: 15
 tags:
