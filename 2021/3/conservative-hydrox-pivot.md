@@ -18,4 +18,4 @@ We also talked to one of the conservative groups organizing a boycott of Oreos, 
 
 “It’s our duty as good Christians to protect the American way of life,” Elizabeth Fletcher, one of the five angry Moms told us, “To stop the rise of this immorality, we’ve banded together and boycotted Oreos and associated brands and companies that support this sinfulness. Unfortunately, due to corporate consolidation we’ve had to boycott every major food brand, and now we can only eat Hydrox and squirrel meat.”
 
-At press time *Snitch* lawyers had confirmed that every single brand mentioned in this article is preparing a massive lawsuit against us and had issued us a statement saying “we’re going to mash your bones into dust, mix em with the horse bones, add in a thickening agent, and turn you into the créme we use to fill our cookies.”
+At press time, *Snitch* lawyers had confirmed that every single brand mentioned in this article is preparing a massive lawsuit against us and had issued us a statement saying “we’re going to mash your bones into dust, mix em with the horse bones, add in a thickening agent, and turn you into the créme we use to fill our cookies.”
