@@ -17,8 +17,8 @@ For more on this story we talked to an anonymous source within Zhao’s unit, Lu
 
 In retrospect Carlson’s affair probably should have been more obvious. When looking back at his segments on the “feminization” of the U.S.’s military compared to the “masculinization” of China’s he dropped some subtle hints to his repeated trysts with Zhao. We included a transcript of part of Tucker’s monologue from last week.
 
----\
-“Body armor, for women!? Insane! As Joe Biden makes America’s military weak and girly China makes theirs stronger, bigger, faster, and sexier. Compared to the U.S., China's military has rock solid, muscular arms, ripped abs, and eyes that you can just lose yourself in. I’m sorry viewers, I need to take a second.”\
+---
+“Body armor, for women!? Insane! As Joe Biden makes America’s military weak and girly China makes theirs stronger, bigger, faster, and sexier. Compared to the U.S., China's military has rock solid, muscular arms, ripped abs, and eyes that you can just lose yourself in. I’m sorry viewers, I need to take a second.”
 ---
 
 At press time Tucker announced that, indeed, he loves China’s military so much he’ll be marrying it. He and Zhao will be tying the knot in an occupied Tibentan monastery later this month. We wish them luck and are happy Tucker’s finally living his truth!
