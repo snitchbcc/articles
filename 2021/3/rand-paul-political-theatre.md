@@ -13,7 +13,8 @@ The argument between the two reached a head when Rand Paul, wearing a cape and a
 
 We’ve included a brief excerpt from Senator Paul’s speech below:
 
----\
+---
+
 RAND PAUL: \
 Now people listen well and hear my screed,\
 This doctor stops our minds from being freed,\
@@ -32,7 +33,8 @@ How now, it seems my speaking time is up,\
 A shame that no one here doth give a fuck
 
 DR. FAUCI:\
-Ok, moving on.\
+Ok, moving on.
+
 ---
 
 At press time it has been reported that with no choice but to fight fire with fire, Dr. Fauci reentered the press conference with a skull, knelt on the ground and said: “Alas poor Grandma. This is what happens when you don’t wear a mask, you idiots. Is this clear enough for you!?!”
