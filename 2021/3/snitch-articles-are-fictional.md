@@ -7,7 +7,7 @@ tags:
   - local
 ---
 
-In a shocking turn of events, sources from *The Snitch* have revealed what many have suspected for all along: all *Snitch* articles are entirely faked. 
+In a shocking turn of events, sources from *The Snitch* have revealed what many have suspected all along: all *Snitch* articles are entirely faked. 
 
 “I thought everything seemed a little strange at first,” said our source, “but the final straw came when I saw that no one else was saying that that cat was actually president. His name isn’t even Muffin; he's of that article’s writer's cats named Anatole! Oh God, everything is a lie!” he shouted before running away from the parking garage we met in.
 
