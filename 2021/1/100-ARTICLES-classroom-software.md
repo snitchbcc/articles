@@ -7,7 +7,6 @@ tags:
   - local
   - culture
   - best-of
-ribbon: 100th Article
 ---
 
 Earlier today, in a move that shocked absolutely no one, MCPS administration announced that they would immediately be changing to entirely new and incredibly complicated classroom software “just for the hell of it.”
