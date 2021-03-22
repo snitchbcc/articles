@@ -6,6 +6,7 @@ date: 18
 tags:
   - local
   - culture
+  - best-of
 ribbon: 100th Article
 ---
 
