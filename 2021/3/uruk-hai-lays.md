@@ -8,7 +8,7 @@ tags:
   - culture
 ---
 
-Vowing not to be left behind in the newest trend of creating chip flavors based on non-existent creatures, Lay’s executives announced in a press conference that they would be moving a new *The Lord of the Rings* Uruk-Hai flavored chip into production.
+Vowing not to be left behind in the newest trend of creating chip flavors based on non-existent creatures, Lays executives announced in a press conference that they would be moving a new *The Lord of the Rings* Uruk-Hai flavored chip into production.
 
 “We’ll be completely honest.” Lays executive Chip Samson told us in an exclusive interview, “we were caught off guard by Pringles’ new ‘Mao Burger’ flavor based on the space Ostrich from Halo. But we refuse to be outdone, so now in partnership with J.R.R. Tolkien’s estate we will be producing a delicious new Lay’s flavor based on the beloved Uruk-Hai orcs, bred in the dark mud pits of Isengard and used to overwhelm and slaughter the armies of man at Helm’s Deep. To get as close to the canonical orc flavor as possible, we’re working with a team of top notch scientists who also happen to be Tolkien nerds. Probably a coincidence.”
 
