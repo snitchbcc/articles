@@ -1,0 +1,137 @@
+{
+    "thumbnail": "content://johntyler.jpeg",
+    "title": "Quiz: Which Forgettable President Are You?",
+    "series": "Quizzes",
+    "authors": "Benjy Eichner",
+    "date": 1,
+    "description": "Which of these forgettable presidents are you!",
+    "tags": [
+        "politics",
+        " series"
+    ],
+    "style": "single-point",
+    "results": {
+        "jt": {
+            "title": "John Tyler",
+            "description": "You are likely super unpopular, and often play second fiddle to others"
+        },
+        "mf": {
+            "title": "Millard Fillmore",
+            "description": "You are often a source of conflict despite not trying to be"
+        },
+        "jb": {
+            "title": "James Buchanan",
+            "description": "You are a literal doormat, all you do is stand there and get rolled over"
+        },
+        "mb": {
+            "title": "Martin Van Buren",
+            "description": "Your love of expensive things will be your downfall"
+        },
+        "wm": {
+            "title": "William McKinley",
+            "description": "A consummate politician, your beliefs are whatever people around you want them to be"
+        },
+        "wh": {
+            "title": "Warren G. Harding",
+            "description": "You’d rather do anything but work, but you are charismatic enough to keep failing up"
+        }
+    },
+    "questions": [
+        {
+            "prompt": "You are forced to sing in front of a large group of people, what do you sing?",
+            "answers": []
+        },
+        {
+            "prompt": "B. The Soviet National Anthem",
+            "answers": []
+        },
+        {
+            "prompt": "D. Paradise City - Guns N Roses",
+            "answers": []
+        },
+        {
+            "prompt": "F. A rap song you only know half the words to so you do the microphone point thing",
+            "answers": []
+        },
+        {
+            "prompt": "You’re invited to a costume party, which of these are you wearing?",
+            "answers": []
+        },
+        {
+            "prompt": "B. The same costume as the popular kid because that’s just your luck",
+            "answers": []
+        },
+        {
+            "prompt": "D. A super elaborate Joker costume",
+            "answers": []
+        },
+        {
+            "prompt": "F. A ghost for the third year in a row",
+            "answers": []
+        },
+        {
+            "prompt": "We here at The Snitch have nothing to do on Friday nights because we are lonely, what would you do?",
+            "answers": []
+        },
+        {
+            "prompt": "B. Accidentally start a fight at the bar",
+            "answers": []
+        },
+        {
+            "prompt": "D. Partyyyyy",
+            "answers": []
+        },
+        {
+            "prompt": "F. Chat up influential people",
+            "answers": []
+        },
+        {
+            "prompt": "You accidentally start a new trend, what is it?",
+            "answers": []
+        },
+        {
+            "prompt": "B. Fencing with sticks",
+            "answers": []
+        },
+        {
+            "prompt": "D. Collecting super expensive rocks",
+            "answers": []
+        },
+        {
+            "prompt": "F. Something that you can do while being lazy",
+            "answers": []
+        },
+        {
+            "prompt": "From legal fees to OSHA violations The Snitch has made many enemies, who would be your worst enemy?",
+            "answers": []
+        },
+        {
+            "prompt": "B. Peace",
+            "answers": []
+        },
+        {
+            "prompt": "D. The tax collector",
+            "answers": []
+        },
+        {
+            "prompt": "F. Any sort of hard work",
+            "answers": []
+        },
+        {
+            "prompt": "In order to fight these charges we need some good friends, which of these make the best friends?",
+            "answers": []
+        },
+        {
+            "prompt": "B. The loud wisecracking kid",
+            "answers": []
+        },
+        {
+            "prompt": "D. Diamonds duh",
+            "answers": []
+        },
+        {
+            "prompt": "F. Your smoking buddy",
+            "answers": []
+        }
+    ]
+}
