@@ -1,0 +1,215 @@
+{
+    "thumbnail": "content://johntyler.jpeg",
+    "title": "Quiz: Which Forgettable President Are You?",
+    "series": "Quizzes",
+    "authors": "Benjy Eichner",
+    "date": 12,
+    "description": "Which of these forgettable presidents are you!",
+    "tags": [
+        "politics",
+        " series"
+    ],
+    "style": "single-point",
+    "results": {
+        "jt": {
+            "title": "John Tyler",
+            "description": "You are likely super unpopular, and often play second fiddle to others"
+        },
+        "mf": {
+            "title": "Millard Fillmore",
+            "description": "You are often a source of conflict despite not trying to be"
+        },
+        "jb": {
+            "title": "James Buchanan",
+            "description": "You are a literal doormat, all you do is stand there and get rolled over"
+        },
+        "mb": {
+            "title": "Martin Van Buren",
+            "description": "Your love of expensive things will be your downfall"
+        },
+        "wm": {
+            "title": "William McKinley",
+            "description": "A consummate politician, your beliefs are whatever people around you want them to be"
+        },
+        "wh": {
+            "title": "Warren G. Harding",
+            "description": "You’d rather do anything but work, but you are charismatic enough to keep failing up"
+        }
+    },
+    "questions": [
+        {
+            "prompt": "You are forced to sing in front of a large group of people, what do you sing?",
+            "answers": [
+                {
+                    "text": "Some random emo song",
+                    "score": "jt"
+                },
+                {
+                    "text": "The Soviet National Anthem",
+                    "score": "mf"
+                },
+                {
+                    "text": "Ice Ice Baby - Vanilla Ice",
+                    "score": "jb"
+                },
+                {
+                    "text": "Paradise City - Guns N Roses",
+                    "score": "mb"
+                },
+                {
+                    "text": "Whatever is popular",
+                    "score": "wm"
+                },
+                {
+                    "text": "A rap song you only know half the words to so you do the microphone point thing",
+                    "score": "wh"
+                }
+            ]
+        },
+        {
+            "prompt": "You’re invited to a costume party, which of these are you wearing?",
+            "answers": [
+                {
+                    "text": "Nothing because your invitation must be a set up as a prank",
+                    "score": "jt"
+                },
+                {
+                    "text": "The same costume as the popular kid because that’s just your luck",
+                    "score": "mf"
+                },
+                {
+                    "text": "Something super low key",
+                    "score": "jb"
+                },
+                {
+                    "text": "A super elaborate Joker costume",
+                    "score": "mb"
+                },
+                {
+                    "text": "A character from the new trendy game",
+                    "score": "wm"
+                },
+                {
+                    "text": "A ghost for the third year in a row",
+                    "score": "wh"
+                }
+            ]
+        },
+        {
+            "prompt": "We here at The Snitch have nothing to do on Friday nights because we are lonely, what would you do?",
+            "answers": [
+                {
+                    "text": "Stay home",
+                    "score": "jt"
+                },
+                {
+                    "text": "Accidentally start a fight at the bar",
+                    "score": "mf"
+                },
+                {
+                    "text": "Whatever everyone else wants to do",
+                    "score": "jb"
+                },
+                {
+                    "text": "Partyyyyy",
+                    "score": "mb"
+                },
+                {
+                    "text": "Whatever you gain the most from",
+                    "score": "wm"
+                },
+                {
+                    "text": "Chat up influential people",
+                    "score": "wh"
+                }
+            ]
+        },
+        {
+            "prompt": "You accidentally start a new trend, what is it?",
+            "answers": [
+                {
+                    "text": "Bringing up that stupid thing you did in elementary school any time you are around",
+                    "score": "jt"
+                },
+                {
+                    "text": "Fencing with sticks",
+                    "score": "mf"
+                },
+                {
+                    "text": "Human Doormats",
+                    "score": "jb"
+                },
+                {
+                    "text": "Collecting super expensive rocks",
+                    "score": "mb"
+                },
+                {
+                    "text": "Sucking up to people",
+                    "score": "wm"
+                },
+                {
+                    "text": "Something that you can do while being lazy",
+                    "score": "wh"
+                }
+            ]
+        },
+        {
+            "prompt": "From legal fees to OSHA violations The Snitch has made many enemies, who would be your worst enemy?",
+            "answers": [
+                {
+                    "text": "The jock with a loud personality",
+                    "score": "jt"
+                },
+                {
+                    "text": "Peace",
+                    "score": "mf"
+                },
+                {
+                    "text": "Confrontations… any confrontations",
+                    "score": "jb"
+                },
+                {
+                    "text": "The tax collector",
+                    "score": "mb"
+                },
+                {
+                    "text": "The teachers pet",
+                    "score": "wm"
+                },
+                {
+                    "text": "Any sort of hard work",
+                    "score": "wh"
+                }
+            ]
+        },
+        {
+            "prompt": "In order to fight these charges we need some good friends, which of these make the best friends?",
+            "answers": [
+                {
+                    "text": "The Starbucks lover",
+                    "score": "jt"
+                },
+                {
+                    "text": "The loud wisecracking kid",
+                    "score": "mf"
+                },
+                {
+                    "text": "A teacher",
+                    "score": "jb"
+                },
+                {
+                    "text": "Diamonds duh",
+                    "score": "mb"
+                },
+                {
+                    "text": "Whoever you want something from",
+                    "score": "wm"
+                },
+                {
+                    "text": "Your smoking buddy",
+                    "score": "wh"
+                }
+            ]
+        }
+    ]
+}
