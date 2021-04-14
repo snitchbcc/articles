@@ -6,6 +6,8 @@ date: 9
 tags:
   - culture
   - cartoon
+  - series
+Series: Cartoons And Artwork
 ---
 
 Here are 5 easy ways to stop COVID from hurting you. Use our Amazon affiliate link to purchase them today!
