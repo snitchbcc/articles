@@ -6,6 +6,8 @@ date: 8
 tags:
   - cartoon
   - politics
+  - series
+series: Cartoons And Artwork
 ---
 
 “Mr. Vice President, if you could answer the question?”
