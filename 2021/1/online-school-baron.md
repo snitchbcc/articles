@@ -5,6 +5,8 @@ authors: Sebastián Valderrama
 date: 14
 tags:
   - cartoon
+  - series
+Series: Cartoons And Artwork
 ---
 
 The Baron feels your pain.
