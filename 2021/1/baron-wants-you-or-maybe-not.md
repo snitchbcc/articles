@@ -5,6 +5,8 @@ authors: Sebastián Valderrama
 date: 14
 tags:
   - cartoon
+  - series
+Series: Cartoons And Artwork
 ---
 
 Isn’t that the beauty of art? You get to decide what he’s doing.
