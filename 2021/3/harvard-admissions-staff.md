@@ -6,6 +6,8 @@ date: 9
 tags:
   - cartoon
   - local
+  - series
+Series: Cartoons And Artwork
 ---
 
 You better hope they read your application after lunch.
