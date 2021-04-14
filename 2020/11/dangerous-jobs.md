@@ -5,6 +5,7 @@ authors: Benjy Eichner
 date: 18
 tags:
   - series
+series: Infonongraphics
 ---
 
 **Parent In A Disney Movie:** I mean, when has a Disney protagonist ever had two fully healthy and alive parents and not had at least one vision of their parents dying. 
