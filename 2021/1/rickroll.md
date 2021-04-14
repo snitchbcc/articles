@@ -4,7 +4,10 @@ title: "Cartoon: The Baron Will Never Give You Up"
 authors: Sebastián Valderrama
 date: 11
 tags:
-  - local, cartoon
+  - local
+  - cartoon
+  - series
+Series: Cartoons And Artwork
 ---
 
 This was a meme and now it's an article.
