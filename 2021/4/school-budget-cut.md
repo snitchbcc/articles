@@ -7,7 +7,7 @@ tags:
   - politics
 ---
 
-This Sunday, news broke of an outrageous school scandal. A teacher in Lee High School, Arkansas, has been holding his students hostage for a ransom. Not only that, but our sources have confirmed that this is a daily occurrence and has been transpiring for about three months. The teacher in question, Octavius Krabenapple, gave us an interview earlier this morning to clear up any confusion.
+This Sunday, news broke of an outrageous school scandal. A teacher at Lee High School in Arkansas has been holding his students hostage for a ransom. Not only that, but our sources have confirmed that this is a daily occurrence that has been transpiring for about three months. The teacher in question, Octavius Krabenapple, gave us an interview earlier this morning to clear up any confusion.
 
 “Ever since the China Virus hit, I’ve been a little short on savings, if you know what I mean,” Mr. Krabenapple stated in our interview, “they cut our salaries, and now I can’t even afford jeans. Then one day, while teaching Bible studies, I thought ‘hey, why not just keep these kids here? I’m sure most of their parents would pay money to get them back.’ So the next day, I just set up my door, locked the window, and wrote a letter asking for $20 for each student’s release from class. Sure enough, I got my $2,000 and let the kids go.” Mr. Krabenapple then went on to explain that he was most surprised not by the lack of protest from the students, but rather by the fact that he has been holding them for ransom for months on end.
 
