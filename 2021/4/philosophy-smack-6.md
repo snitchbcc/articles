@@ -14,7 +14,7 @@ Are you having problems at school? Do you need advice from a group of learned ph
 
 **Question From Micheal Brin**: Hi, I’m having trouble staying social during COVID-19 quarantine. My friends try to set up Zoom and FaceTime meetings, but I’m never motivated to join. I just stay in bed and scroll through social media. I don't want to lose my friendships, but I just don’t have the bandwidth to handle this. What should I do? 
 
-**Albert Camus**: *La solitude est inévitable. Friendship is fleeting. Everything is fleeting. La mort est toujours présente. You must find that je ne sais quoi in your life and pursue it, abandon your friends, abandon all hope, abandon your gods and superstitions, vivre* *authentiquement**.*** 
+**Albert Camus**: *La solitude est inévitable. Friendship is fleeting. Everything is fleeting. La mort est toujours présente. You must find that je ne sais quoi in your life and pursue it, abandon your friends, abandon all hope, abandon your gods and superstitions, vivre authentiquement.*
 
 **Henry David Thoreaux**: I suggest that you immerse yourself in nature. Seclude yourself and take stock. Have your only connection with the outside world be brief trips to buy groceries… and check your mail… and do your laundry… also have your family drop by every now and then. It gets lonely out there.
 
