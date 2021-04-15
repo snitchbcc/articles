@@ -7,7 +7,7 @@ tags:
   - cartoon
   - local
   - series
-Series: Cartoons And Artwork
+series: Cartoons And Artwork
 ---
 
 Natural selection works in mysterious ways.

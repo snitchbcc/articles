@@ -7,7 +7,7 @@ tags:
   - cartoon
   - local
   - series
-Series: Cartoons And Artwork
+series: Cartoons And Artwork
 ---
 
 You better hope they read your application after lunch.

@@ -7,7 +7,7 @@ tags:
   - local
   - cartoon
   - series
-Series: Cartoons And Artwork
+series: Cartoons And Artwork
 ---
 
 This was a meme and now it's an article.
