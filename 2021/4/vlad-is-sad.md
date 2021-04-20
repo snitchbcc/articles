@@ -15,4 +15,4 @@ We interviewed Vlad to get his thoughts on the matter:
 
 We recommended that Vlad try meditation classes to help his anger. He agreed, saying he could always impale the teacher if it didn’t work.
 
-As of press time, the ruler has been hit more bad luck. A sudden illness has left him in bed due to elongated teeth and horrible sunburns.
+As of press time, the ruler has been hit with more bad luck. A sudden illness has left him in bed due to elongated teeth and horrible sunburns.
