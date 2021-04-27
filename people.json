@@ -12,7 +12,7 @@
 	{
 		"name": "Benjy Eichner",
 		"tagline": "Senior Writer",
-		"description": "Sycophant in Chief"
+		"description": "Sycophant in Chief."
 	},
 	{
 		"name": "Caleb Levy",
@@ -67,12 +67,27 @@
 	{
 		"name": "Alana Sonfield",
 		"tagline": "Editor",
-		"description": "Edits articles."
+		"description": "Currently locked in a room with a computer that can only open unedited Snitch articles."
 	},
 	{
-		"name": "Evan Song",
-		"tagline": "Editor",
-		"description": "So bad at my job I got fired from the <i>Snitch</i> editing team. That's right, the <i>SNITCH</i> EDITING TEAM. You can't fall much lower than that."
+		"name": "Frank Washington",
+		"tagline": "Writer, Non De Plume",
+		"description": "Dale's pseudonym."
+	},
+	{
+		"name": "Chase Eastwood",
+		"tagline": "Writer",
+		"description": "An Auguste-acclaimed journalist who is definitely not Auguste."
+	},
+	{
+		"name": "Dr. Reese Sessions",
+		"tagline": "Snitch Chief Economics Contributor",
+		"description": "Dr. Reese Sessions is the Chief Economics Contributor to The Snitch. He has a PHD from the London School Of Ecnomics and is critically acclaimed for his landmark paper on 'Eating The Irish As A Solution To World Hunger.'"
+	},
+	{
+		"name": "Jake Krillen",
+		"tagline": "Snitch Sports Head",
+		"description": "Bro, I'm only here in case a football scholarship can't cut it."
 	},
 	{
 		"name": "Dr. Verman Politiczuck",
