@@ -1,5 +1,5 @@
 ---
-thumbnail: content://pinetree.jpeg
+thumbnail: content://pinetree.jpg
 title: "B-CC Administration Reeling After Resurfaced Tweets Show The Pine Tree’s History Of Making Denigrating Comments About Poplars"
 authors: Benjy Eichner
 date: 4
@@ -8,7 +8,7 @@ tags:
   - culture
 ---
 
-B-CC administrators have been reeling recently after some old tweets of the Pine Tree resurfaced in which the tree was denigrating Poplars. Almost immediately #PineTreeIsOverParty was trending on twitter with other marginalized trees such as the Florida Yew and The Monkey Puzzle Tree showing their support. We interviewed Principal Mooney to get his thoughts on the Pine's tweets:
+B-CC administrators have been reeling recently after some old tweets of the Pine Tree resurfaced in which the tree was denigrating Poplars. Almost immediately, #PineTreeIsOverParty was trending on Twitter with other marginalized trees such as the Florida Yew and The Monkey Puzzle Tree showing their support. We interviewed Dr. Mooney to get his thoughts on the Pine's tweets:
 
 “We are taking these new tweets very seriously. B-CC does not condone the tweets made by the Pine and we are very disappointed to learn of their existence. There is no place for those types of baseless comments in the B-CC community.”
 
