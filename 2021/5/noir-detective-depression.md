@@ -16,7 +16,7 @@ We talked to Phillip Spade, one of the researchers, for more information on this
 
 For a more personal take on this issue we sent our Managing Editor, Caleb Levy to meet with a new addition to the *Snitch* lore page, Jack Poulet a hard boiled private investigator.
 
-*“This study is ridiculous,”* said Poulet, light streaming through the slats of his office window as smooth saxophone music drifted through the room. After trying unsuccessfully to smoke a cigar for several minutes he continued: *“People like this say that the PI gig is too tough. T**hat it chews men up and spits them out broken. But I’m living proof this study is wrong. I mean sure, I live in my office, my car got repoed, and I haven’t worked in six months, but I don’t do it for the money. Well, I don’t anymore since no one pays me…”*
+*“This study is ridiculous,”* said Poulet, light streaming through the slats of his office window as smooth saxophone music drifted through the room. After trying unsuccessfully to smoke a cigar for several minutes he continued: *“People like this say that the PI gig is too tough. That it chews men up and spits them out broken. But I’m living proof this study is wrong. I mean sure, I live in my office, my car got repoed, and I haven’t worked in six months, but I don’t do it for the money. Well, I don’t anymore since no one pays me…”*
 
 After the interview, *The Snitch* took pity on Mr. Poulet and decided to hire him, as we had an opening on our staff due to our political contributor, Dr. Verman Politiczuck, being eaten by sharks while trying to escape a U.N. SWAT team.
 
