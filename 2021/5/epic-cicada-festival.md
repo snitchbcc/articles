@@ -12,9 +12,9 @@ Early yesterday, the online “dating” app Tinder released a statement confirm
 
 For more on this story we talked to Hippolyta Johnson, a professor of Entomological Psychology at Fälschung University:
 
-“This truly is going to be a festival to remember, as it is the first one to happen since the mass dissemination of dating apps. Usually, it takes the cicadas several minutes to find mates because they have to stumble through awkward conversations at bars or parties, but hookup apps like Tinder have completely changed what the festival landscape looks like.”
+“This truly is going to be a festival to remember. It's the first one to happen since the mass dissemination of dating apps. Usually, it takes the cicadas several minutes to find mates because they have to stumble through awkward conversations at bars or parties, but hookup apps like Tinder have completely changed what the festival landscape looks like.”
 
-While the festival is incredibly popular in the cicada community, there are several criticism from the human community of the cicadas’ complete monopolization of dating apps, with one saying:
+While the festival is incredibly popular in the cicada community, there are several criticisms from the human community about the cicadas’ complete monopolization of dating apps, with one saying:
 
 “I mean, good for them, but I have to swipe through like a million profiles all saying stuff like ‘2021 gonna be lit, looking to rub some thorax’ before I can even find someone of my own species.”
 
