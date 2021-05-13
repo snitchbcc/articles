@@ -15,8 +15,10 @@ For more on this new technique, we talked to Margaret Shelley, a criminology pro
 
 But even after our interview we still wanted to get firsthand knowledge about this new technique. To do this, we partnered with the CIA and got our Managing Editor Caleb Levy put on the CIA watchlist before sending him on an international trip to the Middle East. Sure enough, on his return to the U.S., he was detained and then transported to a CIA blacksite. In the interest of national security, we’re only able to publish a portion of the transcript from the following interrogation.
 
----\
-“…so then there I was and it was like sort of my childhood home and my mom was there but she was made of glass and then I looked down at my hands but they were tentacles and when I looked back up I was on stage for a play and I couldn’t remember my lines and I looked out into the audience and there was my dad but it, like, wasn’t my dad and I think this is like really significant, like it kind of relates to my whole psyche and personality…”\
+---
+
+“…so then there I was and it was like sort of my childhood home and my mom was there but she was made of glass and then I looked down at my hands but they were tentacles and when I looked back up I was on stage for a play and I couldn’t remember my lines and I looked out into the audience and there was my dad but it, like, wasn’t my dad and I think this is like really significant, like it kind of relates to my whole psyche and personality…”
+
 ---
 
 At press time, due to an unfortunate logistical mix up, Caleb was sent to Guantanamo Bay, and until this is sorted out the role of Managing Editor will be occupied by the guy who we got instead of him. Wish our new Managing Editor luck!
