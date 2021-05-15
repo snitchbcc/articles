@@ -6,6 +6,7 @@ date: 20
 tags:
   - local
   - culture
+  - college
 ---
 
 Earlier today, in a stunning move that may signal an emerging trend, Archmont College announced that they would be going application optional. This comes after more and more colleges, in light of the COVID pandemic, have gone test optional to ease the burden on prospective students.

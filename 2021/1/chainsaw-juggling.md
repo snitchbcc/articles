@@ -6,6 +6,7 @@ date: 27
 tags:
   - local
   - culture
+  - college
 ---
 
 News broke early yesterday that after being accepted into his dream college, a local senior was seen chainsaw juggling to fill the stress vacuum. The senior, Xavier Kingston, was seen juggling chainsaws in the park near his home after finally being accepted into his dream college, Columbia. We were able to talk to Kingston about his newfound hobby.

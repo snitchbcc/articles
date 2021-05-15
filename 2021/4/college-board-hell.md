@@ -7,6 +7,7 @@ tags:
   - local
   - politics
   - culture
+  - college
 ---
 
 A shocking report was released today from “the land down under” (no, the other one) as sources have confirmed that the IMF will be pursuing financial restructuring focused on diversifying the economy of Hell after learning that a majority of its income is derived from its co-ownership of The College Board. 

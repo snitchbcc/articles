@@ -6,6 +6,7 @@ date: 29
 tags:
   - local
   - culture
+  - college
 ---
 
 Earlier today, in a press conference held by the D.C. based test prep company PrepMatters™, a spokesperson for the company announced a new “Super-Deluxe SAT Package” which gives parents the opportunity to swap out their child for one who will get a 1600 on the SAT.

@@ -6,6 +6,7 @@ date: 9
 tags:
   - local
   - culture
+  - college
 ---
 
 Administration officials at Archmont College were aghast yesterday when recently graduated philosophy major, Mary Ann Evans, refused to acknowledge the one hundred and eighty-six thousand dollars that she owed in student debt, as the money was just a “societal construct.” 
