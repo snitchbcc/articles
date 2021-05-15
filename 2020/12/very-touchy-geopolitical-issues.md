@@ -5,6 +5,7 @@ authors: Frank Washington
 date: 3
 tags:
   - politics
+  - middle-east
 ---
 
 *This article deals with very touchy geopolitical issues! If this offends you, make sure you tell everyone you know about it, that’ll show us. Send all hate mail to [aurame@snitchbcc.com](mailto:aurame@snitchbcc.com).*
