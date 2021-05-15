@@ -5,7 +5,7 @@ authors: Benjy Eichner
 date: 17
 tags:
   - politics
-  - 2020 Election
+  - 2020-election
 ---
 
 Last week the Biden transition team reported the discovery of a series of increasingly elaborate “Home Alone” style traps left by the Trump Administration in the White House in the days leading up to the transition of power. We sent Snitch field reporter Caleb Levy to learn more about the situation. 

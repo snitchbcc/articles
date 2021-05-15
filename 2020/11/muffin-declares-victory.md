@@ -5,7 +5,7 @@ authors: Bill Angell
 date: 6
 tags:
   - politics
-  - 2020 Election
+  - 2020-election
 ---
 
 

@@ -6,7 +6,7 @@ date: 30
 tags:
   - politics
   - local
-  - 2020 Election
+  - 2020-election
 ---
 
 After last night's Presidential Debate at Case Western Reserve University, the nation grumbled out of their seats and asked “Can we just elect my cat?”

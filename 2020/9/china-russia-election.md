@@ -5,7 +5,7 @@ authors: "Auguste Rame, Caleb Levy"
 date: 26
 tags:
   - politics
-  - 2020 Election
+  - 2020-election
 ---
 
 The 2016 Foreign Influence Games saw Russia and China come to a head, both countries having made the top cut after rigging countless elections in smaller African and Asian countries. After all of the fierce competition to get to the top, the finals themselves were rather anticlimactic. Russia, taking advantage of the electoral college, rampant partisanship, and the less than savory business practices of several major social media companies, was able to break new records by electing Donald J. Trump to the presidency, thoroughly vanquishing China and taking first place.
