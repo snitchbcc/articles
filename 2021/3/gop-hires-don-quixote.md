@@ -5,6 +5,7 @@ authors: Nicholas Daum
 date: 25
 tags:
   - politics
+  - republicans
 ---
 
 This Monday, the GOP announced Don Quixote as their energy consultant for new positions on wind energy. Since the dawn of time, the GOP has vehemently opposed the use of windmills for energy, as well as renewable energy as a whole. In a statement by Mitch McConnell earlier today, the party announced that it has finally found a professional consultant and spokesperson for their position on wind power: fabled adventurer Don Quixote.
