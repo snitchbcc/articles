@@ -5,6 +5,7 @@ authors: Benjy Eichner
 date: 21
 tags:
   - local
+  - family
 ---
 
 Bellatrix Estrella, a senior at B-CC, was reportedly lounging around in her bed and watching Netflix when her dad Greg invoked Stephen of Cloyes, the twelve-year-old famous for leading a crusade to reclaim the Holy Land, in hopes of rousing his daughter into action.
