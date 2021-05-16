@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 4
 tags:
   - local
+  - holidays
 ---
 
 With a deep sinking feeling, it was reported yesterday that a Blue Easter Egg filled with Jelly Beans and hidden during a hunt in 1986, was finally hit with the cold realization that no one is coming.
