@@ -6,6 +6,7 @@ date: 24
 tags:
   - culture
   - politics
+  - history
 ---
 
 In a press conference held today, several of the most prominent European historians announced that they had found new evidence that an ill-planned gender reveal party caused the Franco-Prussian War. 
