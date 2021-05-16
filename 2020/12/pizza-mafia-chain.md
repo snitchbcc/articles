@@ -5,6 +5,7 @@ authors: Benjy Eichner
 date: 2
 tags:
   - local
+  - crime
 ---
 
 The MCPD has released a statement about last week’s controversy where several members of the local mafia were let go without charges after their arrest last month:
