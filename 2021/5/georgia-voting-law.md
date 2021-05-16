@@ -5,6 +5,7 @@ authors: Nicholas Daum
 date: 14
 tags:
   - politics
+  - republicans
 ---
 
 In a controversial new law passed earlier this week, the Georgia state legislature has mandated that 20-foot hedge mazes be built in front of majority-black districts’ polling stations. This comes after several unsuccessful attempts to pass new voting laws in light of the 2020 election, or what Georgians are calling “Socialist Tuesday.” We interviewed the mastermind behind this law, Jonathan F. Lee, earlier today.
