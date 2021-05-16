@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 26
 tags:
   - politics
+  - coronavirus
 ---
 
 Panic spread through a Siberian research facility today after junior scientist Rogózhin Karamazov realized he had accidentally swapped vials of the coronavirus vaccine with vials containing poison meant for critics of the Russian government. 
