@@ -6,6 +6,7 @@ date: 5
 tags:
   - politics
   - 2020-election
+  - republicans
 ---
 
 President Trump made headlines across the country this morning with the announcement of his testing positive for COVID-19. This news has raised questions about the future of his presidential campaign, even as new data suggest that undecided voters who also received positive COVID tests seem to be leaning towards Trump after this announcement.
