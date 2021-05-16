@@ -6,6 +6,8 @@ date: 8
 tags:
   - local
   - culture
+  - school
+  - coronavirus
 ---
 
 Early yesterday, sources from inside the first group of students returning to B-CC confirmed that the second they stepped across the threshold, they were set upon by a herd of possums that had taken over the school during quarantine.
