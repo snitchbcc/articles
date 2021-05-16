@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 19
 tags:
   - politics
+  - republicans
 ---
 
 Earlier today, 41 Republican congressmen led by Florida Representative Matt Gaetz gathered outside Area 51’s gate and appeared to be preparing to storm the United States Air Force test and training range, which has long been believed to hold information on extraterrestrials. During preparations, Gaetz gave an impromptu press conference; 
