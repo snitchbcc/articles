@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 10
 tags:
   - culture
+  - science
 ---
 
 Saying that it was “totally alright” that scientists had decided to prioritize cloning the Black-Footed Ferret, the ghost of a Woolly Mammoth released a statement yesterday detailing how “super cool” it was to see scientists making strides in cloning threatened animals.
