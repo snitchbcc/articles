@@ -4,6 +4,7 @@ authors: Bill Angell
 date: 28
 tags:
   - local
+  - school
 ---
 
 On Wednesday, the newly formed Order of the Dark Father club announced that they would be accepting applications from the student body, breaking their short lived founding promise to remain secret. High Priestess Gloria Motley wrote in a press release, “We’re not happy that our vow of silence hasn’t even lasted a week, but we need to keep recruitment numbers up. It just has to be done.” She also stated that while there was a high interest at the club fair, actual attendance has been far lower.
