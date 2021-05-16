@@ -6,6 +6,7 @@ date: 23
 tags:
   - local
   - politics
+  - coronavirus
 ---
 
 In an effort to distribute more vaccines to the public, the CDC announced yesterday that they will be employing professional darts players for the new drive-by vaccine initiative. This comes after criticisms of the inefficiencies in the mass vaccination sites that result in increased waiting periods, supply shortages, and being subjected to insufferably long and loud Yo-Yo Ma concerts.
