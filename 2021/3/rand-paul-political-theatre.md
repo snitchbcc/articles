@@ -5,6 +5,8 @@ authors: Dale Bell
 date: 18
 tags:
   - politics
+  - republicans
+  - coronavirus
 ---
 
 Earlier today, the war of words between Dr. Fauci and Senator Rand Paul reached a climax when, in a dramatic Shakespearean monologue, Rand Paul accused Dr. Fauci of “political theatre” for wearing masks despite being vaccinated. 
