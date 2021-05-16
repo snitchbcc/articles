@@ -7,6 +7,7 @@ tags:
   - local
   - culture
   - science
+  - school
 ---
 
 Lauding the department as a revitalization of MCPS’s faltering science curriculum, the Administration announced yesterday that B-CC’s new Mad Science Department will include never-before-seen AP courses, such as Mad Botany, Mad Psychology, and Mad Anthropology. This move is a direct response to recent concerns voiced by the mad scientific community that Chinese schools may be overtaking U.S. schools in mad-STEM related areas.
