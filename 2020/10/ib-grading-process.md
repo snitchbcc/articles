@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 14
 tags:
   - local
+  - ib
 ---
 
 Breaking news today from the International Baccalaureate Organization as director Dr. Siva Kumari has announced that they will be introducing new dice rolling technology into the grading grading process for both exams and internal assessments.
