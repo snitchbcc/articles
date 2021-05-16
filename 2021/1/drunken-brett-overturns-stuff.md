@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 4
 tags:
   - politics
+  - republicans
 ---
 
 Early this morning, it was confirmed by sources that a drunken Brett Kavanaugh had, after coming to work at the Supreme Court totally wasted, accidentally overturned a table, chairs, and Roe v. Wade.
