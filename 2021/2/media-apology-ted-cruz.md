@@ -5,6 +5,7 @@ authors: Curran Holden
 date: 24
 tags:
   - politics
+  - republicans
 ---
 
 Early this morning, major news sources including *The New York Times*, *CNN*, and *MSNBC* frantically released statements apologizing for making viewers picture Senator Ted Cruz (R-TX) in a bathing suit after publishing headlines describing his escape from blizzard ravaged Texas to the beaches of Cancun, Mexico.
