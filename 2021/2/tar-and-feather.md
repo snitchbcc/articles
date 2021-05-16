@@ -5,6 +5,8 @@ authors: Frank Washington
 date: 5
 tags:
   - local
+  - ib
+  - science
 ---
 
 Chaos broke out yesterday at a small social gathering when IB Environmental Science student Jack Flint was tarred and feathered by a group of IB Physics students after complaining about how difficult his class was.
