@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 21
 tags:
   - local
+  - ib
 ---
 
 The peaceful atmosphere of Meadow Lane was shattered yesterday morning as, after a particularly rough first week of the virtual Theory of Knowledge class, IB junior George Barnhill was dragged straightjacketed from his room, loudly screaming “Nothing is real!”
