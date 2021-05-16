@@ -7,6 +7,7 @@ tags:
   - local
   - politics
   - culture
+  - crime
 ---
 
 Late yesterday, sources confirmed that Norville Topsington, the butler of Tuftenshire Hall, a remote manor in the English countryside, has been accused of murder for the fourth time this month.
