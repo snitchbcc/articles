@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 29
 tags:
   - politics
+  - democrats
 ---
 
 Late yesterday, California Senator Dianne Feinstein vehemently denounced the rumors of her cognitive decline in a fiery speech delivered to several potted plants in her office. This comes after a recent article by *Snitch* wannabe *The New Yorker* questioned her cognitive ability due to her advancing age.
