@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 11
 tags:
   - local
+  - school
 ---
 
 Students today got a shock regarding their job prospects after a school assigned career test. The test, which is based on new software boasting 100% accuracy, assigned nearly everyone some version of the “post apocalyptic scavenger” job.
