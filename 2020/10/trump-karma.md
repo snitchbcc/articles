@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 3
 tags:
   - politics
+  - republicans
 ---
 
 Yesterday, in what experts are calling an “avalanche of karmic justice," President Donald Trump contracted the coronavirus, accidentally opened a can of tear gas in his face, and was run over by a mail truck. 
