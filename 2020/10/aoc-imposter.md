@@ -6,6 +6,7 @@ date: 26
 tags:
   - politics
   - culture
+  - democrats
 ---
 
 The House of Representatives was in an uproar today after shocking accusations from Alexandria Ocasio-Cortez that Florida Representative Ted Yoho was the imposter. Gasps could be heard from the chamber as Cortez began laying out her evidence. She accused Yoho, the former veterinarian who had been elected in a surprise victory in 2013, of standing still right before the lights went out and of not reporting the body of Majority Whip Jim Clyburn, despite coming from the direction where Clyburn was found.
