@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 13
 tags:
   - politics
+  - crime
 ---
 
 Early this morning, in a shocking memo obtained by *Snitch* reporters, the Central Intelligence Agency detailed a brutal new “enhanced interrogation” technique. The technique consists of an agency operative going into excruciating detail about a dream they had recently as a way to pry information from uncooperative prisoners. This decision has sparked widespread condemnation, with House Democrats vowing to “maybe send a letter.”
