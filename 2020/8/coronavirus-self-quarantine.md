@@ -5,6 +5,8 @@ authors: Dale Bell
 date: 16
 tags:
   - politics
+  - republicans
+  - coronavirus
 ---
 
 The coronavirus has just announced that it will be going into self quarantine after contact with GOP congressman Louie Gohmert on July 29th. Although a timeline has not been established, the Coronavirus is thought to have been exposed at a congressional meeting where Gohmert was present. The Coronavirus has stated that it was trying to maintain social distancing guidelines when a mask-less Gohmert shook its hand, praised it for its amazing job in highlighting government overreach, and introduced it to his friends and staffers.
