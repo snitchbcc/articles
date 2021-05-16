@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 7
 tags:
   - politics
+  - republicans
 ---
 
 President Trump left his advisors scrambling this week when, after being asked about what role Christianity played in his life, he responded with a vitriolic rant targeting Christ himself.
