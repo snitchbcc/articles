@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 11
 tags:
   - politics
+  - republicans
 ---
 
 Late yesterday, Rudy Giuliani’s microbiome released a statement saying it was unsure it could make room for another disease after its host contracted COVID-19. The letter, which had signatories that included Consumption, Bubonic Plague, E. coli, Ebola, Measles, and Gout, discussed the challenges of packing so many diseases into such a small shriveled man.
