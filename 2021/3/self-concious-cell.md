@@ -6,6 +6,7 @@ date: 5
 tags:
   - local
   - culture
+  - science
 ---
 
 Feeling very uncomfortable about the new additions to its membrane, sources confirmed yesterday that a self-conscious adipose cell was reportedly wondering if its new membrane lipids made it look fat. 
