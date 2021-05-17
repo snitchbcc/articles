@@ -6,6 +6,7 @@ date: 23
 tags:
   - local
   - culture
+  - history
 ---
 
 Hark! Earlier to day, it was told that the Snitche’s Managing Editor Bjorn Evermoor has been Cursed by a swamp Hagg for ever and ever! When sent to In-vestigate rumours of a noisome Witche who had sent rats and Vermin into our noble School, he angered her bye insulting her potion-brewing (which this crier would Nevere do as she is verily wonderful and he doth not want to be cursed) and she afflicted him with a Noxious and Horrible Hex. 
