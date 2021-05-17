@@ -5,6 +5,7 @@ authors: Bruno Chong
 date: 25
 tags:
   - culture
+  - science
 ---
 
 According to recent studies conducted by top researchers, I am objectively correct, and you are unquestionably wrong. You may be wondering, “but where can I find these studies, Bruno?” The answer is you cannot find them anywhere —- they exist beyond the intellectual limits of your erroneous mind, but I can assure you that they are authentic and accurate; I peer-edited them myself and because I am right, the studies are, too.
