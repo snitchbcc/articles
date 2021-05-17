@@ -5,6 +5,7 @@ authors: Eli Buehler
 date: 3
 tags:
   - culture
+  - science
 ---
 
 This weekend, during the Zoological Society of Continental Australia’s annual Bio-Conference, an anonymous naturalist stepped forward, admitting that the platypus was an extended hoax. According to our source, the concept of the platypus was conceived as a practical joke — one that the country’s naturalists are now too embarrassed to own up to. The statement begins as follows:
