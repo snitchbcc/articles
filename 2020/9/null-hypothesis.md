@@ -6,6 +6,7 @@ date: 14
 tags:
   - local
   - best-of
+  - science
 ---
 
 Earlier today, in a revelation that psychiatrists around the world are calling “groundbreaking,” the Null Hypothesis finally opened up about its fear of rejection. 
