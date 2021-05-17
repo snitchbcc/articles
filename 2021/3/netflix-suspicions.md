@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 22
 tags:
   - local
+  - tech
 ---
 
 In the wake of Netflix’s recent crackdown on password sharing, the streaming giant released an announcement that they had always thought that one account for all of North America was a bit suspicious, but that they had trusted that their clients wouldn’t abuse the system by password sharing. 
