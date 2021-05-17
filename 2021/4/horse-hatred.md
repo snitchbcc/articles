@@ -5,6 +5,7 @@ authors: Eli Buehler
 date: 9
 tags:
   - culture
+  - science
 ---
 
 At the end of February 2021, the Department of Military Science declassified a successful experiment in which the heart of a thoroughbred horse and brain of a young male chimpanzee were inserted into the body of a bottlenose dolphin. Further plans were announced to graft the paws of a bengal tiger, fists of a silverback gorilla, and tail of a scorpion onto the creature as well. This experiment is gravely concerning, as the heart of a horse will surely lead the resultant beast down the path to darkness and evil.
