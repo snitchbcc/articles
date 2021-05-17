@@ -7,6 +7,7 @@ tags:
   - cartoon
   - local
   - series
+  - science
 series: Cartoons And Artwork
 ---
 
