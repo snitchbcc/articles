@@ -5,6 +5,7 @@ authors: Dale Bell
 date: 15
 tags:
   - politics
+  - tech
 ---
 
 Late yesterday, in a press conference on the topic, Facebook CEO Mark Zuckerberg laid out his reasoning behind issuing a permanent ban of Donald Trump’s Facebook account, saying that undermining democracy was *his* thing.
