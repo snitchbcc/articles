@@ -7,6 +7,7 @@ tags:
   - cartoon
   - politics
   - series
+  - 2020-election
 series: Cartoons And Artwork
 ---
 
