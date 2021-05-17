@@ -5,6 +5,7 @@ authors: Benjy Eichner
 date: 7
 tags:
   - local
+  - history
 ---
 
 An exclusive obtained by *The Snitch* has revealed a very troubling secret that puts the lives of millions around the world in jeopardy. For as long as vampires have existed, it has been well known that they can only enter a house if they are invited in. However, it has recently been uncovered that vampires have long figured out a way past such pesky restrictions.
