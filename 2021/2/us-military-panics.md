@@ -6,6 +6,7 @@ date: 10
 tags:
   - politics
   - culture
+  - tech
 ---
 
 Panic spread through the Pentagon yesterday after Chief Nuclear Strategist Milo Tappman suddenly remembered that the entire U.S. nuclear arsenal had run on Adobe Flash Player, a popular internet plug-in which recently went defunct.
