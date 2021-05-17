@@ -6,6 +6,7 @@ date: 12
 tags:
   - local
   - science
+  - school
 ---
 
 A new study released yesterday found that the power of friendship is insignificant compared to the power of soul-crushing standardized tests. The study surveyed a group of high school seniors as they prepared for their final exams, where one participant said the following:
