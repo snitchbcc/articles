@@ -7,6 +7,7 @@ tags:
   - local
   - culture
   - best-of
+  - history
 ---
 
 Earlie this very Monthe, local Bestiaries such as th’ Bethesda Bestiarie and th’ Chevy Chase Chronicle Of Yon Beasties proclaimed a horrid truth: Forsooth, there is a Greate and Terrible Beaste in yon hilles near B-CC! Describ’d by the Bethesda Bestiarie as being “like a great Cur with deep tar-black hair, with a taile that bobb’d just so, as a ship on the sea does”, the Beaste is at least as large as two stall’yons measured dock to muzzle, and englutted two men of God, a prioress, and the Snitche’s Managing Cleric Caleb Levie. Said one local Lorde:
