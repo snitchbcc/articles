@@ -5,6 +5,8 @@ authors: Dale Bell
 date: 1
 tags:
   - culture
+  - crime
+  - sports
 ---
 
 Saying that they believed that this new event would be a breath of fresh air and help with ratings, the International Olympic Committee released a statement yesterday laying out their plans to include “hunting fellow man” as a new event debuting in the 2024 Paris Olympics.
