@@ -6,6 +6,7 @@ date: 28
 tags:
   - politics
   - republicans
+  - holidays
 ---
 
 Late yesterday, new documents were leaked confirming that newly pardoned Thanksgiving turkey Cob had been in contact with multiple Russian officials while working for the Trump campaign earlier this year. This shocking revelation comes just days after President Trump pardoned Cob in the annual Thanksgiving turkey pardoning.
