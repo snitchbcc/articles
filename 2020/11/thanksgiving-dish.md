@@ -5,6 +5,8 @@ authors: Caleb Levy
 date: 27
 tags:
   - local
+  - culture
+  - holidays
 ---
 
 Thanksgiving has only just concluded, and already it has been reduced to mere numbers by a new survey. The survey, which was conducted “for science, fun, and definitely not malicious advertising purposes,” asked people to list the dishes they were preparing for this year's meal. Much to the researchers' surprise, “baked firearms” had made substantial gains since last year. The dish, which is made by placing guns in an oven, is usually unpopular, a fact generally attributed to its bad aftertaste and the substantial risk of being shot by bullets combusting in the heat.
