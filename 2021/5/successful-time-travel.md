@@ -4,9 +4,9 @@ title: "First Attempt At Time Travel Goes Off Without A Hitch"
 authors: Elijah Hempstone
 date: 21
 tags:
-  - science
   - local
   - culture
+  - science
 ---
 
 Late this weekend, the intrepid Dr. Nobel left NASA’s time travel institute headquarters at 2:02 in the afternoon, returning ten minutes later after having spent a day in the Jurassic Period. Surprisingly, the experiment seems not to have had any effects on the timeline, disproving once and for all the theory that travelling to the past would cause a butterfly effect.
