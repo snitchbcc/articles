@@ -5,6 +5,7 @@ authors: Benjy Eichner
 date: 19
 tags:
   - culture
+  - sports
 ---
 
 In an exclusive interview with former sixteen-time world champion John Cena, the star was artfully forced to let slip the stunning truth: pro wrestling is not actually a legitimate sporting competition. He went on to expose the fact that the so-called “wrestlers” are told who is going to win a match before it happens. With a little *ahem* persuasion, he then took it even further, admitting that they are also told exactly how to act. The horrible humans that we all grew up despising, like Rowdy Roody Piper, are simply “heels”, a backstage term for a bad guy. Even worse, our heroes like Hulk Hogan and the Ultimate Warrior are simply “baby faces”, or good guys.
