@@ -6,6 +6,7 @@ date: 21
 tags:
   - local
   - culture
+  - best-of
 ---
 
 Earlier today, sources confirmed that IB English student Lauren Dutton was completely blindsided by the really racist third paragraph of the passage she had volunteered to read aloud in class. The reading took place in Ms. Boyce’s IB English 11 class, which is currently reading a collection of short stories by beloved children’s author Rudyard Rhodes, known for such works as *The Savannah Tome* and *The White Dude Who Saves A Bunch Of Brown People*.

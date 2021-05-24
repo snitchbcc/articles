@@ -5,6 +5,7 @@ authors: Chase Eastwood
 date: 19
 tags:
   - local
+  - best-of
 ---
 
 A few weeks ago, *Snitch* investigators uncovered a shocking conspiracy that implicates the entire administration — a plot so astounding that we at first didn’t believe it. For the last 3 years, the administration has been using C-1 “student and visitor” parking permits instead of the required A-1 “administration and MCPS employee” permits for their cocaine and heroin drug smuggling operation.
