@@ -15,7 +15,7 @@ This year’s graduating members.
 **Quote**: “Yes it’s in Iowa but it’s top 15 goddammit. TOP 15!” or “**Denied**.”\
 **Circumstances Of Departure**: The circumstances of Dale’s departure are shrouded in mystery: Some say that he walked into an Iowa cornfield and never returned, absorbed by the corn. Others, that he ascended into the higher IB realm after finally achieving complete mastery of all the learner traits. Still more say that he was just a satire obsessed ghost, a view supported by his semi-translucent pallor. But probably he just exploded into a whirling storm of rage and pretentiousness after someone pitched an article employing meta-humor.
 
-**Name**: Sebatián Valderrama\
+**Name**: Sebastián Valderrama\
 **Job Title On Resume**: Pre-Professional Digital And Pen-To-Paper Artist Of The School Mascot And Also The Baron\
 **Actual Job Title**: Baron Artist\
 **Quote**: “What.”\
