@@ -1,7 +1,7 @@
 ---
 thumbnail: content://manchin.jpeg
 title: "In Display Of Bipartisanship, Joe Manchin Endorses His Republican Challenger"
-authors: Dale Bell
+authors: Dale From The Past
 date: 7
 tags:
   - politics
