@@ -10,14 +10,14 @@
 		"description": "When he’s not <del>tearing up</del> <i>improving</i> articles for The Snitch, he’s putting off improving articles for The Snitch."
 	},
 	{
+		"name": "Benjy Eichner",
+		"tagline": "Head Writer, Senior Snitch, Third Wheel",
+		"description": "Sycophant in Chief."
+	},
+	{
 		"name": "Hudson Yon",
 		"tagline": "Managing Editor, Senior Snitch",
 		"description": "Iä! Iä! Cthulhu fhtagn! Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!"
-	},
-	{
-		"name": "Benjy Eichner",
-		"tagline": "Senior Writer",
-		"description": "Sycophant in Chief."
 	},
 	{
 		"name": "Eli Buehler",
