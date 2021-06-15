@@ -7,6 +7,7 @@ tags:
   - local
   - culture
   - contest
+ribbon: 2020 Snitch Satirical Writing Contest Winner
 ---
 
 *Note: This article was the winning submission of our Satirical Writing Contest and has been left untouched since submission. Congratulations Daniel Rosentover!*
