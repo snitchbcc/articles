@@ -22,13 +22,13 @@ Managing Editor Caleb Levy has had a prolific year at *the Snitch*. Whether it w
 **Phrase Snitch Writers Most Commonly Hear In Their Nightmares- Winner: Denied**\
 Many *Snitch* articles' lives have ended after these words were spoken by our recently departed former editor in chief Dale Bell. Whether because “it’s not good enough” or “it’s too meta” or “you can't put every illegal thing *the* *Snitch* has done into an article and play it off as satire,” the phrase will live long in the minds of *Snitch* writers.
 
-**Most Likely to be a T-ttler Spy- Winner:Bill Angell**\
+**Most Likely to be a T-ttler Spy- Winner: Bill Angell**\
 Bill may be a long time *Snitch* member, but several long unexplained periods of absence in the past year have called his loyalty into question. While the reason may be as simple as *Ratatouille the Tik Tok Musical* sending him into a spiraling depression or, less likely, having to do more important work, we cannot rule out a change in loyalty.
 
 **Most Damaging Lawsuit- Winner: Hydrox**\
 At *the Snitch*, we take pride in the fact that our hard hitting journalism has led to many companies suing us. None have been as damaging as [Hydrox cookies](https://snitchbcc.com/article/conservative-hydrox-pivot). While we stand by the contents of the article, we were forced to send new managing editor Hudson Yon to be turned into cream for the cookies, as Caleb Levy was recovering from nearly drowning while trying to retrieve his press credential from a toilet.
 
-**Prototypical** ***Snitch*** **Article- Winner:** **QUIZ:** **Will You Survive The Inevitable Uprising Of The** **Proletariat?**
+**Prototypical** ***Snitch*** **Article- Winner:** **QUIZ:** **Will You Survive The Inevitable Uprising Of The** **Proletariat?**\
 [This article](https://snitchbcc.com/article/prole-uprising ) contains everything that makes up a prototypical *Snitch* article. First, it includes the word “proletariat,” the type of diction you would only hear in the presence of wannabe intellectuals, a piece of terminology which, by chance, perfectly describes *the* *Snitch* staff. Second, the article is based on the ideas of a philosopher in the form of edgy teenage idol Karl Marx. Finally, the article took way more time than it should have, due to the general lack of organization that plagues the Snitch to this day.
 
 **Most Inspiring Staff Member- Winner: Alana Sonfeild**\
