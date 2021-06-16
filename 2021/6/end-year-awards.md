@@ -28,7 +28,7 @@ Bill may be a long time *Snitch* member, but several long unexplained periods of
 **Most Damaging Lawsuit- Winner: Hydrox**\
 At *the Snitch*, we take pride in the fact that our hard hitting journalism has led to many companies suing us. None have been as damaging as [Hydrox cookies](https://snitchbcc.com/article/conservative-hydrox-pivot). While we stand by the contents of the article, we were forced to send new managing editor Hudson Yon to be turned into cream for the cookies, as Caleb Levy was recovering from nearly drowning while trying to retrieve his press credential from a toilet.
 
-**Prototypical** ***Snitch*** **Article- Winner:** **QUIZ:** **Will You Survive The Inevitable Uprising Of The** **Proletariat?**\
+**Prototypical** ***Snitch*** **Article- Winner:** **QUIZ:** **Will You Survive The Inevitable Uprising Of The** **Proletariat?**
 [This article](https://snitchbcc.com/article/prole-uprising ) contains everything that makes up a prototypical *Snitch* article. First, it includes the word “proletariat,” the type of diction you would only hear in the presence of wannabe intellectuals, a piece of terminology which, by chance, perfectly describes *the* *Snitch* staff. Second, the article is based on the ideas of a philosopher in the form of edgy teenage idol Karl Marx. Finally, the article took way more time than it should have, due to the general lack of organization that plagues the Snitch to this day.
 
 **Most Inspiring Staff Member- Winner: Alana Sonfeild**\
