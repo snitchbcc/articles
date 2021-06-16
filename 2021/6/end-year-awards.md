@@ -10,10 +10,10 @@ tags:
 
 Well folks, the time has come. The year is over, and *The Snitch* is heading for its summer break. In this spirit, we’ve decided to end the year the way it began: dysfunctionally. In light of this, we now present The Snitchies, the most renowned and prestigious awards this side nowhere. Enjoy your summer and remember: **Democracy Bumps into Things in Darkness.**
 
-**Biggest Contribution****- Winner****: COVID-19**
+**Biggest Contribution**- Winner**: COVID-19**
 The MVP of *the Snitch* this year was the COVID-19 pandemic. Nobody had anything better to do, so some of them actually pulled their weight. Not the editors though; they never do their jobs.
 
-**Most** **Injuries on the Job****- Winner: Caleb Levy**\
+**Most** **Injuries on the Job**- Winner: Caleb Levy\
 Managing Editor Caleb Levy has had a prolific year at *the Snitch*. Whether it was losing an arm to a wild search bar or dying at the telepathic beams of a hybrid dolphin-chimpanzee-horse, Caleb has given everything he has to the cause.
 
 **Original Article:** All Of Them
@@ -24,7 +24,7 @@ Managing Editor Caleb Levy has had a prolific year at *the Snitch*. Whether it w
 **Phrase Snitch Writers Most Commonly Hear In Their Nightmares- Winner: Denied**\
 Many *Snitch* articles' lives have ended after these words were spoken by our recently departed former editor in chief Dale Bell. Whether because “it’s not good enough” or “it’s too meta” or “you can't put every illegal thing *the* *Snitch* has done into an article and play it off as satire,” the phrase will live long in the minds of *Snitch* writers.
 
-**Most Likely to be a T*ttler Spy- Winner:Bill Angell**\
+**Most Likely to be a T-ttler Spy- Winner:Bill Angell**\
 Bill may be a long time *Snitch* member, but several long unexplained periods of absence in the past year have called his loyalty into question. While the reason may be as simple as *Ratatouille the Tik Tok Musical* sending him into a spiraling depression or, less likely, having to do more important work, we cannot rule out a change in loyalty.
 
 **Most Damaging Lawsuit- Winner: Hydrox**\
@@ -32,7 +32,7 @@ At *the Snitch*, we take pride in the fact that our hard hitting journalism has 
 
 **Original Article:** https://snitchbcc.com/article/conservative-hydrox-pivot 
 
-**Prototypical** ***Snitch*** **Article****- Winner: QUIZ: Will You Survive The Inevitable Uprising Of The Proletariat?**\
+**Prototypical** ***Snitch*** **Article**- Winner: QUIZ: Will You Survive The Inevitable Uprising Of The Proletariat?**\
 This article contains everything that makes up a prototypical *Snitch* article. First, it includes the word “proletariat,” the type of diction you would only hear in the presence of wannabe intellectuals, a piece of terminology which, by chance, perfectly describes *the* *Snitch* staff. Second, the article is based on the ideas of a philosopher in the form of edgy teenage idol Karl Marx. Finally, the article took way more time than it should have, due to the general lack of organization that plagues the Snitch to this day.
 
 **Original Article:** https://snitchbcc.com/article/prole-uprising 
