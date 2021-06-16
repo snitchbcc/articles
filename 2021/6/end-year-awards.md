@@ -10,10 +10,10 @@ tags:
 
 Well folks, the time has come. The year is over, and *The Snitch* is heading for its summer break. In this spirit, we’ve decided to end the year the way it began: dysfunctionally. In light of this, we now present The Snitchies, the most renowned and prestigious awards this side nowhere. Enjoy your summer and remember: **Democracy Bumps into Things in Darkness.**
 
-**Biggest Contribution**- Winner: COVID-19
+**Biggest Contribution- Winner: COVID-19**\
 The MVP of *the Snitch* this year was the COVID-19 pandemic. Nobody had anything better to do, so some of them actually pulled their weight. Not the editors though; they never do their jobs.
 
-**Most** **Injuries on the Job**- Winner: Caleb Levy\
+**Most** **Injuries on the Job- Winner: Caleb Levy**\
 Managing Editor Caleb Levy has had a prolific year at *the Snitch*. Whether it was losing an arm to a wild search bar or dying at the telepathic beams of a hybrid dolphin-chimpanzee-horse, Caleb has given everything he has to the cause.
 
 **Most Shameless Plugs- Winner: Auguste Rame**\
@@ -28,7 +28,7 @@ Bill may be a long time *Snitch* member, but several long unexplained periods of
 **Most Damaging Lawsuit- Winner: Hydrox**\
 At *the Snitch*, we take pride in the fact that our hard hitting journalism has led to many companies suing us. None have been as damaging as [Hydrox cookies](https://snitchbcc.com/article/conservative-hydrox-pivot). While we stand by the contents of the article, we were forced to send new managing editor Hudson Yon to be turned into cream for the cookies, as Caleb Levy was recovering from nearly drowning while trying to retrieve his press credential from a toilet.
 
-**Prototypical** ***Snitch*** **Article**- Winner: QUIZ: Will You Survive The Inevitable Uprising Of The Proletariat?**\
+**Prototypical** ***Snitch*** **Article- Winner: QUIZ: Will You Survive The Inevitable Uprising Of The Proletariat?**\
 [This article](https://snitchbcc.com/article/prole-uprising ) contains everything that makes up a prototypical *Snitch* article. First, it includes the word “proletariat,” the type of diction you would only hear in the presence of wannabe intellectuals, a piece of terminology which, by chance, perfectly describes *the* *Snitch* staff. Second, the article is based on the ideas of a philosopher in the form of edgy teenage idol Karl Marx. Finally, the article took way more time than it should have, due to the general lack of organization that plagues the Snitch to this day.
 
 **Most Inspiring Staff Member- Winner: Alana Sonfeild**\
