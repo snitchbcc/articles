@@ -10,7 +10,7 @@ tags:
 
 Well folks, the time has come. The year is over, and *The Snitch* is heading for its summer break. In this spirit, we’ve decided to end the year the way it began: dysfunctionally. In light of this, we now present The Snitchies, the most renowned and prestigious awards this side nowhere. Enjoy your summer and remember: **Democracy Bumps into Things in Darkness.**
 
-**Biggest Contribution**- Winner**: COVID-19**
+**Biggest Contribution**- Winner: COVID-19
 The MVP of *the Snitch* this year was the COVID-19 pandemic. Nobody had anything better to do, so some of them actually pulled their weight. Not the editors though; they never do their jobs.
 
 **Most** **Injuries on the Job**- Winner: Caleb Levy\
