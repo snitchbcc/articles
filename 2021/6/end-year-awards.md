@@ -1,6 +1,6 @@
 ---
 thumbnail: content://logo.jpg
-title: "The Snitchies- The Snitch’s End of Year Awards"
+title: "The Snitchies: The Snitch’s End of Year Awards"
 authors: The Snitch Team
 date: 16
 tags:
