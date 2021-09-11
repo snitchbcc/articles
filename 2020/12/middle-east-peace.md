@@ -10,7 +10,7 @@ tags:
 
 With time running out to solve one of this century’s most intractable foriegn policy issues, a panicked and visibly sleep-deprived Jared Kushner started advocating a zero state solution to the myriad of problems in the Middle East. 
 
-“I mean, the countries can’t keep fighting each other if none of them exist right!?!” shuddered Kusher, brushing several empty cans of Red Bull off his desk. “Like, it’s so simple, right? I don’t know how no one came up with this before. The Israeli-Palestinaian conflict can’t continue without Israel or Palestine! I’m a goddamn genius!” At this, Kushner threw open the shades of his office and cringed as the light seared his eyes and illuminated the week’s worth of stubble on his chin.
+“I mean, the countries can’t keep fighting each other if none of them exist right!?!” shuddered Kushner, brushing several empty cans of Red Bull off his desk. “Like, it’s so simple, right? I don’t know how no one came up with this before. The Israeli-Palestinaian conflict can’t continue without Israel or Palestine! I’m a goddamn genius!” At this, Kushner threw open the shades of his office and cringed as the light seared his eyes and illuminated the week’s worth of stubble on his chin.
 
 Kushner continued:
 
