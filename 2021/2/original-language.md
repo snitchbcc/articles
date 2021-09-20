@@ -4,8 +4,6 @@ title: "We Wrote This Article In Our Own Original Language And The Jokes Don't T
 authors: Eli Buehler
 date: 24
 tags:
-  - local
-  - politics
   - culture
 ---
 
