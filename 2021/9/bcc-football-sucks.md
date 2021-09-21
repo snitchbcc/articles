@@ -7,6 +7,7 @@ tags:
   - local
   - culture
   - school
+  - sports
 ---
 
 “B-CC football is experiencing an average level of success” is not a sentence I ever expected I would be writing. In this spirit, here are ten things that are more likely to happen than B-CC winning three games of football in a row.
