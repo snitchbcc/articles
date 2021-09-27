@@ -4,6 +4,7 @@ title: "Man Survives AI Uprising By Hiding Behind Various Street Signs"
 authors: Nicholas Daum
 date: 27
 tags:
+  - culture
   - science
   - tech
 ---
