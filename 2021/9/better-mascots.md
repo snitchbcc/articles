@@ -1,6 +1,6 @@
 ---
 thumbnail: content://better_mascots.jfif
-title: "Mascots That Would Be Better Than A Baron Or A Pine Tree"
+title: "Cartoon: Mascots That Would Be Better Than A Baron Or A Pine Tree"
 authors: Natalie Weng
 date: 30
 tags:
