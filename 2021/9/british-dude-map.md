@@ -4,8 +4,8 @@ title: "Majority Of World’s Problems Traced To Some British Dude With A Map"
 authors: Dale The Disappeared
 date: 29
 tags:
-  - history
   - culture
+  - history
 ---
 
 After years of intensive study, a report published last week by several faculty members at Fälschung University traced the majority of the world’s problems to some British dude with a map. This overturns years of previously accepted academic scholarship which pointed to “a vengeful god” as the cause of the world’s problems.
