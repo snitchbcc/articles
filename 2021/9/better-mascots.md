@@ -1,5 +1,6 @@
 ---
 thumbnail: content://better_mascots.jfif
+thumbnail-max-height: 500
 title: "Cartoon: Mascots That Would Be Better Than A Baron Or A Pine Tree"
 authors: Natalie Weng
 date: 30
