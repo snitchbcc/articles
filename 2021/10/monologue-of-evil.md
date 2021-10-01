@@ -4,6 +4,8 @@ title: "You Fool! You've Fallen For My Dastardly Plan!"
 authors: Doctor The Administrator
 date: 1
 tags:
+  - local
+  - school
   - crime
 ---
 
