@@ -2,7 +2,7 @@
 	{
 		"name": "Auguste Rame",
 		"tagline": "Co-Editor in Chief, Website Destroyer, Writer, Editor",
-		"description": "Master of the unnecessary 6-month-long website redesign, chronic procrastinator."
+		"description": "Master of midnight Snitch productivity hour, chronic procrastinator."
 	},
 	{
 		"name": "Caleb Levy",
@@ -25,24 +25,9 @@
 		"description": "How did I get here?"
 	},
 	{
-		"name": "Liv Dentoni",
-		"tagline": "Outreach",
-		"description": "We are decidedly <i>not</i> all in this together."
-	},
-	{
-		"name": "Tali Goelman",
-		"tagline": "Writer",
-		"description": "“There is no subject as juxtaposed between art and history as philosophy. On one hand, it is in touch with the exact science of historical context, and on the other, it is a subjective artistic interpretation of the way of living.” - Map R Test"
-	},
-	{
 		"name": "Nicholas Daum",
 		"tagline": "Writer",
 		"description": "What they don’t know is that I’m using a vast sweatshop of monkeys to write all my articles. One day they’ll finish one."
-	},
-	{
-		"name": "Natalie Weng",
-		"tagline": "Draw-er",
-		"description": "Can both doodle pictures and hold common household items. You decide."
 	},
 	{
 		"name": "Evan Song",
@@ -50,9 +35,39 @@
 		"description": "Schrodinger's editor; I have both edited and not edited the article until it's observed. Then I just haven't edited it."
 	},
 	{
+		"name": "Liv Dentoni",
+		"tagline": "Outreach",
+		"description": "We are decidedly <i>not</i> all in this together."
+	},
+	{
+		"name": "Curran Holden",
+		"tagline": "Illegal Council, Very Not Senior Writer-ish",
+		"description": "Still trying to convince people that we should adopt congressional style debate."
+	},
+	{
+		"name": "Natalie Weng",
+		"tagline": "Draw-er",
+		"description": "Can both doodle pictures and hold common household items. You decide."
+	},
+	{
+		"name": "Tali Goelman",
+		"tagline": "Writer",
+		"description": "“There is no subject as juxtaposed between art and history as philosophy. On one hand, it is in touch with the exact science of historical context, and on the other, it is a subjective artistic interpretation of the way of living.” - Map R Test"
+	},
+	{
+		"name": "Sanjana Surendran",
+		"tagline": "Artist?",
+		"description": "You’ll either catch me sleeping or meticulously planning my path to world domination. Be afraid."
+	},
+	{
 		"name": "Chase Eastwood",
 		"tagline": "Writer",
 		"description": "An Auguste-acclaimed journalist who is definitely not Auguste."
+	},
+	{
+		"name": "Grug",
+		"tagline": "Art Critic",
+		"description": "Grug am learned. Grug am have bachelor’s degree in art history from Cavern University. Do not make harmful assumption about Grug."
 	},
 	{
 		"name": "Dr. Reese Sessions",
