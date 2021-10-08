@@ -1,7 +1,8 @@
 ---
 thumbnail: content://jar.jpeg
-title: "Desperate For New Revenue Sources, IRS Introduces “Swear Jar” Tax Policy"
-authors: Dale Bell
+title: Desperate For New Revenue Sources, IRS Introduces “Swear Jar” Tax Policy
+authors:
+  - Dale Bell
 date: 19
 tags:
   - local

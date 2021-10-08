@@ -1,7 +1,10 @@
 ---
 thumbnail: content://parking.jpeg
-title: "Investigation: Is The Secretive B-CC Administration Drug Trade Using Correct Parking Permits?"
-authors: Chase Eastwood
+title: >-
+  Investigation: Is The Secretive B-CC Administration Drug Trade Using Correct
+  Parking Permits?
+authors:
+  - Chase Eastwood
 date: 19
 tags:
   - local

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://timapple.png
 title: "New iPhone Comes For The Low Price Of Your Firstborn "
-authors: Bruno Chong
+authors:
+  - Bruno Chong
 date: 25
 tags:
   - local

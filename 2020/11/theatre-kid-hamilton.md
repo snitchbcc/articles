@@ -1,7 +1,8 @@
 ---
 thumbnail: content://theatre.jpeg
-title: "Proud Theater Kid Wins Award For Most Hamilton References Ever"
-authors: Benjy Eichner
+title: Proud Theater Kid Wins Award For Most Hamilton References Ever
+authors:
+  - Benjy Eichner
 date: 11
 tags:
   - local

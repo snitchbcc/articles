@@ -1,7 +1,10 @@
 ---
 thumbnail: content://philosophy.jpeg
-title: "Philosophy Major Refuses To Acknowledge Student Debt As It Is Just Societal Construct"
-authors: Dale Bell
+title: >-
+  Philosophy Major Refuses To Acknowledge Student Debt As It Is Just Societal
+  Construct
+authors:
+  - Dale Bell
 date: 9
 tags:
   - local

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://history.jpeg
 title: "Infonongraphic: The History Of Satire"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 3
 tags:
   - series

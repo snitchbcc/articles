@@ -1,7 +1,8 @@
 ---
 thumbnail: content://evolution.jpg
 title: "Cartoon: Evolution Of The Baron"
-authors: Sebastián Valderrama
+authors:
+  - Sebastián Valderrama
 date: 12
 tags:
   - cartoon

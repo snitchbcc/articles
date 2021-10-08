@@ -1,7 +1,8 @@
 ---
 thumbnail: content://legos.jpeg
-title: "In Controversial Move, UN Removes Legos From Banned Weapons List"
-authors: Benjy Eichner
+title: In Controversial Move, UN Removes Legos From Banned Weapons List
+authors:
+  - Benjy Eichner
 date: 7
 tags:
   - politics

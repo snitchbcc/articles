@@ -1,7 +1,10 @@
 ---
 thumbnail: content://cloyes.jpeg
-title: "Passive Aggressive Parent Casually Mentions Stephen Of Cloyes Was Leading Crusade At Your Age"
-authors: Benjy Eichner
+title: >-
+  Passive Aggressive Parent Casually Mentions Stephen Of Cloyes Was Leading
+  Crusade At Your Age
+authors:
+  - Benjy Eichner
 date: 21
 tags:
   - local

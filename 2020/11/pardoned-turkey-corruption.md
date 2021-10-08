@@ -1,7 +1,10 @@
 ---
 thumbnail: content://turkey.jpeg
-title: "Pardoned Turkey Discovered To Have Had Contact With Multiple Russian Officials While Working For Trump Campaign"
-authors: Dale Bell
+title: >-
+  Pardoned Turkey Discovered To Have Had Contact With Multiple Russian Officials
+  While Working For Trump Campaign
+authors:
+  - Dale Bell
 date: 28
 tags:
   - politics

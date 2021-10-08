@@ -1,7 +1,10 @@
 ---
 thumbnail: content://tucker.jpeg
-title: Conservative Media Outraged After Protestors Kidnapped By Federal Agents Forced To Wear Masks
-authors: Dale Bell
+title: >-
+  Conservative Media Outraged After Protestors Kidnapped By Federal Agents
+  Forced To Wear Masks
+authors:
+  - Dale Bell
 date: 2
 tags:
   - politics

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://danger.jpeg
 title: "Infonongraphic: The Most Dangerous Jobs In The World"
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 18
 tags:
   - series

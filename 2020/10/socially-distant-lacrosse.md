@@ -1,7 +1,8 @@
 ---
 thumbnail: content://lax.jpeg
 title: "Cartoon: Socially Distant Lacrosse Practice"
-authors: Sebastián Valderrama
+authors:
+  - Sebastián Valderrama
 date: 5
 tags:
   - culture

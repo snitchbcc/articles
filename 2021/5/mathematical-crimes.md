@@ -1,7 +1,10 @@
 ---
 thumbnail: content://calculus.jpg
-title: "Mathematician Caught Creating Elaborate Crimes Where Algebra Must Be Used To Save Civilians"
-authors: Peter Wange
+title: >-
+  Mathematician Caught Creating Elaborate Crimes Where Algebra Must Be Used To
+  Save Civilians
+authors:
+  - Peter Wange
 date: 5
 tags:
   - local

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://sandwhich.jpeg
 title: "Exposé: Dedicated Student Activist Actually Subway Regular"
-authors: Auguste Rame
+authors:
+  - Auguste Rame
 date: 12
 tags:
   - local

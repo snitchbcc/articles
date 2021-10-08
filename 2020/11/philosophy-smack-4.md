@@ -1,7 +1,8 @@
 ---
 thumbnail: content://soren.jpg
 title: "Philosophy Smack #4"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 30
 tags:
   - series

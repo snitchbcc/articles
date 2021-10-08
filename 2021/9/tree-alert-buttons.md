@@ -1,7 +1,10 @@
 ---
 thumbnail: content://treefall.jpg
-title: "Innovative Company Gives Alert Buttons To Trees If They Fall In The Forest When No One’s Around And Need To Contact Family"
-authors: Benjy Eichner
+title: >-
+  Innovative Company Gives Alert Buttons To Trees If They Fall In The Forest
+  When No One’s Around And Need To Contact Family
+authors:
+  - Benjy Eichner
 date: 15
 tags:
   - culture

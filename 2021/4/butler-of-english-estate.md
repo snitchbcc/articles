@@ -1,7 +1,10 @@
 ---
 thumbnail: content://butler.jpeg
-title: "Butler Of Remote English Estate Can’t Go Five Days Without Someone Accusing Him Of Murder"
-authors: Frank Washington
+title: >-
+  Butler Of Remote English Estate Can’t Go Five Days Without Someone Accusing
+  Him Of Murder
+authors:
+  - Frank Washington
 date: 27
 tags:
   - local

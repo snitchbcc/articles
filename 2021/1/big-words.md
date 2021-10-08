@@ -1,7 +1,8 @@
 ---
 thumbnail: content://coxcomb.jpeg
-title: "Pretentious Coxcomb Wantonly Employs Sententious And Turgid Rhetoric"
-authors: Dale Bell
+title: Pretentious Coxcomb Wantonly Employs Sententious And Turgid Rhetoric
+authors:
+  - Dale Bell
 date: 29
 tags:
   - local

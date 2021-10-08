@@ -1,7 +1,10 @@
 ---
 thumbnail: content://minorityfirearm.jpeg
-title: "Republican Support For Gun Control Jumps To 100% After Video Surfaces Of Minority Buying Gun"
-authors: Chase Eastwood
+title: >-
+  Republican Support For Gun Control Jumps To 100% After Video Surfaces Of
+  Minority Buying Gun
+authors:
+  - Chase Eastwood
 date: 31
 tags:
   - politics

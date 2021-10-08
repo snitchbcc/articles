@@ -1,7 +1,10 @@
 ---
 thumbnail: content://putin.jpeg
-title: "Desolate Putin Never Would Have Seized Power, Murdered Opposition, If He Knew People Would Be This Mean To Him"
-authors: Nicholas Daum
+title: >-
+  Desolate Putin Never Would Have Seized Power, Murdered Opposition, If He Knew
+  People Would Be This Mean To Him
+authors:
+  - Nicholas Daum
 date: 22
 tags:
   - politics

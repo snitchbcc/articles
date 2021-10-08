@@ -1,7 +1,8 @@
 ---
 thumbnail: content://napoleon.jpeg
-title: "Napoleon Commends Coronavirus For Quick And Effective Takeover Of Europe"
-authors: Benjy Eichner
+title: Napoleon Commends Coronavirus For Quick And Effective Takeover Of Europe
+authors:
+  - Benjy Eichner
 date: 1
 tags:
   - politics

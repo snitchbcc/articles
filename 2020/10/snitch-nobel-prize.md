@@ -1,7 +1,8 @@
 ---
 thumbnail: content://nobel.jpeg
-title: "Nobel Committee Creates Journalism Prize, Gives It To The Snitch"
-authors: Dale Bell
+title: Nobel Committee Creates Journalism Prize, Gives It To The Snitch
+authors:
+  - Dale Bell
 date: 6
 tags:
   - local

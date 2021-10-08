@@ -1,7 +1,10 @@
 ---
 thumbnail: content://hand2.jpeg
-title: "Everyone's A Critic: Grug Say New \"Hand\" Cave-Painting Too Experimental, Too Abstract"
-authors: Grug
+title: >-
+  Everyone's A Critic: Grug Say New "Hand" Cave-Painting Too Experimental, Too
+  Abstract
+authors:
+  - Grug
 date: 11
 tags:
   - series

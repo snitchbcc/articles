@@ -1,7 +1,10 @@
 ---
 thumbnail: content://randpaul.jpeg
-title: "Rand Paul Accuses Dr. Fauci Of Political Theater In Dramatic Shakespearean Monologue"
-authors: Dale Bell
+title: >-
+  Rand Paul Accuses Dr. Fauci Of Political Theater In Dramatic Shakespearean
+  Monologue
+authors:
+  - Dale Bell
 date: 18
 tags:
   - politics

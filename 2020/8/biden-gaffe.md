@@ -1,7 +1,8 @@
 ---
 thumbnail: content://joe2.jpeg
-title: "In Latest Gaffe, Joe Biden Confesses To Double Murder"
-authors: Dale Bell
+title: In Latest Gaffe, Joe Biden Confesses To Double Murder
+authors:
+  - Dale Bell
 date: 28
 tags:
   - politics

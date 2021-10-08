@@ -1,7 +1,8 @@
 ---
 thumbnail: content://school.jpeg
 title: "School Budget Cut: Teacher Now Holding Children Hostage Daily For Ransom"
-authors: Nicholas Daum
+authors:
+  - Nicholas Daum
 date: 14
 tags:
   - politics

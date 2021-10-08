@@ -1,7 +1,10 @@
 ---
 thumbnail: content://creed.jpeg
-title: "It Blatantly Obvious That Student's History Essay Based On Information From Assassin's Creed"
-authors: Dale Bell
+title: >-
+  It Blatantly Obvious That Student's History Essay Based On Information From
+  Assassin's Creed
+authors:
+  - Dale Bell
 date: 26
 tags:
   - local

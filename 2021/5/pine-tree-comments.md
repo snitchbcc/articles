@@ -1,7 +1,10 @@
 ---
 thumbnail: content://pinetree.jpg
-title: "B-CC Administration Reeling After Resurfaced Tweets Show The Pine Tree’s History Of Making Denigrating Comments About Poplars"
-authors: Benjy Eichner
+title: >-
+  B-CC Administration Reeling After Resurfaced Tweets Show The Pine Tree’s
+  History Of Making Denigrating Comments About Poplars
+authors:
+  - Benjy Eichner
 date: 4
 tags:
   - local

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://muffin.jpeg
 title: “Forget This, Can We Just Elect My Cat?” Asks Exhausted Nation
-authors: Bill Angell
+authors:
+  - Bill Angell
 date: 30
 tags:
   - politics

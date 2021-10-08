@@ -1,7 +1,8 @@
 ---
 thumbnail: content://drink.jpeg
-title: "Local Drunk Misinterprets Antibody Cocktail"
-authors: Dale Bell
+title: Local Drunk Misinterprets Antibody Cocktail
+authors:
+  - Dale Bell
 date: 2
 tags:
   - local

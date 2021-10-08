@@ -1,7 +1,8 @@
 ---
 thumbnail: content://null.jpg
-title: After Years Of Therapy, Null Hypothesis Opens Up About Fear Of Rejection 
-authors: Dale Bell 
+title: After Years Of Therapy, Null Hypothesis Opens Up About Fear Of Rejection
+authors:
+  - Dale Bell
 date: 14
 tags:
   - local

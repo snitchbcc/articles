@@ -1,7 +1,10 @@
 ---
 thumbnail: content://allies.jpeg
-title: "U.S., Israel, Saudi Arabia Happy To Have Found Common Ground On How Dead Iranian Nuclear Physicist Should Be"
-authors: Frank Washington
+title: >-
+  U.S., Israel, Saudi Arabia Happy To Have Found Common Ground On How Dead
+  Iranian Nuclear Physicist Should Be
+authors:
+  - Frank Washington
 date: 3
 tags:
   - politics

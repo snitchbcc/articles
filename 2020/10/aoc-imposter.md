@@ -1,7 +1,10 @@
 ---
 thumbnail: content://among_us.jpg
-title: "AOC Accuses Florida Representative Ted Yoho Of Being The Imposter In Emergency Congress Meeting"
-authors: Bill Angell
+title: >-
+  AOC Accuses Florida Representative Ted Yoho Of Being The Imposter In Emergency
+  Congress Meeting
+authors:
+  - Bill Angell
 date: 26
 tags:
   - politics

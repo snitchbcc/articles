@@ -1,7 +1,10 @@
 ---
 thumbnail: content://ww1.jpeg
-title: "The Sad Truth: Kids These Days Would Rather Play “Video Games” Than Volunteer For World War One"
-authors: Nicholas Daum
+title: >-
+  The Sad Truth: Kids These Days Would Rather Play “Video Games” Than Volunteer
+  For World War One
+authors:
+  - Nicholas Daum
 date: 5
 tags:
   - culture

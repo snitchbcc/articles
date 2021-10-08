@@ -1,6 +1,7 @@
 ---
 title: New Secret Society Club Announces Open Call For New Members
-authors: Bill Angell
+authors:
+  - Bill Angell
 date: 28
 tags:
   - local

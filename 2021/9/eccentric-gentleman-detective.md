@@ -1,7 +1,10 @@
 ---
 thumbnail: content://eccdetective.jpg
-title: "Eccentric Gentleman Detective Really Lucked Out On Last Few Cases Involving Opera, Chess, Knowledge Of Fine Brandies"
-authors: Pre-College Dale 
+title: >-
+  Eccentric Gentleman Detective Really Lucked Out On Last Few Cases Involving
+  Opera, Chess, Knowledge Of Fine Brandies
+authors:
+  - Pre-College Dale
 date: 10
 tags:
   - culture

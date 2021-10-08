@@ -1,7 +1,8 @@
 ---
 thumbnail: content://stress.jpeg
-title: "SEL Backfires As Students Realize Relationship With Schoolwork Is Toxic"
-authors: Dale Bell
+title: SEL Backfires As Students Realize Relationship With Schoolwork Is Toxic
+authors:
+  - Dale Bell
 date: 26
 tags:
   - local

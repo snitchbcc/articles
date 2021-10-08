@@ -1,7 +1,8 @@
 ---
 thumbnail: content://elephant.webp
-title: "Disturbing Study Finds That Elephants Can Communicate, And They're Really Mean"
-authors: 12th Grade Dale Bell
+title: Disturbing Study Finds That Elephants Can Communicate, And They're Really Mean
+authors:
+  - 12th Grade Dale Bell
 date: 24
 tags:
   - culture

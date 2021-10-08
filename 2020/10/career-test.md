@@ -1,7 +1,8 @@
 ---
 thumbnail: content://career.jpeg
 title: "Post-Apocalyptic Scavenger #1 Result On 100% Accurate Career Test"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 11
 tags:
   - local

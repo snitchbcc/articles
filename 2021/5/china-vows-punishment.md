@@ -1,7 +1,8 @@
 ---
 thumbnail: content://rocket.webp
-title: "China Vows To Punish The Children Who Made Faulty Rocket"
-authors: Dale Bell
+title: China Vows To Punish The Children Who Made Faulty Rocket
+authors:
+  - Dale Bell
 date: 18
 tags:
   - politics

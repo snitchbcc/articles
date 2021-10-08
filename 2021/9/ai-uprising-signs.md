@@ -1,7 +1,8 @@
 ---
 thumbnail: content://street_sign.webp
-title: "Man Survives AI Uprising By Hiding Behind Various Street Signs"
-authors: Nicholas Daum
+title: Man Survives AI Uprising By Hiding Behind Various Street Signs
+authors:
+  - Nicholas Daum
 date: 27
 tags:
   - culture

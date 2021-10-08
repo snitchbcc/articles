@@ -1,7 +1,8 @@
 ---
 thumbnail: content://vlad.jpeg
-title: "Vlad The Impaler Feeling Constrained Creatively With Execution Methods"
-authors: Benjy Eichner
+title: Vlad The Impaler Feeling Constrained Creatively With Execution Methods
+authors:
+  - Benjy Eichner
 date: 20
 tags:
   - politics

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://oscars.jpeg
-title: "Man Unsure Which New Movie To Watch Until Oscars Announces Objectively Best Film Of Year"
-authors: Nicholas Daum
+title: >-
+  Man Unsure Which New Movie To Watch Until Oscars Announces Objectively Best
+  Film Of Year
+authors:
+  - Nicholas Daum
 date: 23
 tags:
   - culture

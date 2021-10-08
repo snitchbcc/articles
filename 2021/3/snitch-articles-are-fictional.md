@@ -1,7 +1,8 @@
 ---
 thumbnail: content://writing-on-typewriter.jpeg
 title: "Snitch Exposé: Snitch Articles Are Entirely Fictional"
-authors: Bill Angell
+authors:
+  - Bill Angell
 date: 19
 tags:
   - local

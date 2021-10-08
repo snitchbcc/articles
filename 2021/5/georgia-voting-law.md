@@ -1,7 +1,10 @@
 ---
 thumbnail: content://hedgemaze.webp
-title: "Georgia Passes Law Requiring Construction Of Massive Hedge Mazes In Front Of Majority-Black Districts’ Polling Places"
-authors: Nicholas Daum
+title: >-
+  Georgia Passes Law Requiring Construction Of Massive Hedge Mazes In Front Of
+  Majority-Black Districts’ Polling Places
+authors:
+  - Nicholas Daum
 date: 14
 tags:
   - politics

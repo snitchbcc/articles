@@ -1,7 +1,10 @@
 ---
 thumbnail: content://topaz.jpeg
-title: "English Student Who Volunteered To Read Passage Aloud Blindsided By Super Racist Third Paragraph"
-authors: Dale Bell
+title: >-
+  English Student Who Volunteered To Read Passage Aloud Blindsided By Super
+  Racist Third Paragraph
+authors:
+  - Dale Bell
 date: 21
 tags:
   - local

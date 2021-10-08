@@ -1,7 +1,10 @@
 ---
 thumbnail: content://tennis.webp
-title: "White Noise Machine Just Tape Of Man Named Jasper Discussing Cape Cod Vacation, Tennis, Capital Gains Tax"
-authors: Dale From The Past
+title: >-
+  White Noise Machine Just Tape Of Man Named Jasper Discussing Cape Cod
+  Vacation, Tennis, Capital Gains Tax
+authors:
+  - Dale From The Past
 date: 9
 tags:
   - culture

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://Ted.jpeg
-title: "Media Apologizes For Making You Picture Ted Cruz In A Bathing Suit"
-authors: Curran Holden
+title: Media Apologizes For Making You Picture Ted Cruz In A Bathing Suit
+authors:
+  - Curran Holden
 date: 24
 tags:
   - politics

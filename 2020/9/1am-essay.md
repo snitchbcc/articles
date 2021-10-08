@@ -1,7 +1,8 @@
 ---
 thumbnail: content://essay.jpg
 title: "Report: Essay Written At 1:00 AM Less Coherent Than Previously Thought"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 9
 tags:
   - local

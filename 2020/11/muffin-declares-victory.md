@@ -1,13 +1,13 @@
 ---
 thumbnail: content://muffinpres.jpeg
 title: "Muffin The Cat Declares Electoral Victory Amid Confusion "
-authors: Bill Angell
+authors:
+  - Bill Angell
 date: 6
 tags:
   - politics
   - 2020-election
 ---
-
 
 Last night, Muffin the Cat declared victory in the 2020 Presidential Election, seizing on the chaos of the past several days. Despite being a third party candidate with little press coverage, the orange housecat claimed that he won the election, and that everyone could stop worrying.
 

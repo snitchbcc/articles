@@ -1,7 +1,8 @@
 ---
 thumbnail: content://barongothic.jpeg
 title: "Cartoon: Bethesda Gothic"
-authors: Sebastian Valderrama
+authors:
+  - Sebastian Valderrama
 date: 26
 tags:
   - cartoon

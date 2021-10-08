@@ -1,7 +1,10 @@
 ---
 thumbnail: content://classroom.webp
-title: "Dept. Of Interior Announces Reintroduction Of Bullies Into Ms. Boyce’s AP Lang Class To Control Nerd Population"
-authors: Dale Bell
+title: >-
+  Dept. Of Interior Announces Reintroduction Of Bullies Into Ms. Boyce’s AP Lang
+  Class To Control Nerd Population
+authors:
+  - Dale Bell
 date: 19
 tags:
   - local

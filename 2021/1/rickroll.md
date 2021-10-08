@@ -1,7 +1,8 @@
 ---
 thumbnail: content://rickroll.jpg
 title: "Cartoon: The Baron Will Never Give You Up"
-authors: Sebastián Valderrama
+authors:
+  - Sebastián Valderrama
 date: 11
 tags:
   - local

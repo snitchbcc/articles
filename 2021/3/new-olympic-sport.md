@@ -1,7 +1,8 @@
 ---
 thumbnail: content://hunting.jpeg
-title: "Olympic Committee To Include Hunting Fellow Man As New Event In 2024 Olympics"
-authors: Dale Bell
+title: Olympic Committee To Include Hunting Fellow Man As New Event In 2024 Olympics
+authors:
+  - Dale Bell
 date: 1
 tags:
   - culture

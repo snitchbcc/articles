@@ -1,7 +1,10 @@
 ---
 thumbnail: content://tv.jpeg
-title: "Man Screaming 'Stop The Steal' Unsure Why Everyone Is Ignoring Him As Thief Runs Off With His TV"
-authors: Dale Bell
+title: >-
+  Man Screaming 'Stop The Steal' Unsure Why Everyone Is Ignoring Him As Thief
+  Runs Off With His TV
+authors:
+  - Dale Bell
 date: 30
 tags:
   - local

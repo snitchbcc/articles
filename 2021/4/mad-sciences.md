@@ -1,7 +1,10 @@
 ---
 thumbnail: content://madscience.jpeg
-title: "B-CC’s New Mad Science Department Opens Courses On Mad Botany, Mad Biochemistry, And Mad Psychology"
-authors: Dale Bell
+title: >-
+  B-CC’s New Mad Science Department Opens Courses On Mad Botany, Mad
+  Biochemistry, And Mad Psychology
+authors:
+  - Dale Bell
 date: 28
 tags:
   - local

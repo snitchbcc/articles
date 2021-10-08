@@ -1,7 +1,8 @@
 ---
 thumbnail: content://cell.jpeg
-title: "Self-Conscious Cell Wondering If New Membrane Lipids Make It Look Fat"
-authors: Dale Bell
+title: Self-Conscious Cell Wondering If New Membrane Lipids Make It Look Fat
+authors:
+  - Dale Bell
 date: 5
 tags:
   - local

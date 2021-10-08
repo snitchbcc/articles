@@ -1,7 +1,8 @@
 ---
 thumbnail: content://toilet.jpeg
-title: "Toilets Found In Third Floor Vape Room"
-authors: Dale Bell
+title: Toilets Found In Third Floor Vape Room
+authors:
+  - Dale Bell
 date: 24
 tags:
   - local

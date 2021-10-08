@@ -1,7 +1,8 @@
 ---
 thumbnail: content://news.jpeg
 title: Student Journalist Acting Like Cafeteria Pricing Article Is Goddamn Watergate
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 4
 tags:
   - local

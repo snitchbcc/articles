@@ -1,7 +1,10 @@
 ---
 thumbnail: content://viking.jpeg
-title: "Actual Vikings Hold Press Conference Disavowing “Violent And Murderous” White Supremacists"
-authors: Dale Bell
+title: >-
+  Actual Vikings Hold Press Conference Disavowing “Violent And Murderous” White
+  Supremacists
+authors:
+  - Dale Bell
 date: 21
 tags:
   - politics

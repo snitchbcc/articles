@@ -1,7 +1,10 @@
 ---
 thumbnail: content://sat.jpeg
-title: "New PrepMatters Super-Deluxe Package Offers Parents Opportunity To Swap Child Out With One Who Will Get A 1600 "
-authors: Dale Bell
+title: >-
+  New PrepMatters Super-Deluxe Package Offers Parents Opportunity To Swap Child
+  Out With One Who Will Get A 1600 
+authors:
+  - Dale Bell
 date: 29
 tags:
   - local

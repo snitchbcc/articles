@@ -1,7 +1,8 @@
 ---
 thumbnail: content://trump.jpeg
-title: "Trump Claims To Have Coronavirus In Order To Appeal To Infected Voters"
-authors: Erica Molot
+title: Trump Claims To Have Coronavirus In Order To Appeal To Infected Voters
+authors:
+  - Erica Molot
 date: 5
 tags:
   - politics

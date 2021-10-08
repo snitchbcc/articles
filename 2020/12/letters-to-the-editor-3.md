@@ -1,7 +1,10 @@
 ---
 thumbnail: content://othermail.jpeg
-title: "Letters To The Editor #3: I Have Your Managing Editor. Send Me $5,000 If You Ever Want To See Him Again"
-authors: Dale Bell
+title: >-
+  Letters To The Editor #3: I Have Your Managing Editor. Send Me $5,000 If You
+  Ever Want To See Him Again
+authors:
+  - Dale Bell
 date: 23
 tags:
   - series

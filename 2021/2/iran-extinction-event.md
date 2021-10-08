@@ -1,7 +1,10 @@
 ---
 thumbnail: content://iran.jpeg
-title: "Conservationists Warn That Vulnerable Population Of Iranian Nuclear Scientists Could Be Extinct By 2040"
-authors: Benjy Eichner
+title: >-
+  Conservationists Warn That Vulnerable Population Of Iranian Nuclear Scientists
+  Could Be Extinct By 2040
+authors:
+  - Benjy Eichner
 date: 19
 tags:
   - politics

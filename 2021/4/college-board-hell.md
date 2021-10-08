@@ -1,7 +1,10 @@
 ---
 thumbnail: content://hell.jpeg
-title: "IMF Asks Hell To Diversify After New Report Finds 82% Of Income Comes From The College Board "
-authors: Dale Bell
+title: >-
+  IMF Asks Hell To Diversify After New Report Finds 82% Of Income Comes From The
+  College Board 
+authors:
+  - Dale Bell
 date: 2
 tags:
   - local

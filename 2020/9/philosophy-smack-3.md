@@ -1,7 +1,8 @@
 ---
 thumbnail: content://arist.jpeg
 title: "Philosophy Smack #3"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 30
 tags:
   - series

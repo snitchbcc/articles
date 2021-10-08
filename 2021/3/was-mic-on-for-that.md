@@ -1,7 +1,8 @@
 ---
 thumbnail: content://wasmicon.jpeg
 title: "Investigation: Oh Shit, Was Your Mic On For That?"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 24
 tags:
   - local

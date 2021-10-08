@@ -1,7 +1,8 @@
 ---
 thumbnail: content://moat.jpg
-title: "B-CC To Install Shark-Filled Moat To Prevent Students Skipping 8th Period"
-authors: Daniel Rosentover
+title: B-CC To Install Shark-Filled Moat To Prevent Students Skipping 8th Period
+authors:
+  - Daniel Rosentover
 date: 14
 tags:
   - local

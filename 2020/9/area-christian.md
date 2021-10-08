@@ -1,7 +1,8 @@
 ---
 thumbnail: content://church.jpg
 title: Area Christian Unsure Of What Denomination He Is
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 11
 tags:
   - local

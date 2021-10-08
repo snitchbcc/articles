@@ -1,7 +1,9 @@
 ---
 thumbnail: content://search_bar.jpg
 title: We Caught A Search Bar!
-authors: Auguste Rame, Dale Bell
+authors:
+  - Auguste Rame
+  - Dale Bell
 date: 24
 tags:
   - local

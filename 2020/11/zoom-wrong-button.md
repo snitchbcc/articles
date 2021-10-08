@@ -1,7 +1,8 @@
 ---
 thumbnail: content://button.jpeg
-title: "Teacher Clicks Wrong Button On Zoom, Drone Strikes 42 Unarmed Civilians"
-authors: Chase Eastwood
+title: Teacher Clicks Wrong Button On Zoom, Drone Strikes 42 Unarmed Civilians
+authors:
+  - Chase Eastwood
 date: 6
 tags:
   - local

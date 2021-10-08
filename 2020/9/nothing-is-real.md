@@ -1,7 +1,8 @@
 ---
 thumbnail: content://insane.jpeg
 title: “Nothing Is Real!” Screams Straightjacketed IB Junior After First Week Of ToK
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 21
 tags:
   - local

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://senator.jpeg
-title: "Dianne Feinstein Denounces Rumors Of Cognitive Decline In Fiery Speech To Potted Plants"
-authors: Dale Bell
+title: >-
+  Dianne Feinstein Denounces Rumors Of Cognitive Decline In Fiery Speech To
+  Potted Plants
+authors:
+  - Dale Bell
 date: 29
 tags:
   - politics

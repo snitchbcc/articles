@@ -1,7 +1,8 @@
 ---
 thumbnail: content://wrestling.jpeg
 title: "Exclusive: Professional Wrestling Is Fake"
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 19
 tags:
   - culture

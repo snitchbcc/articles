@@ -1,7 +1,10 @@
 ---
 thumbnail: content://baron.png
-title: "Administration Acknowledges Problems With The Baron Mascot, Announces Change To B-CC Redskins"
-authors: Dale Bell
+title: >-
+  Administration Acknowledges Problems With The Baron Mascot, Announces Change
+  To B-CC Redskins
+authors:
+  - Dale Bell
 date: 6
 tags:
   - culture

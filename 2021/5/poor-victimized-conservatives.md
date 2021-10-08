@@ -1,7 +1,10 @@
 ---
 thumbnail: content://silenced.webp
-title: "“The Silencing Of Conservatives Must Stop” Conservatives Loudly Write In Prominently Placed 3 Page Op-Ed"
-authors: Frank Washington
+title: >-
+  “The Silencing Of Conservatives Must Stop” Conservatives Loudly Write In
+  Prominently Placed 3 Page Op-Ed
+authors:
+  - Frank Washington
 date: 22
 tags:
   - politics

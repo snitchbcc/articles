@@ -1,7 +1,8 @@
 ---
 thumbnail: content://tony.jpeg
-title: "Every Student In Theater Audition Mentally Drafting Tony Acceptance Speech"
-authors: Dale Bell
+title: Every Student In Theater Audition Mentally Drafting Tony Acceptance Speech
+authors:
+  - Dale Bell
 date: 23
 tags:
   - local

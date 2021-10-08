@@ -1,7 +1,8 @@
 ---
 thumbnail: content://crayon.jpeg
 title: "Exposé: Alleged Leftist Refused To Share Red Crayon In Kindergarten"
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 13
 tags:
   - politics

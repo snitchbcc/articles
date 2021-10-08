@@ -2,7 +2,9 @@
     "thumbnail": "content://revolution.jpeg",
     "title": "QUIZ: Will You Survive The Inevitable Uprising Of The Proletariat?",
     "series": "Quizzes",
-    "authors": "The Snitch Team",
+    "authors": [
+        "The Snitch Team"
+    ],
     "date": 12,
     "description": "According to Marx, the proletariat is going to achieve class consciousness any day now. When it does, will you survive the ensuing worldwide revolution?",
     "tags": [

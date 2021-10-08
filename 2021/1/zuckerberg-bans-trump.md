@@ -1,7 +1,10 @@
 ---
 thumbnail: content://mark.jpeg
-title: "Mark Zuckerberg Bans Trump From Facebook, Says Undermining Democracy Is His Thing"
-authors: Dale Bell
+title: >-
+  Mark Zuckerberg Bans Trump From Facebook, Says Undermining Democracy Is His
+  Thing
+authors:
+  - Dale Bell
 date: 15
 tags:
   - politics

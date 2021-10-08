@@ -1,7 +1,10 @@
 ---
 thumbnail: content://french.jpeg
-title: "Virtual Vacation App Sends Surly Frenchman To Your House To Blow Cigarette Smoke In Your Face"
-authors: Dale Bell
+title: >-
+  Virtual Vacation App Sends Surly Frenchman To Your House To Blow Cigarette
+  Smoke In Your Face
+authors:
+  - Dale Bell
 date: 4
 tags:
   - local

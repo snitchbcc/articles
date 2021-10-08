@@ -1,7 +1,10 @@
 ---
 thumbnail: content://netflix.jpeg
-title: "Netflix Always Thought One Account For All Of North America Was A Bit Suspicious"
-authors: Dale Bell
+title: >-
+  Netflix Always Thought One Account For All Of North America Was A Bit
+  Suspicious
+authors:
+  - Dale Bell
 date: 22
 tags:
   - local

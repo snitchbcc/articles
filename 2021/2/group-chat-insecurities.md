@@ -1,7 +1,10 @@
 ---
 thumbnail: content://groupchat.jpg
-title: "“Everyone In Your Class In Group Chat But You” States New Report By Your Insecurities"
-authors: Benjy Eichner
+title: >-
+  “Everyone In Your Class In Group Chat But You” States New Report By Your
+  Insecurities
+authors:
+  - Benjy Eichner
 date: 8
 tags:
   - local

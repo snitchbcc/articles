@@ -1,7 +1,8 @@
 ---
 thumbnail: content://test.jpeg
-title: "OH GOD, TEST TODAY"
-authors: Dale Bell
+title: OH GOD, TEST TODAY
+authors:
+  - Dale Bell
 date: 5
 tags:
   - local

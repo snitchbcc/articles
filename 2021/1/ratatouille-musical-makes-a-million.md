@@ -1,7 +1,8 @@
 ---
 thumbnail: content://Resignation.jpeg
-title: "Snitch Writer Resigns After Ratatouille TikTok Musical Makes A Million Dollars"
-authors: Bill Angell
+title: Snitch Writer Resigns After Ratatouille TikTok Musical Makes A Million Dollars
+authors:
+  - Bill Angell
 date: 11
 tags:
   - culture

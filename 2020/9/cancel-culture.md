@@ -1,7 +1,8 @@
 ---
 thumbnail: content://fire.jpg
 title: “Cancel Culture Has Gone Too Far” Say Cancelled Arsonists
-authors: Bill Angell
+authors:
+  - Bill Angell
 date: 28
 tags:
   - local

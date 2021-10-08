@@ -1,7 +1,8 @@
 ---
 thumbnail: content://hemlock.jpeg
-title: "Socratic Seminar Ends With Three Hospitalized For Hemlock Poisoning"
-authors: Dale From The Past
+title: Socratic Seminar Ends With Three Hospitalized For Hemlock Poisoning
+authors:
+  - Dale From The Past
 date: 4
 tags:
   - local

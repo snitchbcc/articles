@@ -1,7 +1,8 @@
 ---
 thumbnail: content://sword.jpeg
-title: "Man Becomes Expert Swordsman In Bizarre Attempt To Ward Off Death"
-authors: Benjy Eichner
+title: Man Becomes Expert Swordsman In Bizarre Attempt To Ward Off Death
+authors:
+  - Benjy Eichner
 date: 9
 tags:
   - local

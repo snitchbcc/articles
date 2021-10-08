@@ -1,7 +1,8 @@
 ---
 thumbnail: content://tea.jpeg
-title: "Texas Faces State-Wide Emergency As Entire Sweet Tea Reserve Becomes Iced"
-authors: Benjy Eichner
+title: Texas Faces State-Wide Emergency As Entire Sweet Tea Reserve Becomes Iced
+authors:
+  - Benjy Eichner
 date: 12
 tags:
   - politics

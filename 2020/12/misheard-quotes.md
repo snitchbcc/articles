@@ -1,7 +1,8 @@
 ---
 thumbnail: content://quote.jpeg
 title: "Infonongraphic: The Real Meanings Behind Misheard Quotes"
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 11
 tags:
   - series

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://uber.webp
-title: "Uber Expands Service To Include “Uber Getaway” For Heists And Robberies"
-authors: Dale Bell
+title: Uber Expands Service To Include “Uber Getaway” For Heists And Robberies
+authors:
+  - Dale Bell
 date: 24
 tags:
   - culture

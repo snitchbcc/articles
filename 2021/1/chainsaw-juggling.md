@@ -1,7 +1,8 @@
 ---
 thumbnail: content://chainsaw.jpeg
-title: "Senior Accepted Into College Takes Up Chainsaw Juggling To Fill Stress Vacuum"
-authors: Benjy Eichner
+title: Senior Accepted Into College Takes Up Chainsaw Juggling To Fill Stress Vacuum
+authors:
+  - Benjy Eichner
 date: 27
 tags:
   - local

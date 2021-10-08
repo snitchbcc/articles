@@ -1,7 +1,8 @@
 ---
 thumbnail: content://teacher.jpeg
-title: "Local Teacher Shatters Record, Shares File In Under Ten Minutes"
-authors: Bruno Chong
+title: Local Teacher Shatters Record, Shares File In Under Ten Minutes
+authors:
+  - Bruno Chong
 date: 2
 tags:
   - local

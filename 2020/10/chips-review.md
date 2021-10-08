@@ -1,7 +1,8 @@
 ---
 thumbnail: content://chips.jpeg
 title: "Chips Review: It’s Good, We Presume. We Can’t Afford It…"
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 28
 tags:
   - local

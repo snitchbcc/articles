@@ -1,7 +1,10 @@
 ---
 thumbnail: content://delta_math_sisyphus.jpeg
-title: "Modern Sisyphus' Boulder Forces Students To Complete Delta Math Assignment, Get Last Question Wrong"
-authors: Bruno Chong
+title: >-
+  Modern Sisyphus' Boulder Forces Students To Complete Delta Math Assignment,
+  Get Last Question Wrong
+authors:
+  - Bruno Chong
 date: 14
 tags:
   - local

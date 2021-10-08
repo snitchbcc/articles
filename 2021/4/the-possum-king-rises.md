@@ -1,7 +1,10 @@
 ---
 thumbnail: content://possum.jpeg
-title: "Students Returning To B-CC Forced To Fight Off Herd Of Possums Who Took Over The School During Quarantine"
-authors: Dale Bell
+title: >-
+  Students Returning To B-CC Forced To Fight Off Herd Of Possums Who Took Over
+  The School During Quarantine
+authors:
+  - Dale Bell
 date: 8
 tags:
   - local

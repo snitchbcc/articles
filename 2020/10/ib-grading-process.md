@@ -1,7 +1,8 @@
 ---
 thumbnail: content://dice.jpeg
-title: "IBO To Introduce New Dice Rolling Technology Into Scoring Process"
-authors: Dale Bell
+title: IBO To Introduce New Dice Rolling Technology Into Scoring Process
+authors:
+  - Dale Bell
 date: 14
 tags:
   - local

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://mil.jpeg
-title: "Pathetic Millennials Incapable Of Reaching The Age Of 50"
-authors: Benjy Eichner
+title: Pathetic Millennials Incapable Of Reaching The Age Of 50
+authors:
+  - Benjy Eichner
 date: 8
 tags:
   - culture

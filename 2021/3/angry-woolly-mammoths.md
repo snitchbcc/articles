@@ -1,7 +1,10 @@
 ---
 thumbnail: content://ferret.jpeg
-title: "“Oh You Cloned An Endangered Ferret, That’s Cool I Guess...” Says Ghost Of Woolly Mammoth"
-authors: Dale Bell
+title: >-
+  “Oh You Cloned An Endangered Ferret, That’s Cool I Guess...” Says Ghost Of
+  Woolly Mammoth
+authors:
+  - Dale Bell
 date: 10
 tags:
   - culture

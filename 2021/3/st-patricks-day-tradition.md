@@ -1,7 +1,10 @@
 ---
 thumbnail: content://saints.jpeg
-title: "In St. Patrick’s Day Tradition, Patron Saints Of England And Ireland Fight It Out In Drunken Brawl"
-authors: Dale Bell
+title: >-
+  In St. Patrick’s Day Tradition, Patron Saints Of England And Ireland Fight It
+  Out In Drunken Brawl
+authors:
+  - Dale Bell
 date: 17
 tags:
   - culture

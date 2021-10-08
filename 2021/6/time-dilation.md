@@ -1,7 +1,8 @@
 ---
 thumbnail: content://physics.jpeg
-title: "Physicists Discover Evidence Of Time Dilation While You Try To Plank"
-authors: Dale Bell
+title: Physicists Discover Evidence Of Time Dilation While You Try To Plank
+authors:
+  - Dale Bell
 date: 2
 tags:
   - culture

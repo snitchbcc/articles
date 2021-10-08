@@ -1,7 +1,8 @@
 ---
 thumbnail: content://welcome.jpeg
 title: Inventor Of Welcome Mat Uncovered As Vampire Looking For Easy Access To Homes
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 7
 tags:
   - local

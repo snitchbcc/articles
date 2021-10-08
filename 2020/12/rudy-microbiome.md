@@ -1,7 +1,10 @@
 ---
 thumbnail: content://rudy.jpeg
-title: "Giuliani Microbiome Unsure It Can Make Room For Another Disease After He Contracts COVID"
-authors: Dale Bell
+title: >-
+  Giuliani Microbiome Unsure It Can Make Room For Another Disease After He
+  Contracts COVID
+authors:
+  - Dale Bell
 date: 11
 tags:
   - politics

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://bruno.jpeg
-title: "Multiple Studies Show That I'm Right And You're Wrong"
-authors: Bruno Chong
+title: Multiple Studies Show That I'm Right And You're Wrong
+authors:
+  - Bruno Chong
 date: 25
 tags:
   - culture

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://pingu_pence.jpg
 title: "Cartoon: Penceguin At The Debate"
-authors: Natalie Weng
+authors:
+  - Natalie Weng
 date: 8
 tags:
   - cartoon

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://brett.jpeg
-title: "Drunken Brett Kavanaugh Accidentally Overturns Table, Chairs, Roe v. Wade"
-authors: Dale Bell
+title: Drunken Brett Kavanaugh Accidentally Overturns Table, Chairs, Roe v. Wade
+authors:
+  - Dale Bell
 date: 4
 tags:
   - politics

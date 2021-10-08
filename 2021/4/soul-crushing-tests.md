@@ -1,7 +1,10 @@
 ---
 thumbnail: content://soulcrushingtests.jpeg
-title: "Study: Power Of Friendship Found To Be Weaker Than Power Of Soul-Crushing Standardized Tests"
-authors: Benjy Eichner
+title: >-
+  Study: Power Of Friendship Found To Be Weaker Than Power Of Soul-Crushing
+  Standardized Tests
+authors:
+  - Benjy Eichner
 date: 12
 tags:
   - local

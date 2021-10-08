@@ -1,7 +1,8 @@
 ---
 thumbnail: content://wailbaron.jpeg
 title: "Cartoon: The Baron’s Despair"
-authors: Sebastian Valderrama
+authors:
+  - Sebastian Valderrama
 date: 15
 tags:
   - cartoon

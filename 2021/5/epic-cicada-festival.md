@@ -1,7 +1,8 @@
 ---
 thumbnail: content://cicada.jpeg
-title: "Tinder Flooded With Cicada Profiles In Preparation For Epic DC Festival"
-authors: Dale Bell
+title: Tinder Flooded With Cicada Profiles In Preparation For Epic DC Festival
+authors:
+  - Dale Bell
 date: 10
 tags:
   - local

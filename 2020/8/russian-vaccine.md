@@ -1,7 +1,10 @@
 ---
 thumbnail: content://russia.jpg
-title: Russian Scientist Panics After Accidentally Swapping Trial COVID Vaccine With Deadly Nerve Agent
-authors: Dale Bell
+title: >-
+  Russian Scientist Panics After Accidentally Swapping Trial COVID Vaccine With
+  Deadly Nerve Agent
+authors:
+  - Dale Bell
 date: 26
 tags:
   - politics

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://sandwich.jpeg
-title: "Sandwich Left In Locker Over Summer Achieves Sentience"
-authors: Dale Bell
+title: Sandwich Left In Locker Over Summer Achieves Sentience
+authors:
+  - Dale Bell
 date: 23
 tags:
   - local

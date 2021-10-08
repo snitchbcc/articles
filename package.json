@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "js-yaml": "^4.1.0"
+  }
+}

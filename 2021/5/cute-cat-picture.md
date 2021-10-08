@@ -1,7 +1,10 @@
 ---
 thumbnail: content://awwcutecat.jpg
-title: "Heartwarming: This Cute Cat Picture Will Distract You From The Ongoing Slaughter Of Civilians In Yemen"
-authors: Chase Eastwood
+title: >-
+  Heartwarming: This Cute Cat Picture Will Distract You From The Ongoing
+  Slaughter Of Civilians In Yemen
+authors:
+  - Chase Eastwood
 date: 6
 tags:
   - politics

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://labfinal.jpeg
-title: "MCPS Announces Change To Entirely New Incredibly Complicated Classroom Software “Just For The Hell Of It”"
-authors: Dale Bell
+title: >-
+  MCPS Announces Change To Entirely New Incredibly Complicated Classroom
+  Software “Just For The Hell Of It”
+authors:
+  - Dale Bell
 date: 18
 tags:
   - local

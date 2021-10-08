@@ -1,7 +1,8 @@
 ---
 thumbnail: content://wolf.jpeg
-title: "Students Raised By Wolves Appalled At Lack Of Organization In MCPS"
-authors: Erica Molot
+title: Students Raised By Wolves Appalled At Lack Of Organization In MCPS
+authors:
+  - Erica Molot
 date: 1
 tags:
   - local

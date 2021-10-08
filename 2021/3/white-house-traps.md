@@ -1,7 +1,10 @@
 ---
 thumbnail: content://whitehouse.jpeg
-title: "Biden Transition Team Discovers Comically Violent “Home Alone” Style Traps Hidden Throughout White House"
-authors: Benjy Eichner
+title: >-
+  Biden Transition Team Discovers Comically Violent “Home Alone” Style Traps
+  Hidden Throughout White House
+authors:
+  - Benjy Eichner
 date: 17
 tags:
   - politics

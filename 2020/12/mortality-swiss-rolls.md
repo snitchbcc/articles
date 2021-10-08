@@ -1,7 +1,8 @@
 ---
 thumbnail: content://swiss.jpg
-title: "Intense Feelings Of Own Mortality Suppressed By Consuming Swiss Rolls"
-authors: Dale Bell
+title: Intense Feelings Of Own Mortality Suppressed By Consuming Swiss Rolls
+authors:
+  - Dale Bell
 date: 9
 tags:
   - local

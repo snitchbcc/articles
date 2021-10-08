@@ -1,7 +1,8 @@
 ---
 thumbnail: content://unclebaronlookmeintheeye.jpg
 title: "Cartoon: The Baron Wants You! Or Maybe He’s Picking His Nose"
-authors: Sebastián Valderrama
+authors:
+  - Sebastián Valderrama
 date: 14
 tags:
   - cartoon

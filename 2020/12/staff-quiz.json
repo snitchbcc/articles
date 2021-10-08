@@ -2,10 +2,14 @@
     "thumbnail": "content://tophat_white.jpg",
     "title": "QUIZ: Which Snitch Staff Member Are You?",
     "series": "Quizzes",
-    "authors": "The Snitch Team",
+    "authors": [
+        "The Snitch Team"
+    ],
     "date": 21,
     "description": "Which Snitch staff member are you? Find out with this awesome quiz from The Snitch!",
-    "tags": ["series"],
+    "tags": [
+        "series"
+    ],
     "results": {
         "dale": {
             "title": "Dale Bell",

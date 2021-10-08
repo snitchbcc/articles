@@ -1,7 +1,10 @@
 ---
 thumbnail: content://presidential_debate.jpg
-title: "Discussion: Is It Time To Retire The Knife Fight Portion Of The Presidential Debates?"
-authors: Auguste Rame
+title: >-
+  Discussion: Is It Time To Retire The Knife Fight Portion Of The Presidential
+  Debates?
+authors:
+  - Auguste Rame
 date: 24
 tags:
   - politics

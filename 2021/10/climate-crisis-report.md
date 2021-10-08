@@ -1,7 +1,10 @@
 ---
 thumbnail: content://climatehouse.jpeg
-title: "New Report Traces Climate Crisis To One House Leaving Windows Open With Heater On"
-authors: Curran Holden
+title: >-
+  New Report Traces Climate Crisis To One House Leaving Windows Open With Heater
+  On
+authors:
+  - Curran Holden
 date: 4
 tags:
   - politics

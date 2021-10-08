@@ -1,7 +1,8 @@
 ---
 thumbnail: content://nukes.jpeg
-title: "US Military Panics After Remembering Nuclear Arsenal Ran On Flash Player"
-authors: Dale Bell
+title: US Military Panics After Remembering Nuclear Arsenal Ran On Flash Player
+authors:
+  - Dale Bell
 date: 10
 tags:
   - politics

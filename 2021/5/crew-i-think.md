@@ -1,7 +1,8 @@
 ---
 thumbnail: content://crewteam.jpeg
 title: "Snitch Sports: Crew Team Lost Or Something, But Honestly Who Cares"
-authors: Eli Buehler
+authors:
+  - Eli Buehler
 date: 17
 tags:
   - local

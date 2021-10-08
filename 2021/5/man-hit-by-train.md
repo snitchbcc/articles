@@ -1,7 +1,10 @@
 ---
 thumbnail: content://antivax.jpeg
-title: "Anti-Vaxxers Slam \"Ineffective\" Vaccines After Vaccinated Man Dies Following Being Hit By A Train"
-authors: Dale Bell
+title: >-
+  Anti-Vaxxers Slam "Ineffective" Vaccines After Vaccinated Man Dies Following
+  Being Hit By A Train
+authors:
+  - Dale Bell
 date: 25
 tags:
   - politics

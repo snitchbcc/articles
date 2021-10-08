@@ -1,7 +1,8 @@
 ---
 thumbnail: content://orc.jpeg
-title: "In Wake Of Halo’s Space Ostrich Pringles, Lays Announces New Uruk-Hai Flavor"
-authors: Dale Bell
+title: In Wake Of Halo’s Space Ostrich Pringles, Lays Announces New Uruk-Hai Flavor
+authors:
+  - Dale Bell
 date: 29
 tags:
   - local

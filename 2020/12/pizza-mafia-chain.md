@@ -1,7 +1,8 @@
 ---
 thumbnail: content://pizza.jpeg
 title: "Police Report: Local Mafia Found To Be Front For Pizza Chain"
-authors: Benjy Eichner
+authors:
+  - Benjy Eichner
 date: 2
 tags:
   - local

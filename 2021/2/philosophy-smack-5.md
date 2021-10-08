@@ -1,7 +1,8 @@
 ---
 thumbnail: content://diogenes.jpg
 title: "Philosophy Smack #5"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 22
 tags:
   - series

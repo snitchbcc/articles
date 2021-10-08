@@ -1,7 +1,8 @@
 ---
 thumbnail: content://othermail.jpeg
 title: "Letters To The Editor #2: Help, I’m Trapped In A Ravine"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 9
 tags:
   - series

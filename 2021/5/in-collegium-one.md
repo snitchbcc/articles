@@ -1,7 +1,8 @@
 ---
 thumbnail: content://grad.webp
-title: "In Collegium"
-authors: The Snitch Team
+title: In Collegium
+authors:
+  - The Snitch Team
 date: 28
 tags:
   - local

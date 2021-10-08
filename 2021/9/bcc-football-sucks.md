@@ -1,7 +1,10 @@
 ---
 thumbnail: content://bccfoot.jpg
-title: "“When Pigs Fly” And 7 Things That Are More Likely To Happen Than B-CC Winning Three Football Games In A Row"
-authors: Benjy Eichner
+title: >-
+  “When Pigs Fly” And 7 Things That Are More Likely To Happen Than B-CC Winning
+  Three Football Games In A Row
+authors:
+  - Benjy Eichner
 date: 20
 tags:
   - local

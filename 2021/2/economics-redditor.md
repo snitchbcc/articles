@@ -1,7 +1,10 @@
 ---
 thumbnail: content://stocks.jpeg
-title: "“Buying Snitch Stock Would Stick It To The Hedge Funds,” Says Reliable Economics Redditor"
-authors: Caleb Levy
+title: >-
+  “Buying Snitch Stock Would Stick It To The Hedge Funds,” Says Reliable
+  Economics Redditor
+authors:
+  - Caleb Levy
 date: 3
 tags:
   - politics

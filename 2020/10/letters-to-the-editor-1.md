@@ -1,7 +1,8 @@
 ---
 thumbnail: content://othermail.jpeg
 title: "Letters To The Editor #1: I’ve Been In Class For 6 Weeks, Where Is Everyone?"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 12
 tags:
   - local

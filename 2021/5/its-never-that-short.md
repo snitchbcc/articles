@@ -1,7 +1,8 @@
 ---
 thumbnail: content://math.jpeg
 title: "Report: Deceptively Short Math Homework Actually Full Of Subquestions"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 12
 tags:
   - local

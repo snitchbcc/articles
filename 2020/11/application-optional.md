@@ -1,7 +1,8 @@
 ---
 thumbnail: content://application.jpeg
-title: "In Stunning Move, University Goes Application Optional"
-authors: Dale Bell
+title: In Stunning Move, University Goes Application Optional
+authors:
+  - Dale Bell
 date: 20
 tags:
   - local

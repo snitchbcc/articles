@@ -1,7 +1,8 @@
 ---
 thumbnail: content://camus.jpeg
 title: "Philosophy Smack #6"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 14
 tags:
   - series

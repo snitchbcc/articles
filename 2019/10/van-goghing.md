@@ -1,7 +1,8 @@
 ---
 thumbnail: content://vincent.jpeg
 title: New Trend, "Van Goghing", Sweeps Nation
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 28
 tags:
   - culture

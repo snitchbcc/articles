@@ -1,7 +1,8 @@
 ---
 thumbnail: content://map.jpeg
-title: "Majority Of World’s Problems Traced To Some British Dude With A Map"
-authors: Dale The Disappeared
+title: Majority Of World’s Problems Traced To Some British Dude With A Map
+authors:
+  - Dale The Disappeared
 date: 29
 tags:
   - culture

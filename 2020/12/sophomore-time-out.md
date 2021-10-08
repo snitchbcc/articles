@@ -1,7 +1,8 @@
 ---
 thumbnail: content://timeout.jpg
-title: "Immature Sophomore Never Released From 1st Grade Time Out"
-authors: Dale Bell
+title: Immature Sophomore Never Released From 1st Grade Time Out
+authors:
+  - Dale Bell
 date: 4
 tags:
   - local

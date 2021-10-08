@@ -1,7 +1,10 @@
 ---
 thumbnail: content://dice.jpeg
-title: "Texas School Board Announces Replacement Of The Word “Dice” In Math Textbooks With “Sin Cubes”"
-authors: Benjy Eichner
+title: >-
+  Texas School Board Announces Replacement Of The Word “Dice” In Math Textbooks
+  With “Sin Cubes”
+authors:
+  - Benjy Eichner
 date: 7
 tags:
   - culture

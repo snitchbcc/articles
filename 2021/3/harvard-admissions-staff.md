@@ -1,7 +1,8 @@
 ---
 thumbnail: content://harvardstaff.jpeg
 title: "Cartoon: The Harvard Admissions Staff"
-authors: Natalie Weng
+authors:
+  - Natalie Weng
 date: 9
 tags:
   - cartoon

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://middle.jpeg
-title: "With Time Running Out To Achieve Middle East Peace, Panicked Kushner Advocates Zero State Solution"
-authors: Dale Bell
+title: >-
+  With Time Running Out To Achieve Middle East Peace, Panicked Kushner Advocates
+  Zero State Solution
+authors:
+  - Dale Bell
 date: 16
 tags:
   - politics

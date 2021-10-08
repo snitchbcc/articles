@@ -1,7 +1,10 @@
 ---
 thumbnail: content://brothers.jpeg
-title: "Investigatory Committee Of Older Brothers Demands To Know Why You're Hitting Yourself"
-authors: Dale Bell
+title: >-
+  Investigatory Committee Of Older Brothers Demands To Know Why You're Hitting
+  Yourself
+authors:
+  - Dale Bell
 date: 18
 tags:
   - local

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://hydrox.jpeg
-title: "In Attempt To Appeal To Conservative Audience, Oreos Competitor Hydrox Rebrands As “Right-Wing Gender Conforming Créme Cookies”"
-authors: Dale Bell
+title: >-
+  In Attempt To Appeal To Conservative Audience, Oreos Competitor Hydrox
+  Rebrands As “Right-Wing Gender Conforming Créme Cookies”
+authors:
+  - Dale Bell
 date: 15
 tags:
   - politics

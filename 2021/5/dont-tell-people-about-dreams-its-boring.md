@@ -1,7 +1,10 @@
 ---
 thumbnail: content://CIA.jpeg
-title: "CIA To Employ New \"Telling Person About A Cool Dream You Had\" Torture Technique"
-authors: Dale Bell
+title: >-
+  CIA To Employ New "Telling Person About A Cool Dream You Had" Torture
+  Technique
+authors:
+  - Dale Bell
 date: 13
 tags:
   - politics

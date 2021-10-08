@@ -1,7 +1,10 @@
 ---
 thumbnail: content://tucker.jpeg
-title: "Investigation Finds That Tucker Carlson’s Admiration For The “Masculinity” Of China’s Navy Stems From Torrid Affair With Chinese Sailor On Shore Leave "
-authors: Frank Washington
+title: >-
+  Investigation Finds That Tucker Carlson’s Admiration For The “Masculinity” Of
+  China’s Navy Stems From Torrid Affair With Chinese Sailor On Shore Leave 
+authors:
+  - Frank Washington
 date: 16
 tags:
   - politics

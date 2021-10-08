@@ -1,7 +1,8 @@
 ---
 thumbnail: content://tophat_white.jpg
 title: "The Snitch’s Newest Advice Column: Why Don’t You Help Us For A Change!"
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 11
 tags:
   - series

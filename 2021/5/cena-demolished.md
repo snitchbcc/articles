@@ -1,7 +1,8 @@
 ---
 thumbnail: content://moneymoney.jpeg
-title: "John Cena DEMOLISHED By MASSIVE Pile Of Money In EPIC SMACKDOWN"
-authors: Benjy Eichner
+title: John Cena DEMOLISHED By MASSIVE Pile Of Money In EPIC SMACKDOWN
+authors:
+  - Benjy Eichner
 date: 31
 tags:
   - politics

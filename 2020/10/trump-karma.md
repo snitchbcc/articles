@@ -1,7 +1,10 @@
 ---
 thumbnail: content://mail.jpeg
-title: "In Avalanche Of Karmic Justice, Trump Contracts COVID, Teargases Self In Face, And Gets Run Over By Mail Truck"
-authors: Dale Bell
+title: >-
+  In Avalanche Of Karmic Justice, Trump Contracts COVID, Teargases Self In Face,
+  And Gets Run Over By Mail Truck
+authors:
+  - Dale Bell
 date: 3
 tags:
   - politics

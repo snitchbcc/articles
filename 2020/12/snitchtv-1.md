@@ -1,7 +1,8 @@
 ---
 thumbnail: content://snitchtv.jpg
-title: "In First Step To Complete Media Domination, The Snitch Gets On SDTV"
-authors: The Snitch Team
+title: In First Step To Complete Media Domination, The Snitch Gets On SDTV
+authors:
+  - The Snitch Team
 date: 8
 tags:
   - local

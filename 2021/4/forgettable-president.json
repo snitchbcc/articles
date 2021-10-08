@@ -2,7 +2,9 @@
     "thumbnail": "content://johntyler.jpeg",
     "title": "QUIZ: Which Forgettable President Are You?",
     "series": "Quizzes",
-    "authors": "Benjy Eichner",
+    "authors": [
+        "Benjy Eichner"
+    ],
     "date": 12,
     "description": "Which of these forgettable presidents are you? Find out in this awesome Snitch quiz!",
     "tags": [

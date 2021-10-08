@@ -1,7 +1,8 @@
 ---
 thumbnail: content://darts.jpeg
-title: "CDC To Employ Professional Darts Players For Drive-by Vaccine Initiative"
-authors: Dale Bell
+title: CDC To Employ Professional Darts Players For Drive-by Vaccine Initiative
+authors:
+  - Dale Bell
 date: 23
 tags:
   - local

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://toothpaste.jpeg
-title: "Nation Forced To Dip Into Strategic Reserve Of Travel Toothpastes After Big Tube Depleted"
-authors: Dale Bell
+title: >-
+  Nation Forced To Dip Into Strategic Reserve Of Travel Toothpastes After Big
+  Tube Depleted
+authors:
+  - Dale Bell
 date: 17
 tags:
   - local

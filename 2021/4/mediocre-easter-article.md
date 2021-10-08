@@ -1,7 +1,8 @@
 ---
 thumbnail: content://easter.jpeg
-title: "Easter Egg From 1986 Hunt Hit With Cold Realization That No One’s Coming"
-authors: Dale Bell
+title: Easter Egg From 1986 Hunt Hit With Cold Realization That No One’s Coming
+authors:
+  - Dale Bell
 date: 4
 tags:
   - local

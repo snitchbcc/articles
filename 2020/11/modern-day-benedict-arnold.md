@@ -1,7 +1,8 @@
 ---
 thumbnail: content://arnold.jpeg
 title: "Modern Day Benedict Arnold Asks Forgetful Teacher If There Is Homework "
-authors: Dale Bell
+authors:
+  - Dale Bell
 date: 13
 tags:
   - local

@@ -1,7 +1,8 @@
 ---
 thumbnail: content://quixote.jpeg
-title: "GOP Hires Don Quixote As Energy Consultant For Position On Wind Power"
-authors: Nicholas Daum
+title: GOP Hires Don Quixote As Energy Consultant For Position On Wind Power
+authors:
+  - Nicholas Daum
 date: 25
 tags:
   - politics

@@ -1,7 +1,10 @@
 ---
 thumbnail: content://noir.jpeg
-title: "Study Finds Correlation Between Mental Health Issues, Being Private Detective In 1950’s Noir Novel "
-authors: Dale Bell
+title: >-
+  Study Finds Correlation Between Mental Health Issues, Being Private Detective
+  In 1950’s Noir Novel 
+authors:
+  - Dale Bell
 date: 3
 tags:
   - local
