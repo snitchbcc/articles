@@ -2,7 +2,8 @@
 thumbnail: content://timetravel.webp
 title: First Attempt At Time Travel Goes Off Without A Hitch
 authors:
-  - Elijah Hempstone
+  - Eli Buehler
+authors_text: Elijah Hempstone
 date: 21
 tags:
   - local

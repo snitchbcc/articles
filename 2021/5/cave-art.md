@@ -5,6 +5,8 @@ title: >-
   Abstract
 authors:
   - Grug
+  - Eli Buehler
+authors_text: Grug
 date: 11
 tags:
   - series

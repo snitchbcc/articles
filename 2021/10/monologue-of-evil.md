@@ -2,7 +2,8 @@
 thumbnail: content://villainbaron.jpg
 title: You Fool! You've Fallen For My Dastardly Plan!
 authors:
-  - Doctor The Administrator
+  - Eli Buehler
+authors_text: Doctor The Administrator
 date: 1
 tags:
   - local
