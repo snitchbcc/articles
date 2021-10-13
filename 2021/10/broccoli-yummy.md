@@ -2,7 +2,8 @@
 thumbnail: content://broccoli.jpg
 title: "Snitch Investigates: Is Broccoli Really As Yummy As Mommy Claims?"
 authors:
-  - Liddel Kidd
+  - Auguste Rame
+authors_text: Liddel Kidd
 date: 13
 tags:
   - local
