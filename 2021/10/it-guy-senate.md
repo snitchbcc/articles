@@ -9,8 +9,9 @@ tags:
   - culture
 ---
 
-IT guy Jinder Kahli, who is running for senator, has announced a plan to fix the US government by turning it off and on again.\
-Kahli elaborated on his plan at a campaign press conference:
+IT guy Jinder Kahli, who is running for senator, has announced a plan to fix the US government by turning it off and on again.
+
+Kahli elaborated on his plan at a campaign press conference:
 
 “Look, I dealt with a lot of computers while I worked as an IT guy. Once I began my run for senator, I noticed that the US government and the computers I dealt with had a lot in common. Both are cumbersome, slow, and definitely outdated. I even deal with the same demographic: old white people who don’t really seem to know what they’re doing. So I figure that like those crappy computers, turning it off and then back on again might just work.”
 
