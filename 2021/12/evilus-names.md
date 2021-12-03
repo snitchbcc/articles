@@ -9,7 +9,7 @@ tags:
   - culture
 ---
 
-**Number 5:** **Malshadocus****, The Dark One**\
+**Number 5: Malshadocus, The Dark One**\
 An imposing name meaning “The Evil Who Lurks in Shadows” derived from the Ominous Chantius dialect of Latin, primarily used for adding atmosphere to horror movies. But as the evil wizard community sees a surge in appreciation for fiendborn with new holidays like Demonblood Heritage Month, this name is sure to make a comeback.
 
 **Number 4: Yor-soloch’Q, Dread Worshipper of the Old Ones**
@@ -18,7 +18,7 @@ Though names like this used to be frowned upon in deep cultist circles due to fe
 **Number 3: Steve Smith, from HR**
 Of course, not every evil mage is so obvious about their mastery of the dark arts. Whether by choice or out of fear of persecution for their hunger for human flesh, many blood mage families have adopted what they term “Ordinary White Guy Names.” Of particular note is Steve, a name so generic that it can be infused with a forgetfulness spell to avoid suspicion. 
 
-**Number 2: S****hel’Tylen****-Al, the Pain-Killer**
+**Number 2: Shel’Tylen-Al, the Pain-Killer**
 Though this name has seen less use in recent years due to unfortunate associations, Shel’Tylen-Al is a classic mad prophet name, having been used by the blind seer Shel’Tylen-Al A-Dural, who killed people painfully (hence the well-known epithet Pain-Killer). However, most broken-minded madmen with visions of what man should not know, hoping to avoid painful associations, instead use other epithets and nicknames (such as B-CC’s own unhinged oracle, Shel’Tailen-Al “Shelton” the Moon-Vexed).
 
 **Number 1: Chadislav the Nicknameable**
