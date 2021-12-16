@@ -4,7 +4,7 @@ title: >-
   Report: World Languages Department In Shambles After Google Translate Down For
   Full Day
 authors:
-  - Eli Buehler
+  - Wren Buehler
 date: 6
 tags:
   - local

@@ -4,7 +4,7 @@ title: >-
   U.S. Military Develops New Animal With Intelligence Of Chimp, Body Of Dolphin,
   And Hate-Filled Heart Of Horse 
 authors:
-  - Eli Buehler
+  - Wren Buehler
 date: 9
 tags:
   - culture

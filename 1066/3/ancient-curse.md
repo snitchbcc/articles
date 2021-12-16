@@ -2,8 +2,8 @@
 thumbnail: content://bog.jpeg
 title: Snitche Managing Editor Cursed For Ever
 authors:
-  - Eli Buehler
-authors_text: Ye Olde Town Crier, Eli Buehler
+  - Wren Buehler
+authors_text: Ye Olde Town Crier, Wren Buehler
 date: 23
 tags:
   - local

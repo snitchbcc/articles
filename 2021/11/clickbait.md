@@ -2,7 +2,7 @@
 thumbnail: content://thingbad.jpg
 title: "We Need To Manufacture Outrage For Clicks, So Can You Pretend That We Said Something Contrarian?"
 authors:
-  - Eli Buehler
+  - Wren Buehler
 date: 10
 tags:
   - local

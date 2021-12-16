@@ -4,8 +4,8 @@ title: >-
   Local Bestiaries Proclaime “There Is A Greate And Terrible Beaste In Yon
   Hilles Near B-CC”
 authors:
-  - Eli Buehler
-authors_text: Ye Olde Town Crier, Eli Buehler
+  - Wren Buehler
+authors_text: Ye Olde Town Crier, Wren Buehler
 date: 26
 tags:
   - local

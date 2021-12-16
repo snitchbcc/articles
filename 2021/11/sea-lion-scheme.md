@@ -2,7 +2,7 @@
 thumbnail: content://sealion.jpg
 title: "B-CC Looking To Loan Out Smithsonian Sea Lions To Increase Amount Of Clapping At Pep Rallies"
 authors:
-  - Eli Buehler
+  - Wren Buehler
 date: 15
 tags:
   - local

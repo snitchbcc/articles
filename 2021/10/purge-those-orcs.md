@@ -2,7 +2,7 @@
 thumbnail: content://orcgrace.jpg
 title: "In Embarrassing Mix-Up, Knight Promises To Purge Orcs From Sea-World"
 authors:
-  - Eli Buehler
+  - Wren Buehler
 date: 11
 tags:
   - local
