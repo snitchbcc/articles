@@ -1,5 +1,5 @@
 ---
-thumbnail: content://schpidaman.jpeg
+thumbnail: content://schpidaman.jpg
 title: "Everyone's A Critic: HOLY MOTHERFUCKING SHIT! SPIDERVERSE TWO! HELL YEAH!"
 authors:
   - Wren Buehl— WHO GIVES A SHIT WHO WROTE THIS REVIEW? IT’S FUCKING SPIDERVERSE TWO BABY!
