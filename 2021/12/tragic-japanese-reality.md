@@ -1,8 +1,9 @@
 ---
 thumbnail: content://fuji.jpg
 title: "Anime Fan Disappointed By Real Japan's Lack Of Magic Swords, Spectacle Fights, Women Who Will Date Him"
+authors_text: Wren “Goku Naruto Light Yagami” Buehler
 authors:
-  - Wren “Goku Naruto Light Yagami” Buehler
+  - Wren Buehler
 date: 13
 tags:
   - culture

@@ -1,9 +1,9 @@
 ---
 thumbnail: content://wizard_names.jpg
 title: "Infonongraphic: Five Most Popular Names For Evil Wizards, Blood Mages, And Mad Prophets"
+authors_text: Wrencrenus Buehlazoth, Child Of The Slithering One
 authors:
-  - Wrencrenus Buehlazoth
-  - Child Of The Slithering One
+  - Wren Buehler
 date: 3
 tags:
   - culture
