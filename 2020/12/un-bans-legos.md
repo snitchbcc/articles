@@ -6,6 +6,7 @@ authors:
 date: 7
 tags:
   - politics
+  - international
 ---
 
 In a hearing yesterday, the UN controversially removed Legos from the list of weapons banned in modern warfare, prompting criticism from everyone who has had kids in the last 30 years.
