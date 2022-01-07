@@ -8,6 +8,7 @@ date: 13
 tags:
   - culture
   - anime
+  - international
 ---
 
 Early this week, a strongly worded Reddit post revealed the disappointing reality of Japan, in which an anonymous Redditor bemoaned the nation’s lack of magic swords, ridiculous battles, and women who vie for his attention. That’s right: despite what anime has led many to believe, random Japanese women are not willing to date shut-in men who are active on incel forums.
