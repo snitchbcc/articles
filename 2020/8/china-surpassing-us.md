@@ -6,6 +6,7 @@ authors:
 date: 31
 tags:
   - politics
+  - international
 ---
 
 Yes.
