@@ -8,6 +8,7 @@ tags:
   - local
   - politics
   - middle-east
+  - international
 ---
 
 The world was shocked this morning after a terrible accident in the Middle East. B-CC teacher Natasha Lest was attempting to make a breakout room in her second period Zoom class when she accidently clicked the wrong button, initiating a drone strike which instantly killed 42 unarmed civilians in Afghanistan.
