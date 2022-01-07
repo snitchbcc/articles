@@ -6,6 +6,7 @@ authors:
 date: 1
 tags:
   - politics
+  - international
 ---
 
 In an exclusive interview for the Snitch, former French general Napoleon Bonaparte has commended the Coronavirus for its conquest of Europe. Bonaparte, who was famously very close to taking over Europe, was impressed with how quickly Europe was brought to its knees. Shaking his head despondently, he  muttered,:  “It took me 11 years, and I didn’t even take the whole continent, the virus took Europe in like two weeks.”
