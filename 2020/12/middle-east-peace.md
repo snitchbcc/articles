@@ -9,6 +9,7 @@ date: 16
 tags:
   - politics
   - middle-east
+  - international
 ---
 
 With time running out to solve one of this century’s most intractable foriegn policy issues, a panicked and visibly sleep-deprived Jared Kushner started advocating a zero state solution to the myriad of problems in the Middle East. 
