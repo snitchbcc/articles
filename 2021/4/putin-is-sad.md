@@ -8,6 +8,7 @@ authors:
 date: 22
 tags:
   - politics
+  - international
 ---
 
 In a press statement earlier today, Putin revealed that he does not appreciate how he is treated by the outside world. He went on to elaborate that he would have never taken power in Russia and oppressed millions of people if he had known others would be so mean to him. This comes in light of Putin recently going private on Instagram and snapping other presidents: “don’t hmu with trade wars rn. Going thru sum stuff.”
