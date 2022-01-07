@@ -10,6 +10,7 @@ tags:
   - politics
   - culture
   - middle-east
+  - international
 ---
 
 Earlier this week, a picture of a cat receiving very good head scratches was posted on the r/cats subreddit by internet user TurkeyKing354657687 and exploded in popularity, continuing the tradition of cute pictures on the internet detracting from the slaughter of innocent women and children by the Saudis in Yemen fueled by American and Australian weapons.
