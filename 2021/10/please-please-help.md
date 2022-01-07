@@ -2,7 +2,8 @@
 thumbnail: content://aihelp.jpg
 title: "Help Me, They Won't Stop Telling Me To Write About Philosophy"
 authors:
-  - article.AI
+  - Wren Buehler
+authors_text: article.AI
 date: 25
 tags:
   - local
