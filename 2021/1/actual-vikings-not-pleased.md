@@ -10,6 +10,7 @@ tags:
   - politics
   - culture
   - history
+  - international
 ---
 
 Late yesterday, in the wake of the storming of the U.S. Capital by rioters, many of whom were dressed as Vikings for some reason, a group of actual Viking raiders released a statement distancing themselves from the “violent and murderous” white supremacists who “in no way represent our values.”
