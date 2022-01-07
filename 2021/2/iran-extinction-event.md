@@ -9,6 +9,7 @@ date: 19
 tags:
   - politics
   - middle-east
+  - international
 ---
 
 Could Iranian nuclear scientists be going the way of the dodo? Conservationists warn that the population of Iranian nuclear scientists has been decreasing at an alarming rate, possibly leading to their extinction by 2040. 
