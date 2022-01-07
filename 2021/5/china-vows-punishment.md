@@ -7,6 +7,7 @@ date: 18
 tags:
   - politics
   - tech
+  - international
 ---
 
 Weeks of stonewalling ended yesterday when, in a UN press conference, representatives from China finally caved to the demands of international governments and promised to punish the children who made the faulty rocket which, after weeks of deteriorating orbit, crashed into the Indian ocean last week.
