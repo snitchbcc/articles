@@ -1,6 +1,6 @@
 ---
-thumbnail: content://lemurskull.jpeg
-title: "Fearing A Lemur Uprising, Madagascar’s Government Bans \"Planet Of The Apes\" Franchise"
+thumbnail: content://lemurskull.jpg
+title: "Fearing A Lemur Uprising, Madagascar’s Government Bans “Planet Of The Apes” Franchise"
 authors:
   - Wren Buehler
 date: 10
