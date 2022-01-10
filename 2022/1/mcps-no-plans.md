@@ -1,6 +1,6 @@
 ---
 thumbnail: content://mcps_shrug.jpg
-title: "\"We Have No Plans To Close,\" Says School System, Having No Plans At All"
+title: "“We Have No Plans To Close,” Says School System, Having No Plans At All"
 authors:
   - Daviana Marcus
 date: 9
