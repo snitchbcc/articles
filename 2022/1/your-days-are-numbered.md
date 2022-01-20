@@ -1,8 +1,9 @@
 ---
 thumbnail: content://pizzzaaaa.jpg
 title: "Open Letter: You Have Twenty-Four Hours To Make Better Italian Food Before I Send A Hitman After You, Dave From Domino's Pizza"
+authors_text: Big Giuseppe
 authors:
-  - Big Giuseppe
+  - Wren Buehler
 date: 20
 tags:
   - local
