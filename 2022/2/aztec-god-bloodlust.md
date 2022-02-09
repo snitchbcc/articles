@@ -2,7 +2,8 @@
 thumbnail: content://Aztecbloodlust.jpg
 title: "Reawakened Aztec God's Bloodlust Temporarily Satiated By Watching Freshmen Fight"
 authors:
-  - Wren “Viper-Eater” Buehler
+  - Wren Buehler
+authors_text: Wren “Viper-Eater” Buehler
 date: 9
 tags:
   - local
