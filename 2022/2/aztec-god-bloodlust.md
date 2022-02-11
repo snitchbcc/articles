@@ -10,7 +10,7 @@ tags:
   - horror
 ---
 
-Late last night, during one of our legally mandated annual goat sacrifices, a horrifying revelation was immediately followed by a more reassuring but still upsetting one. Hanover, who happens to be *Snitch*’s Head of Aztec Studies, learned that the deity of war and sacrifice, Huitzilopochtli, had been reawakened with a craving for battle only satisfied through the observation of Freshmen getting into arguments.
+Late last night, during one of our legally mandated annual goat sacrifices, a horrifying revelation was immediately followed by a more reassuring but still upsetting one. Jenny Hanover, the *Snitch*’s Head of Aztec Studies, learned that the deity of war and sacrifice, Huitzilopochtli, had been reawakened with a craving for battle only satisfied through the observation of Freshmen getting into arguments.
 
 We sent our managing editor, Hudson Yon, deep into the depths of B-CC, far beyond where mortal men should go, where serpents and bats grow into strange, unknowable shapes, twisted in the darkness, waiting for the warm of human flesh and blood, where the slow drip of water erodes the earth a bit more each year, and where countless books for next year’s sale are kept, so that he could get the insider perspective from Huitzilopochtli himself. He was accompanied by a group of staff members deemed disposable, including two unvaccinated students, a chess club member, and eight Tattler readers, who were to be used as sacrifices to gain the god’s favor.
 
