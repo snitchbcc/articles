@@ -1,5 +1,5 @@
 ---
-thumbnail: content:// MammothCU.jpg
+thumbnail: content://MammothCU.jpg
 title: "Everyone's A Critic: Grug Say Mass-Produced Mammoth Cavepainting Universe Am Death Of An Art Form"
 authors:
   - Grug
