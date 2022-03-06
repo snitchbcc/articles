@@ -2,7 +2,7 @@
 thumbnail: content://WhaleBad.jpg
 title: "Newly Discovered Herman Melville Journal States: “Moby Dick Wasn't A Metaphor, I Just Hate Whales”"
 authors:
-  - Eli Buehler
+  - Wren Buehler
 date: 4
 tags:
   - culture
