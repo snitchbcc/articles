@@ -26,7 +26,7 @@ I expected *The Snitch* to decline in quality after I’d left, and I thought I 
 Sincerely,\
 Dale
 
-***Snitch***** Response:**
+**Snitch Response:**
 
 Hey, Dale. We love receiving fan mail from our followers, and it looks like your parents named you after our former Editor in Chief! How quaint! But just between us, we’re pretty sure Dale’s sense of humor was nonexistent, so we’re moving away from his managing style.
 
