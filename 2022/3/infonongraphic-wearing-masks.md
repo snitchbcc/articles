@@ -7,7 +7,7 @@ date: 31
 tags:
   - local
   - series
-series: Infonongraphic
+series: Infonongraphics
 ---
 
 **5: Safety or Something**\
