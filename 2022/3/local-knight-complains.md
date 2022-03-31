@@ -6,7 +6,6 @@ authors:
 date: 11
 tags:
   - religion
-  - 
 ---
 
 The Catholic Church has received harsh backlash from many of its supporters after the declaration of a Seventh Crusade earlier this week. This news comes in the wake of the failed First, Second, Third, Fourth, Fifth, and Sixth Crusades (although it should be noted that they almost won the Third). We spoke to our knight in residence, Sir Norbert Longstocking, to gauge his opinion of the situation.
