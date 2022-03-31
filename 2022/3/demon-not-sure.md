@@ -6,7 +6,6 @@ authors:
 date: 21
 tags:
   - local
-  - 
 ---
 
 A local demon was reportedly not quite sure what they are supposed to do with the new born baby they acquired in a trade for an extra hour of sleep for the parents. The demon was seen hanging around the park with the young boy, whom they had acquired in a trade for an extra hour of sleep.
@@ -20,6 +19,3 @@ The summons of a struggling Latin student forced them to fly off, but Hudson man
 As of press time, the demon has called the child Aim.
 
 *Editor's Note* Aim means “my beloved” in the Ars Goetia
- 
-
-
