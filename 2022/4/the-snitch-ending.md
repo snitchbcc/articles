@@ -1,5 +1,5 @@
 ---
-thumbnail: content://AprilFools.png
+thumbnail: content://baron.png
 title: "Thank You For Your Viewership …"
 authors:
   - The Snitch Team
