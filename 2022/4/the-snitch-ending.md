@@ -1,6 +1,6 @@
 ---
 thumbnail: content://baron.png
-title: "Thank You For Your Viewership …"
+title: "Thank You For Your Viewership"
 authors:
   - The Snitch Team
 date: 1
