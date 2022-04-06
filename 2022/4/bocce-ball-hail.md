@@ -5,6 +5,8 @@ authors:
   - Dale Bell
 date: 6
 tags:
+  - culture
+  - local
   - sports
 ---
 
