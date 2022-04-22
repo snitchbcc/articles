@@ -1,5 +1,5 @@
 ---
-thumbnail: content://manontwitter.webp
+thumbnail: content://marvelwars.jpg
 title: "Marvel Reveals They Have Next Nine Films, Five Shows, Two World Wars Already in Production"
 authors:
   - Nicholas Daum
