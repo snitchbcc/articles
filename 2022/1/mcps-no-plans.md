@@ -10,6 +10,7 @@ tags:
   - culture
   - school
   - coronavirus
+  - best-of
 ---
 
 This Friday, January 7th, MCPS relayed a new update to its students and teachers following the rapidly rising Covid cases in the school system due to the new Omicron variant. However, upon closer inspection we students quickly realized that this update was not anything new after all, but yet another instance of the school system’s favorite, oft-repeated statement as of late: “We have no plans to close.”
