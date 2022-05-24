@@ -10,6 +10,7 @@ authors_text: Grug
 date: 11
 tags:
   - series
+  - best-of
 series: Everyone’s A Critic
 ---
 
