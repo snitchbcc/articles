@@ -52,14 +52,14 @@ Having survived the managing editor position with 75% of his limbs and at least 
 **Name**: Evan Song\
 **Job Title On Resume:** Hard-Working Editor for the Snitch \
 **Actual Job Title:** Never-Working Editor for the Snitch\
-**Quote:** “Oh, you wanted ME to edit? I thought you meant some other Evan Song. That's my bad.”
+**Quote:** “Oh, you wanted ME to edit? I thought you meant some other Evan Song. That's my bad.”\
 **Circumstances Of Departure:** Evan died as he lived: not editing any articles. Some see his ghost floating around Maryland even still, as if he's bound to the state through higher education. While the circumstances behind his death remain unclear, the fact that he was seen arguing with Benjy beforehand has raised some people's suspicions. Also the fact that Benjy was seen stabbing him 14 times while shouting "Do your damn job!" Evan is survived by his parents, his sister, and his friend Benjy, who he often referred to as the "most trustworthy and least murderous individual I know."
 
 **Name:** Curran Holden\
 **Job Title on Resume:** Writer Editor\
 **Actual Job:** Law Bitch\
 **Quote:** “So let me tell you about Finland’s legal system”\
-**Circumstances of Departure:** Curran perished while participating in an all-gavel battle royale. You know what they say: live by the gavel, die by the gavel. Curran Holden has given the following legal advice in parting:\
+**Circumstances of Departure:** Curran perished while participating in an all-gavel battle royale. You know what they say: live by the gavel, die by the gavel. Curran Holden has given the following legal advice in parting:
 * Always lie under oath.
 * The very liberal courts are definitely on your side.
 * You have rights, I promise.
