@@ -28,13 +28,13 @@ Having survived the managing editor position with 75% of his limbs and at least 
 **Name:** Benjy Eichner\
 **Job Title on Resume:** Head Writer\
 **Actual Job Title:** Third Wheel, The Responsible One, Sycophant-In-Chief\
-**Quote: “**So back to *Snitch* *TV*”\
+**Quote:** “So back to *Snitch* *TV*”\
 **Circumstances of Departure:** After dragging the rest of *The Snitch* on another harebrained adventure to try and get content for *Snitch* *TV*, the rest of the group was finally able to ditch him somewhere in the middle of Ohio.
 
 **Name:** Hudson Yon\
 **Job Title on Resume:** Managing Editor\
 **Actual Job Title:** The Editing Team, Designated Sacrifice to Satan\
-**Quote: “**I’m about to tear your article to smithereens!”\
+**Quote:** “I’m about to tear your article to smithereens!”\
 **Circumstances of Departure:** It turns out *Snitch* managing editors lose their immortality upon giving up the position. Regrettably, former Managing Editor Hudson Yon did not get the memo that he had been replaced and so promptly fell into an active volcano while reporting for some inane article for *The Snitch*. He did not return.
 
 **Name:** Abby Kurtz\
@@ -46,7 +46,7 @@ Having survived the managing editor position with 75% of his limbs and at least 
 **Name:** Laurel Kane\
 **Job Title on Resume:** Writer\
 **Actual Job Title:** Only Wrote One Article, But Damn Was It Good\
-**Quote: “**I should make that an article…”\
+**Quote:** “I should make that an article…”\
 **Circumstances of Departure:** Drafted as the protagonist in a tragic play
 
 **Name**: Evan Song\
@@ -56,22 +56,21 @@ Having survived the managing editor position with 75% of his limbs and at least 
 **Circumstances Of Departure:** Evan died as he lived: not editing any articles. Some see his ghost floating around Maryland even still, as if he's bound to the state through higher education. While the circumstances behind his death remain unclear, the fact that he was seen arguing with Benjy beforehand has raised some people's suspicions. Also the fact that Benjy was seen stabbing him 14 times while shouting "Do your damn job!" Evan is survived by his parents, his sister, and his friend Benjy, who he often referred to as the "most trustworthy and least murderous individual I know."
 
 **Name:** Curran Holden\
-**Job Title on** **Resume:** Writer Editor\
+**Job Title on Resume:** Writer Editor\
 **Actual Job:** Law Bitch\
 **Quote:** “So let me tell you about Finland’s legal system”\
-**Circumstances of Departure:**\
-Curran perished while participating in an all-gavel battle royale. You know what they say: live by the gavel, die by the gavel.\
-Curran Holden has given the following legal advice in parting: \
-Always lie under oath.\
-The very liberal courts are definitely on your side.\
-You have rights, I promise.\
+**Circumstances of Departure:** Curran perished while participating in an all-gavel battle royale. You know what they say: live by the gavel, die by the gavel. Curran Holden has given the following legal advice in parting:\
+* Always lie under oath.
+* The very liberal courts are definitely on your side.
+* You have rights, I promise.
+
 She is now off to the underworld of law school so she can fail law school. A g a i n.
 
 **Name:** Natalie Weng\
 **Job Title on Resume:** Snitch Artist\
 **Actual Job:** Drawer\
-**Quote:** “Am I allowed to curse?”
-**Circumstances of Departure****:** Natalie was born on orthodox Jesus’ birthday in 2004. Like Jesus himself, she was our savior here at *The Snitch*. Also like the yassified child of a chick who lied about her virginity for clout, Natalie left us too soon. What sets Natalie apart from the rest of our graduating seniors is that she left before graduation, going missing mid-senior year as she pursued boyfriend after boyfriend faster than James Charles moves through teenage boys. A drawer at *The Snitch*, her art will always hold a place on our website because we forgot how to delete articles. Senior artist no-mo, RIP Natalie Weng. 2004-2021
+**Quote:** “Am I allowed to curse?”\
+**Circumstances of Departure:** Natalie was born on orthodox Jesus’ birthday in 2004. Like Jesus himself, she was our savior here at *The Snitch*. Also like the yassified child of a chick who lied about her virginity for clout, Natalie left us too soon. What sets Natalie apart from the rest of our graduating seniors is that she left before graduation, going missing mid-senior year as she pursued boyfriend after boyfriend faster than James Charles moves through teenage boys. A drawer at *The Snitch*, her art will always hold a place on our website because we forgot how to delete articles. Senior artist no-mo, RIP Natalie Weng. 2004-2021
 
 **Name:** Casey Enright\
 **Job Title on Resume:** Writer/Editor\
