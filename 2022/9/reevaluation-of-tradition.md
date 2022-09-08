@@ -1,5 +1,5 @@
 ---
-thumbnail: content://guards.jpeg
+thumbnail: content://guards.jpg
 title: "Post-Elizabethan Britain: What’s the Deal?"
 authors:
   - Wren Buehler
