@@ -2,7 +2,7 @@
 thumbnail: content://somalabama.jpg
 title: "State Of Mind: Alabama"
 authors:
-  - Wren Buehler
+  - State of Mind Team
 date: 16
 tags:
   - series
