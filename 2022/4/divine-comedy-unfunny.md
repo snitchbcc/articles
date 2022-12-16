@@ -7,7 +7,6 @@ date: 25
 tags:
   - culture
   - history
-  - species
 series: Everyone’s a Critic
 ---
 
