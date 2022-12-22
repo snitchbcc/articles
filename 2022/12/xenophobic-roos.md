@@ -1,5 +1,5 @@
 ---
-thumbnail: content://angeroo.jpeg
+thumbnail: content://angeroo.jpg
 title: "Australian Ban On Importing Animals Found To Be Result Of Lobbying From Group Of Xenophobic Kangaroos "
 authors:
   - G’Dale
