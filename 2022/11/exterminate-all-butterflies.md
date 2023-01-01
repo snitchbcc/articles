@@ -2,7 +2,7 @@
 thumbnail: content://butterfly.webp
 title: "Scientists Worried About Time Travel Announce Plans To Exterminate All Butterflies"
 authors:
-  - Dale Bell
+  - DB Cooper
 date: 18
 tags:
   - science
