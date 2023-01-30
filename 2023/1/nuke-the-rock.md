@@ -1,8 +1,8 @@
 ---
-thumbnail: content://nuke.jpeg
+thumbnail: content://nuke.jpg
 title: "Opinion: We Should Nuke The Rock"
 authors:
-  - Nichoas Daum
+  - Nicholas Daum
 date: 30
 tags:
   - local
