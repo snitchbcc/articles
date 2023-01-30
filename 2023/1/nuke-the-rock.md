@@ -2,7 +2,7 @@
 thumbnail: content://nuke.jpg
 title: "Opinion: We Should Nuke The Rock"
 authors:
-  - Snitch Team
+  - Nicholas Daum
 date: 30
 tags:
   - local
