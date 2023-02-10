@@ -1,5 +1,5 @@
 ---
-thumbnail: content://indiana.jpeg
+thumbnail: content://indiana.jpg
 title: "State Of Mind: Indiana"
 authors:
   - State of Mind Team
