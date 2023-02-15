@@ -1,5 +1,5 @@
 ---
-thumbnail: content://trial-by-fire.jpeg
+thumbnail: content://trial-by-fire.jpg
 title: "Ivy League Admissions Reveal New Supplemental Essays, DNA Sample, Trial By Fire"
 authors:
   - Nicholas Daum
