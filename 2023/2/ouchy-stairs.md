@@ -1,8 +1,8 @@
 ---
 thumbnail: content://down-stairs.jpg
-title: ""
+title: "It Is Fun To Write Articles While Walking Down The Stairs-- AHHHHHHH! I AM FALLING!"
 authors:
-  - It Is Fun To Write Articles While Walking Down The Stairs-- AHHHHHHH! I AM FALLING!
+  - Wren Buehler
 date: 21
 tags:
   - local
