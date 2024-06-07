@@ -1,5 +1,40 @@
 [
 	{
+		"name": "Wren Buehler",
+		"tagline": "Editor in Chief?",
+		"description": "Remember, kids— you don’t have to be skilled to head a club. You just need to outlast everyone better than you."
+	},
+	{
+		"name": "Tali Goelman",
+		"tagline": "Managing Editor",
+		"description": "“There is no subject as juxtaposed between art and history as philosophy. On one hand, it is in touch with the exact science of historical context, and on the other, it is a subjective artistic interpretation of the way of living.” - Map R Test"
+	},
+	{
+		"name": "Nicholas Daum",
+		"tagline": "Head Writer",
+		"description": "What they don’t know is that I’m using a vast sweatshop of monkeys to write all my articles. One day they’ll finish one."
+	},
+	{
+		"name": "Daviana Marcus",
+		"tagline": "Writer, Editor",
+		"description": "Writer of lanky articles."
+	},
+	{
+		"name": "Liv Dentoni",
+		"tagline": "Outreach",
+		"description": "We are decidedly <i>not</i> all in this together."
+	},
+	{
+		"name": "Bruno Chong",
+		"tagline": "Writer, IT",
+		"description": "<i>This bio has been redacted by The Administration for clarity.</i>"
+	},
+	{
+		"name": "Sanjana Surendran",
+		"tagline": "Artist?",
+		"description": "You’ll either catch me sleeping or meticulously planning my path to world domination. Be afraid."
+	},
+	{
 		"name": "Auguste Rame",
 		"tagline": "Co-Editor in Chief, Website Destroyer, Writer",
 		"description": "Master of the midnight Snitch productivity hour, chronic procrastinator."
@@ -44,7 +79,6 @@
 		"tagline": "Writer",
 		"description": "An Auguste-acclaimed journalist who is definitely not Auguste."
 	},
-	
 	{
 		"name": "Dale Bell",
 		"tagline": "Writer, Editor in Chief, Benevolent Tyrant, and The Ultimate IB Learner",
@@ -59,6 +93,21 @@
 		"name": "Sebastián Valderrama",
 		"tagline": "Baron Artist",
 		"description": "fdhbgaIjkf lskZJDngph tfwajknxzkc vbkzjsfhekjsdh fjkohfkjn hfjnpudfled kjhno,cvbnmbvc."
+	},
+	{
+		"name": "Grug",
+		"tagline": "Art Critic",
+		"description": "Grug am learned. Grug am have bachelor’s degree in art history from Cavern University. Do not make harmful assumption about Grug."
+	},
+	{
+		"name": "Dr. Reese Sessions",
+		"tagline": "Snitch Chief Economics Contributor",
+		"description": "Dr. Reese Sessions is the Chief Economics Contributor to The Snitch. He has a PHD from the London School Of Economics and is critically acclaimed for his landmark paper on 'Eating The Irish As A Solution To World Hunger.'"
+	},
+	{
+		"name": "Jake Krillen",
+		"tagline": "Snitch Sports Head",
+		"description": "Bro, I'm only here in case a football scholarship can't cut it."
 	},
 	{
 		"name": "Frank Washington",
