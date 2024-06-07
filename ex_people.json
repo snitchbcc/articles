@@ -75,11 +75,6 @@
 		"description": "Can both doodle pictures and hold common household items. You decide."
 	},
 	{
-		"name": "Chase Eastwood",
-		"tagline": "Writer",
-		"description": "An Auguste-acclaimed journalist who is definitely not Auguste."
-	},
-	{
 		"name": "Dale Bell",
 		"tagline": "Writer, Editor in Chief, Benevolent Tyrant, and The Ultimate IB Learner",
 		"description": "Dale Bell is a determined journalist with only one goal, which he pursues tirelessly: getting the website trending. And also the truth or whatever."
@@ -118,5 +113,10 @@
 		"name": "Dr. Verman Politiczuck",
 		"tagline": "Political and Historical Contributor, Eaten By Sharks",
 		"description": "I had a PhD in political-historical studies from Diploma-Mills Online University. Also, Dale hated my name for some reason so he instructed to have sharks eat me. Unfortunate."
+	},
+	{
+		"name": "Chase Eastwood",
+		"tagline": "Writer",
+		"description": "A self-acclaimed journalist."
 	}
 ]
